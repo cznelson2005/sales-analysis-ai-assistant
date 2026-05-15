@@ -6,7 +6,7 @@ detects anomalies, and generates executive insights using a multi-agent LLM pipe
 ---
 
 ## 🏗️ Architecture
-
+```
 User selects market + time range
         ↓
 Orchestrator — executes SQL queries on sales data
@@ -18,7 +18,7 @@ Anomaly Detector — scans for irregularities across MRR, churn, CAC
 Deep Dive Agent — drills down into flagged markets to identify drivers
         ↓
 Summary Agent — produces executive summary + prioritized recommendations
-
+```
 ---
 
 ## 📁 Project Structure
@@ -41,6 +41,7 @@ sales-ai-assistant/
     ├── orchestrator.py          # Data fetching layer (DuckDB SQL)
     └── agents.py                # LLM agent functions
 ```
+*Note on results dataset: For demo purposes results are pre-computed. In production this would call the API live with any user-selected date range
 ---
 
 ## 🤖 Agent Design
