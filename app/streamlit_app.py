@@ -214,27 +214,45 @@ with tab1:
     
     import re
     
-    # Parse overview into sections
-    sections = re.split(r'─+', overview)
+    # 1. Define the exact headers we expect from the AI
+    headers = [
+        "Overall Performance", 
+        "Key Highlights", 
+        "Revenue Mix", 
+        "Customer Churn & Retention", 
+        "Acquisition Efficiency", 
+        "Watch Out"
+    ]
+    
+    # 2. Create a regex pattern that looks for these headers at the start of a line
+    # Use a non-capturing group (?:...) so the headers themselves aren't returned as separate list items
+    pattern = r'\n(?=(?:' + '|'.join(headers) + r'):)'
+    
+    # 3. Split the overview text
+    sections = re.split(pattern, overview)
     
     for section in sections:
         section = section.strip()
         if not section:
             continue
         
-        # Split header from content
+        # Split header from content (split at the first colon)
         if ':' in section:
             header, content = section.split(':', 1)
             header = header.strip()
             content = content.strip()
-            if header:
+            
+            # Check if the header we found is actually one of our expected categories
+            if header in headers:
                 st.subheader(header)
-            if content:
                 st.markdown(content)
+            else:
+                # If it's a random sentence or the intro text, just show it as markdown
+                st.markdown(section)
         else:
             st.markdown(section)
         
-        st.markdown("")  # spacing between sections
+        st.markdown("")  # Spacing
 
 # ══════════════════════════════════════════════════════════════════════════════
 # TAB 2 — ANOMALIES
