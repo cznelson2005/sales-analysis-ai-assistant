@@ -235,7 +235,7 @@ with tab2:
                 .sum().reset_index().sort_values('month')
             )
             fig3 = px.bar(
-                month, x='churn_month', y='customers_lost',
+                churn_by_month, x='churn_month', y='customers_lost',
                 labels={'customers_lost': 'Churned Customers', 'churn_month': ''},
                 color_discrete_sequence=['#ef4444']
             )
