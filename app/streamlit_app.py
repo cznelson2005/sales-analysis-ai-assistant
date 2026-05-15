@@ -112,7 +112,7 @@ except FileNotFoundError:
     st.error(f"Result file for {selected_market} not found. Please run the pipeline first.")
     st.stop()
 
-overview   = data.get('overview', '')
+overview   = data.get('overview', {})
 anomaly    = data.get('anomaly', {})
 deep_dive  = data.get('deep_dive', {})
 summary    = data.get('summary', '')
@@ -211,48 +211,18 @@ with tab1:
 
     # ── Overview commentary ────────────────────────────────────────────────────
     st.subheader("🤖 AI Analysis")
-    
-    import re
-    
-    # 1. Define the exact headers we expect from the AI
-    headers = [
-        "Overall Performance", 
-        "Key Highlights", 
-        "Revenue Mix", 
-        "Customer Churn & Retention", 
-        "Acquisition Efficiency", 
-        "Watch Out"
-    ]
-    
-    # 2. Create a regex pattern that looks for these headers at the start of a line
-    # Use a non-capturing group (?:...) so the headers themselves aren't returned as separate list items
-    pattern = r'\n(?=(?:' + '|'.join(headers) + r'):)'
-    
-    # 3. Split the overview text
-    sections = re.split(pattern, overview)
-    
-    for section in sections:
-        section = section.strip()
-        if not section:
-            continue
         
-        # Split header from content (split at the first colon)
-        if ':' in section:
-            header, content = section.split(':', 1)
-            header = header.strip()
-            content = content.strip()
-            
-            # Check if the header we found is actually one of our expected categories
-            if header in headers:
-                st.subheader(header)
-                st.markdown(content)
-            else:
-                # If it's a random sentence or the intro text, just show it as markdown
-                st.markdown(section)
-        else:
-            st.markdown(section)
-        
-        st.markdown("")  # Spacing
+    if isinstance(overview, dict) and overview:
+        for header, content in overview.items():
+            # 自動根據 JSON 的 Key 產生標題，Value 產生內容
+            st.subheader(header)
+            st.markdown(content)
+            st.markdown("") 
+    elif isinstance(overview, str) and overview:
+        # 為了相容舊資料，如果是字串就直接顯示
+        st.markdown(overview)
+    else:
+        st.info("No analysis overview available.")
 
 # ══════════════════════════════════════════════════════════════════════════════
 # TAB 2 — ANOMALIES
