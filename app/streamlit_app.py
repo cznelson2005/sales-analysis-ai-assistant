@@ -37,10 +37,12 @@ st.markdown("""
         padding: 16px;
         border-left: 4px solid #f97316;
         margin-bottom: 12px;
+        color: #1e293b;
     }
     .anomaly-high {
         border-left: 4px solid #ef4444;
         background: #fef2f2;
+        color: #1e293b;
     }
     .section-divider {
         border-top: 1px solid #e2e8f0;
@@ -52,6 +54,7 @@ st.markdown("""
         padding: 12px 16px;
         margin-bottom: 8px;
         border-left: 3px solid #0ea5e9;
+        color: #1e293b;
     }
 </style>
 """, unsafe_allow_html=True)
