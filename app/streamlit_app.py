@@ -59,6 +59,7 @@ st.markdown("""
 # ── Load results ───────────────────────────────────────────────────────────────
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RESULTS_DIR = os.path.join(BASE_DIR, "results")
+st.write(os.listdir(RESULTS_DIR))
 
 st.write(RESULTS_DIR)
 st.write(os.listdir(RESULTS_DIR) if os.path.exists(RESULTS_DIR) else "folder not found")
