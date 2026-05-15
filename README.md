@@ -3,6 +3,9 @@
 An AI-powered sales analytics dashboard that automatically analyzes MRR trends, 
 detects anomalies, and generates executive insights using a multi-agent LLM pipeline.
 
+## 🔗 Live Demo
+👉 [View Dashboard](https://customer-support-llm-agent-fklfbpgjecnfp8mlbbhych.streamlit.app/)
+
 ---
 
 ## 🏗️ Architecture
