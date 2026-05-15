@@ -231,11 +231,11 @@ with tab2:
             st.markdown("---")
             st.subheader("Churn Trend")
             churn_by_month = (
-                churn_df.groupby('churn_month')['customers_lost']
-                .sum().reset_index().sort_values('churn_month')
+                churn_df.groupby('month')['customers_lost']
+                .sum().reset_index().sort_values('month')
             )
             fig3 = px.bar(
-                churn_by_month, x='churn_month', y='customers_lost',
+                month, x='churn_month', y='customers_lost',
                 labels={'customers_lost': 'Churned Customers', 'churn_month': ''},
                 color_discrete_sequence=['#ef4444']
             )
