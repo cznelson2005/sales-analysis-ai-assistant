@@ -22,7 +22,7 @@ Summary Agent — produces executive summary + prioritized recommendations
 ---
 
 ## 📁 Project Structure
-
+```
 sales-ai-assistant/
 ├── data/                        # Simulated SaaS dataset
 │   ├── customers.csv            # 2,000 customer records (2022–2024)
@@ -40,7 +40,7 @@ sales-ai-assistant/
     ├── streamlit_app.py         # Dashboard UI
     ├── orchestrator.py          # Data fetching layer (DuckDB SQL)
     └── agents.py                # LLM agent functions
-
+```
 ---
 
 ## 🤖 Agent Design
