@@ -314,4 +314,25 @@ with tab3:
 with tab4:
     st.subheader("📝 Executive Summary")
     st.markdown("---")
-    st.markdown(summary)
+    #st.markdown(summary)
+
+    sections = re.split(r'─+', summary)
+    
+    for section in sections:
+        section = section.strip()
+        if not section:
+            continue
+        
+        # Split header from content
+        if ':' in section:
+            header, content = section.split(':', 1)
+            header = header.strip()
+            content = content.strip()
+            if header:
+                st.subheader(header)
+            if content:
+                st.markdown(content)
+        else:
+            st.markdown(section)
+        
+        st.markdown("")  # spacing between sections
