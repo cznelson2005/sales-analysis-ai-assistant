@@ -117,7 +117,7 @@ tab1, tab2, tab3, tab4 = st.tabs(["📊 Overview", "🔍 Anomalies", "🔬 Deep 
 with tab1:
 
     # ── Headline metrics ───────────────────────────────────────────────────────
-    metrics = context.get('headline_metrics', {})
+    metrics = data.get('headline_metrics', {})
 
     col1, col2, col3, col4, col5 = st.columns(5)
 
