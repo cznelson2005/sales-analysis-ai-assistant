@@ -60,6 +60,9 @@ st.markdown("""
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RESULTS_DIR = os.path.join(BASE_DIR, "results")
 
+st.write(RESULTS_DIR)
+st.write(os.listdir(RESULTS_DIR) if os.path.exists(RESULTS_DIR) else "folder not found")
+
 @st.cache_data
 def load_result(market: str) -> dict:
     path = os.path.join(RESULTS_DIR, f"{market}_2022_2024.json")
