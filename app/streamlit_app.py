@@ -56,6 +56,22 @@ st.markdown("""
         border-left: 3px solid #0ea5e9;
         color: #1e293b;
     }
+    .root-cause-box {
+        background-color: #f5f3ff;
+        border-left: 5px solid #8b5cf6;
+        padding: 15px;
+        border-radius: 5px;
+        color: #1e293b;
+        margin-bottom: 10px;
+    }
+    .action-box {
+        background-color: #f0fdf4;
+        border-left: 5px solid #22c55e;
+        padding: 15px;
+        border-radius: 5px;
+        color: #1e293b;
+        margin-bottom: 10px;
+    }
 </style>
 """, unsafe_allow_html=True)
 
@@ -303,10 +319,18 @@ with tab3:
             col_rc, col_ra = st.columns(2)
             with col_rc:
                 st.markdown("**Root Cause**")
-                st.info(result.get('root_cause', ''))
+                st.markdown(f"""
+                        <div class="root-cause-box">
+                            {result.get('root_cause', '')}
+                        </div>
+                    """, unsafe_allow_html=True)
             with col_ra:
                 st.markdown("**Recommended Action**")
-                st.success(result.get('recommended_action', ''))
+                st.markdown(f"""
+                        <div class="action-box">
+                            {result.get('recommended_action', '')}
+                        </div>
+                    """, unsafe_allow_html=True)
 
             if len(deep_dive) > 1:
                 st.markdown("---")
