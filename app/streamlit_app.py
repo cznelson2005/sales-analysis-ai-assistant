@@ -194,12 +194,28 @@ with tab1:
     st.subheader("🤖 AI Analysis")
     
     import re
-    formatted = overview
-    for section in ["Overall Performance", "Key Highlights", "Revenue Mix",
-                    "Customer Churn", "Customer Acquisition Cost", "Watch Out"]:
-        formatted = formatted.replace(f"────────────────────────────────────────────────────\n{section}:", f"\n**{section}:**")
-    formatted = re.sub(r'─+', '', formatted)
-    st.markdown(formatted)
+    
+    # Parse overview into sections
+    sections = re.split(r'─+', overview)
+    
+    for section in sections:
+        section = section.strip()
+        if not section:
+            continue
+        
+        # Split header from content
+        if ':' in section:
+            header, content = section.split(':', 1)
+            header = header.strip()
+            content = content.strip()
+            if header:
+                st.subheader(header)
+            if content:
+                st.markdown(content)
+        else:
+            st.markdown(section)
+        
+        st.markdown("")  # spacing between sections
 
 # ══════════════════════════════════════════════════════════════════════════════
 # TAB 2 — ANOMALIES
