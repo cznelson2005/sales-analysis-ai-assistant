@@ -1,0 +1,2001 @@
+customer_id,signup_date,market,segment,plan,acquisition_channel,is_foreign_founder,headcount,cac,churned,churn_date,ltv
+SLEEK-0001,2023-04-03,HK,Startup,Starter,Organic,False,6,75.69,False,,2258.43
+SLEEK-0002,2022-01-18,SG,Startup,Starter,Organic,False,3,84.8,False,,3356.15
+SLEEK-0003,2023-02-11,SG,Startup,Starter,Partner,False,2,132.92,True,2024-01,1537.63
+SLEEK-0004,2023-12-15,SG,Startup,Starter,Partner,False,6,178.39,False,,1652.99
+SLEEK-0005,2022-01-02,SG,SME,Growth,Partner,False,22,166.38,True,2023-03,11979.12
+SLEEK-0006,2024-01-18,AU,Startup,Starter,Paid,False,7,358.0,False,,1925.69
+SLEEK-0007,2022-11-23,UK,SME,Growth,Referral,True,25,80.81,False,,22272.94
+SLEEK-0008,2024-05-02,UK,SME,Growth,Paid,True,10,575.81,False,,7456.68
+SLEEK-0009,2023-10-07,AU,Startup,Starter,Organic,False,7,99.97,False,,2141.31
+SLEEK-0010,2023-06-23,HK,Startup,Growth,Organic,False,4,87.42,True,2024-01,3157.2
+SLEEK-0011,2022-01-05,SG,Corporate,Full Compliance,Partner,False,48,167.52,False,,59217.66
+SLEEK-0012,2022-01-22,SG,SME,Growth,Referral,False,25,64.36,False,,31736.63
+SLEEK-0013,2022-11-20,AU,Startup,Starter,Organic,False,4,118.15,True,2024-01,2194.02
+SLEEK-0014,2022-09-17,UK,SME,Full Compliance,Paid,True,20,478.08,False,,26045.08
+SLEEK-0015,2023-01-20,SG,SME,Growth,Referral,False,27,48.47,False,,29593.98
+SLEEK-0016,2022-02-25,SG,Startup,Starter,Referral,False,6,51.02,True,2022-10,1291.64
+SLEEK-0017,2024-12-23,SG,Startup,Starter,Referral,False,7,55.48,False,,740.75
+SLEEK-0018,2022-01-19,SG,SME,Growth,Referral,True,11,62.12,False,,19336.75
+SLEEK-0019,2022-03-16,SG,Corporate,Growth,Partner,False,113,127.94,True,2024-07,88420.9
+SLEEK-0020,2024-04-13,HK,Startup,Starter,Paid,False,5,293.57,False,,1420.67
+SLEEK-0021,2023-01-13,SG,SME,Growth,Organic,True,20,89.62,True,2023-03,4407.07
+SLEEK-0022,2022-01-15,SG,Startup,Growth,Paid,True,7,365.56,True,2024-04,12702.49
+SLEEK-0023,2024-07-11,UK,SME,Full Compliance,Partner,True,21,173.3,False,,7162.55
+SLEEK-0024,2022-01-05,AU,Corporate,Full Compliance,Organic,False,98,90.61,True,2024-10,116414.36
+SLEEK-0025,2023-08-05,SG,SME,Starter,Partner,True,11,133.06,False,,3368.21
+SLEEK-0026,2024-10-26,AU,Startup,Full Compliance,Paid,True,6,384.73,False,,4631.17
+SLEEK-0027,2023-01-19,SG,Startup,Starter,Referral,False,5,62.27,True,2024-02,1710.32
+SLEEK-0028,2023-06-19,HK,SME,Starter,Paid,True,33,380.27,True,2023-07,2522.03
+SLEEK-0029,2024-01-15,SG,SME,Growth,Referral,True,21,61.51,False,,12131.83
+SLEEK-0030,2022-05-21,HK,Startup,Growth,Paid,True,8,331.73,False,,15448.52
+SLEEK-0031,2024-12-19,HK,Startup,Starter,Partner,False,7,180.29,False,,871.65
+SLEEK-0032,2024-03-09,SG,SME,Starter,Paid,False,24,282.96,False,,3463.72
+SLEEK-0033,2022-04-15,HK,Startup,Starter,Partner,False,2,155.11,True,2022-11,1390.2
+SLEEK-0034,2022-12-14,SG,Startup,Growth,Partner,False,7,126.71,False,,10051.08
+SLEEK-0035,2024-01-18,UK,Startup,Growth,Referral,True,4,87.47,True,2024-01,2217.16
+SLEEK-0036,2024-01-03,AU,SME,Starter,Partner,True,34,152.97,False,,5021.52
+SLEEK-0037,2023-01-29,UK,SME,Full Compliance,Partner,False,34,238.1,False,,29555.63
+SLEEK-0038,2024-12-26,SG,SME,Starter,Paid,False,32,276.38,False,,745.65
+SLEEK-0039,2024-07-31,AU,SME,Growth,Organic,False,22,112.82,False,,6121.47
+SLEEK-0040,2024-05-12,SG,Startup,Growth,Paid,False,6,307.16,False,,3444.79
+SLEEK-0041,2022-05-02,SG,Startup,Starter,Partner,False,4,146.07,False,,6638.04
+SLEEK-0042,2024-01-23,SG,Corporate,Growth,Organic,False,127,80.64,False,,40837.55
+SLEEK-0043,2024-01-16,AU,SME,Growth,Referral,False,28,88.47,False,,13525.87
+SLEEK-0044,2024-11-04,HK,Startup,Starter,Partner,False,4,154.14,False,,968.84
+SLEEK-0045,2024-02-16,HK,Startup,Growth,Referral,False,4,81.28,False,,4046.78
+SLEEK-0046,2022-10-21,SG,SME,Growth,Paid,False,40,312.55,True,2022-12,4257.98
+SLEEK-0047,2022-12-14,HK,Corporate,Full Compliance,Partner,False,119,146.16,False,,93105.11
+SLEEK-0048,2023-01-05,SG,SME,Starter,Partner,False,12,134.69,False,,3471.28
+SLEEK-0049,2024-02-26,HK,SME,Growth,Referral,False,8,62.83,False,,5350.69
+SLEEK-0050,2024-05-20,AU,SME,Starter,Partner,False,37,190.68,False,,8186.3
+SLEEK-0051,2023-11-17,SG,Startup,Full Compliance,Partner,False,5,155.73,True,2024-10,7192.19
+SLEEK-0052,2024-07-02,HK,SME,Full Compliance,Referral,False,24,76.82,False,,7207.36
+SLEEK-0053,2024-12-03,AU,SME,Growth,Organic,False,26,89.57,False,,1968.64
+SLEEK-0054,2022-02-23,SG,Startup,Starter,Partner,False,4,132.84,False,,5205.23
+SLEEK-0055,2024-05-10,HK,Startup,Starter,Organic,False,2,99.71,False,,1395.07
+SLEEK-0056,2022-01-13,AU,SME,Full Compliance,Paid,False,34,349.39,False,,53978.96
+SLEEK-0057,2023-03-28,HK,SME,Growth,Partner,False,32,145.47,False,,25263.67
+SLEEK-0058,2022-03-20,SG,SME,Growth,Referral,False,9,69.77,True,2024-08,14347.49
+SLEEK-0059,2022-02-07,SG,Startup,Starter,Partner,False,4,140.25,True,2022-05,921.71
+SLEEK-0060,2022-06-17,AU,SME,Growth,Organic,True,30,109.96,False,,37762.34
+SLEEK-0061,2022-01-07,SG,Startup,Growth,Partner,True,5,157.28,True,2022-03,3127.93
+SLEEK-0062,2023-06-09,HK,SME,Growth,Organic,False,15,78.04,False,,14358.04
+SLEEK-0063,2022-02-22,AU,Startup,Full Compliance,Organic,False,5,103.03,False,,22255.01
+SLEEK-0064,2023-02-23,SG,SME,Growth,Organic,False,15,91.21,False,,13954.16
+SLEEK-0065,2024-12-27,AU,SME,Growth,Organic,False,29,94.82,False,,1990.54
+SLEEK-0066,2022-08-23,SG,Startup,Starter,Paid,False,7,278.55,False,,2848.83
+SLEEK-0067,2023-12-19,SG,SME,Starter,Referral,False,13,68.44,False,,3146.81
+SLEEK-0068,2023-06-01,SG,Startup,Starter,Referral,False,4,55.8,False,,2700.6
+SLEEK-0069,2023-07-20,AU,Startup,Growth,Partner,True,3,171.13,False,,8396.8
+SLEEK-0070,2024-09-02,AU,Startup,Growth,Referral,False,2,74.72,False,,2000.17
+SLEEK-0071,2023-09-17,SG,Startup,Starter,Organic,False,4,95.89,False,,1850.26
+SLEEK-0072,2022-09-05,AU,Startup,Growth,Organic,False,8,92.62,False,,13750.11
+SLEEK-0073,2023-07-21,HK,Startup,Growth,Referral,False,4,83.34,True,2023-12,2613.75
+SLEEK-0074,2023-06-05,UK,SME,Starter,Paid,True,25,418.94,False,,3313.3
+SLEEK-0075,2024-08-04,SG,Startup,Growth,Organic,False,5,82.37,False,,2301.06
+SLEEK-0076,2024-01-13,SG,Corporate,Full Compliance,Referral,False,59,61.85,False,,23324.3
+SLEEK-0077,2024-02-20,SG,SME,Growth,Paid,False,32,335.16,True,2024-06,5575.99
+SLEEK-0078,2024-05-28,HK,Startup,Starter,Partner,False,7,167.75,False,,1324.73
+SLEEK-0079,2022-01-06,SG,SME,Growth,Partner,False,38,129.39,False,,47271.22
+SLEEK-0080,2023-11-08,SG,Startup,Full Compliance,Referral,False,7,66.91,False,,8910.88
+SLEEK-0081,2023-04-06,AU,Startup,Growth,Organic,False,2,116.34,False,,6731.98
+SLEEK-0082,2024-08-04,SG,SME,Growth,Referral,False,25,55.3,False,,4794.47
+SLEEK-0083,2022-03-23,HK,Startup,Growth,Organic,False,2,98.44,True,2023-11,5885.82
+SLEEK-0084,2023-11-27,SG,Corporate,Growth,Partner,False,100,122.41,False,,39444.86
+SLEEK-0085,2024-06-11,HK,Startup,Growth,Organic,True,4,89.7,False,,4592.67
+SLEEK-0086,2022-08-10,SG,Startup,Growth,Organic,False,2,76.81,True,2024-02,5740.19
+SLEEK-0087,2024-04-07,HK,Startup,Growth,Paid,True,8,395.49,True,2024-07,4068.03
+SLEEK-0088,2024-01-11,HK,Startup,Growth,Organic,False,2,89.95,False,,3711.83
+SLEEK-0089,2022-02-01,SG,Startup,Full Compliance,Partner,True,3,156.53,False,,19580.54
+SLEEK-0090,2022-02-15,SG,Startup,Full Compliance,Paid,True,7,338.91,True,2024-11,22549.64
+SLEEK-0091,2023-08-18,SG,SME,Starter,Referral,False,16,52.57,True,2023-12,993.18
+SLEEK-0092,2024-04-29,AU,Startup,Starter,Referral,False,2,83.63,False,,1664.02
+SLEEK-0093,2024-03-15,SG,Startup,Starter,Referral,False,6,56.28,False,,1421.02
+SLEEK-0094,2024-02-08,SG,Corporate,Full Compliance,Partner,True,100,144.65,False,,34172.17
+SLEEK-0095,2022-11-08,AU,SME,Growth,Paid,False,29,309.63,False,,29334.93
+SLEEK-0096,2024-12-13,AU,SME,Full Compliance,Paid,True,17,306.33,False,,3774.81
+SLEEK-0097,2023-02-28,SG,SME,Growth,Paid,False,28,342.32,True,2023-08,6923.15
+SLEEK-0098,2022-03-15,HK,SME,Growth,Referral,False,26,62.57,True,2023-08,17228.59
+SLEEK-0099,2022-09-09,UK,SME,Growth,Paid,True,18,562.41,True,2022-11,3776.17
+SLEEK-0100,2022-04-25,HK,Corporate,Growth,Organic,True,107,85.49,True,2023-09,59840.68
+SLEEK-0101,2022-07-20,SG,SME,Growth,Organic,False,22,79.93,False,,25805.89
+SLEEK-0102,2022-01-20,HK,Startup,Growth,Organic,False,6,88.75,True,2023-08,7887.97
+SLEEK-0103,2023-07-23,SG,Startup,Starter,Paid,True,5,528.09,True,2024-05,3124.35
+SLEEK-0104,2024-01-06,AU,Startup,Growth,Paid,False,8,454.89,False,,6385.05
+SLEEK-0105,2022-04-11,HK,Startup,Full Compliance,Referral,False,4,76.86,True,2023-12,11341.71
+SLEEK-0106,2023-03-25,AU,Startup,Growth,Referral,False,7,78.63,True,2024-09,9088.34
+SLEEK-0107,2022-07-18,AU,SME,Full Compliance,Organic,False,36,105.85,True,2022-08,3988.96
+SLEEK-0108,2024-07-06,SG,Startup,Starter,Organic,False,4,89.17,False,,1078.85
+SLEEK-0109,2023-06-11,HK,Corporate,Full Compliance,Partner,False,77,188.43,False,,48709.51
+SLEEK-0110,2022-06-04,AU,Startup,Starter,Organic,False,7,118.66,False,,3584.05
+SLEEK-0111,2024-01-20,HK,Startup,Starter,Partner,False,2,153.25,False,,1676.28
+SLEEK-0112,2024-02-20,HK,SME,Full Compliance,Partner,True,22,188.18,False,,13582.41
+SLEEK-0113,2023-11-03,HK,SME,Full Compliance,Partner,True,37,142.17,False,,22527.65
+SLEEK-0114,2022-10-22,UK,Startup,Starter,Paid,False,2,423.74,False,,2445.52
+SLEEK-0115,2023-12-23,SG,SME,Full Compliance,Organic,False,17,77.41,True,2023-12,1489.67
+SLEEK-0116,2024-04-15,AU,SME,Full Compliance,Partner,False,21,155.02,False,,10819.09
+SLEEK-0117,2022-09-21,SG,Corporate,Growth,Partner,True,55,143.89,False,,46400.31
+SLEEK-0118,2023-01-04,UK,SME,Growth,Organic,True,29,124.66,False,,23113.92
+SLEEK-0119,2022-04-19,SG,Startup,Starter,Referral,False,3,68.87,True,2022-10,1196.95
+SLEEK-0120,2022-10-24,AU,SME,Full Compliance,Organic,False,15,101.61,False,,25548.01
+SLEEK-0121,2023-05-03,HK,Startup,Growth,Organic,False,3,72.57,False,,6198.96
+SLEEK-0122,2024-09-02,AU,Startup,Starter,Referral,False,5,70.86,False,,1192.27
+SLEEK-0123,2024-12-03,HK,Corporate,Growth,Organic,True,101,95.16,False,,5513.28
+SLEEK-0124,2024-06-27,AU,Startup,Starter,Organic,False,2,83.23,False,,1464.39
+SLEEK-0125,2023-10-17,SG,SME,Starter,Referral,False,15,60.13,True,2024-06,1321.42
+SLEEK-0126,2023-03-17,AU,SME,Growth,Partner,False,37,196.39,True,2023-09,11881.41
+SLEEK-0127,2022-01-22,SG,SME,Full Compliance,Paid,False,13,264.59,True,2023-03,11862.64
+SLEEK-0128,2022-03-18,SG,SME,Growth,Paid,False,35,271.65,False,,47243.06
+SLEEK-0129,2023-10-02,AU,SME,Growth,Partner,True,38,175.3,False,,26037.53
+SLEEK-0130,2022-10-08,SG,Startup,Growth,Partner,False,8,170.71,True,2023-01,2265.38
+SLEEK-0131,2023-07-02,HK,SME,Starter,Referral,False,29,63.65,True,2024-01,1264.22
+SLEEK-0132,2023-03-21,SG,Startup,Full Compliance,Organic,False,5,66.94,True,2023-08,3920.85
+SLEEK-0133,2023-10-20,SG,Startup,Starter,Paid,True,6,380.96,False,,8983.42
+SLEEK-0134,2022-07-09,SG,Startup,Starter,Paid,False,2,321.58,True,2024-11,4246.04
+SLEEK-0135,2023-02-20,SG,SME,Starter,Referral,False,16,52.91,False,,8499.52
+SLEEK-0136,2024-10-15,AU,Startup,Growth,Organic,False,7,87.03,True,2024-11,1735.3
+SLEEK-0137,2022-12-02,SG,SME,Growth,Partner,True,28,147.59,False,,24584.47
+SLEEK-0138,2024-05-05,HK,SME,Starter,Partner,False,18,153.92,False,,1323.63
+SLEEK-0139,2024-01-12,AU,SME,Starter,Partner,True,33,193.42,True,2024-02,3051.2
+SLEEK-0140,2023-11-27,HK,Startup,Starter,Paid,True,7,564.16,True,2024-07,3127.53
+SLEEK-0141,2022-11-27,SG,Startup,Starter,Partner,False,3,126.17,True,2023-01,856.73
+SLEEK-0142,2022-12-29,HK,SME,Full Compliance,Partner,False,36,168.19,True,2023-04,7743.85
+SLEEK-0143,2023-10-24,HK,SME,Full Compliance,Referral,True,12,73.56,False,,13462.08
+SLEEK-0144,2022-04-26,HK,SME,Growth,Partner,False,10,132.75,True,2022-12,4918.63
+SLEEK-0145,2024-10-20,SG,SME,Growth,Organic,False,10,78.81,False,,1972.44
+SLEEK-0146,2022-03-02,SG,SME,Growth,Partner,False,13,168.66,True,2022-10,4872.32
+SLEEK-0147,2024-06-15,HK,Startup,Full Compliance,Organic,False,4,90.87,False,,4327.84
+SLEEK-0148,2022-11-21,SG,Startup,Starter,Paid,False,5,298.2,False,,2623.47
+SLEEK-0149,2024-06-03,SG,SME,Growth,Partner,False,33,128.49,False,,7788.51
+SLEEK-0150,2023-06-27,SG,SME,Starter,Organic,False,13,86.49,False,,2061.28
+SLEEK-0151,2024-01-13,HK,Startup,Starter,Paid,False,8,413.16,False,,1644.63
+SLEEK-0152,2022-06-08,HK,Startup,Starter,Organic,False,6,100.37,True,2022-10,1132.5
+SLEEK-0153,2023-11-21,AU,SME,Full Compliance,Organic,False,17,104.72,True,2024-03,5786.46
+SLEEK-0154,2024-02-02,SG,SME,Growth,Partner,True,36,160.58,True,2024-09,10887.29
+SLEEK-0155,2023-04-25,HK,SME,Growth,Partner,False,38,147.81,False,,30446.47
+SLEEK-0156,2024-01-06,UK,Startup,Full Compliance,Paid,True,5,512.03,False,,7989.59
+SLEEK-0157,2023-02-13,HK,Startup,Growth,Organic,False,7,76.98,True,2023-09,3850.03
+SLEEK-0158,2024-11-22,HK,Startup,Growth,Partner,False,4,146.24,True,2024-12,1372.91
+SLEEK-0159,2022-08-12,SG,Startup,Full Compliance,Partner,False,4,144.89,True,2024-11,15276.38
+SLEEK-0160,2022-12-21,SG,Corporate,Growth,Referral,True,146,51.51,True,2024-02,60034.96
+SLEEK-0161,2024-08-18,HK,SME,Growth,Partner,True,24,128.34,False,,6714.73
+SLEEK-0162,2023-05-08,SG,Startup,Starter,Partner,False,8,122.86,False,,2124.71
+SLEEK-0163,2024-10-20,HK,Startup,Growth,Partner,False,3,129.05,False,,1631.67
+SLEEK-0164,2023-12-24,AU,Startup,Starter,Organic,False,2,96.66,False,,1962.64
+SLEEK-0165,2024-11-05,HK,Startup,Growth,Partner,True,8,160.49,False,,3410.65
+SLEEK-0166,2023-06-04,HK,SME,Growth,Partner,True,23,150.85,True,2023-09,5697.7
+SLEEK-0167,2023-11-12,AU,SME,Starter,Partner,False,19,159.96,False,,2055.22
+SLEEK-0168,2024-09-07,AU,SME,Growth,Partner,True,37,191.18,False,,8096.81
+SLEEK-0169,2024-05-17,SG,Startup,Starter,Referral,False,2,67.57,False,,1242.82
+SLEEK-0170,2022-04-08,AU,Startup,Growth,Paid,True,4,354.45,True,2024-06,11874.5
+SLEEK-0171,2024-03-16,SG,Startup,Growth,Paid,False,4,303.02,False,,3649.36
+SLEEK-0172,2023-01-05,AU,SME,Growth,Organic,True,26,92.85,False,,26849.84
+SLEEK-0173,2023-01-24,SG,SME,Full Compliance,Referral,False,25,56.46,False,,25701.82
+SLEEK-0174,2024-04-11,HK,SME,Growth,Organic,False,9,100.84,True,2024-08,2979.34
+SLEEK-0175,2022-03-12,SG,SME,Growth,Partner,True,17,176.97,False,,23526.73
+SLEEK-0176,2022-06-07,HK,Corporate,Full Compliance,Referral,True,123,70.82,False,,121434.69
+SLEEK-0177,2022-09-04,SG,Corporate,Growth,Organic,False,118,72.33,False,,87768.44
+SLEEK-0178,2022-08-06,SG,Corporate,Full Compliance,Partner,True,127,146.71,True,2022-11,16742.35
+SLEEK-0179,2024-05-27,UK,Corporate,Starter,Partner,False,148,203.37,False,,1251.86
+SLEEK-0180,2022-04-04,SG,SME,Full Compliance,Partner,True,39,167.52,False,,48264.91
+SLEEK-0181,2024-10-03,SG,SME,Starter,Paid,False,38,306.96,False,,842.23
+SLEEK-0182,2022-06-01,HK,SME,Starter,Partner,True,37,148.29,False,,4560.05
+SLEEK-0183,2023-01-08,HK,Startup,Growth,Partner,False,8,136.26,False,,10575.37
+SLEEK-0184,2022-12-08,SG,Startup,Starter,Organic,False,8,94.11,True,2024-10,2380.59
+SLEEK-0185,2022-10-18,SG,Startup,Starter,Partner,False,6,158.46,False,,2665.87
+SLEEK-0186,2023-10-02,SG,SME,Full Compliance,Partner,True,24,121.7,False,,17598.62
+SLEEK-0187,2022-03-04,HK,SME,Growth,Paid,False,27,367.8,True,2023-01,13506.96
+SLEEK-0188,2023-09-02,HK,SME,Growth,Partner,True,34,172.07,False,,20596.05
+SLEEK-0189,2023-10-03,HK,Startup,Growth,Referral,False,4,64.94,True,2024-12,5227.49
+SLEEK-0190,2023-12-28,UK,Startup,Starter,Paid,True,5,676.11,False,,2873.09
+SLEEK-0191,2022-04-28,SG,Startup,Full Compliance,Organic,False,7,90.03,True,2023-03,7759.4
+SLEEK-0192,2023-05-16,SG,SME,Starter,Referral,False,23,70.69,False,,2135.14
+SLEEK-0193,2023-11-22,SG,Startup,Starter,Organic,False,5,81.17,False,,1675.29
+SLEEK-0194,2022-01-19,SG,Startup,Growth,Paid,False,5,302.4,True,2023-03,5497.49
+SLEEK-0195,2022-09-01,HK,SME,Starter,Paid,False,29,293.54,False,,2732.12
+SLEEK-0196,2024-11-08,HK,Startup,Starter,Organic,True,7,73.45,False,,2517.29
+SLEEK-0197,2023-06-20,SG,Startup,Starter,Paid,False,8,306.3,True,2023-11,1084.36
+SLEEK-0198,2023-05-16,SG,Startup,Growth,Partner,False,5,142.1,False,,10111.86
+SLEEK-0199,2022-02-24,HK,SME,Growth,Partner,False,22,144.99,True,2022-09,7249.94
+SLEEK-0200,2024-02-18,AU,SME,Starter,Organic,True,15,107.23,False,,3699.46
+SLEEK-0201,2022-03-25,SG,Startup,Growth,Paid,False,7,316.37,True,2024-01,9344.27
+SLEEK-0202,2022-09-13,SG,Startup,Starter,Organic,False,4,69.54,True,2024-03,2054.62
+SLEEK-0203,2023-06-26,HK,SME,Growth,Partner,True,27,140.3,True,2023-07,4455.67
+SLEEK-0204,2022-03-16,SG,Corporate,Growth,Referral,False,141,56.37,False,,126248.61
+SLEEK-0205,2024-02-17,AU,Startup,Growth,Paid,False,8,363.97,False,,5967.08
+SLEEK-0206,2022-06-11,AU,Startup,Starter,Organic,False,5,97.7,False,,3553.01
+SLEEK-0207,2023-01-20,SG,SME,Growth,Paid,True,22,286.63,False,,20394.13
+SLEEK-0208,2024-08-25,HK,Startup,Starter,Paid,True,6,387.91,False,,2929.95
+SLEEK-0209,2024-11-18,UK,Startup,Growth,Paid,True,4,515.31,False,,2496.74
+SLEEK-0210,2022-09-24,SG,SME,Growth,Partner,False,19,176.2,True,2024-02,17882.66
+SLEEK-0211,2022-08-06,SG,SME,Full Compliance,Partner,False,10,177.73,False,,20062.27
+SLEEK-0212,2024-03-18,SG,SME,Growth,Organic,True,40,92.46,False,,14278.55
+SLEEK-0213,2022-11-29,HK,Startup,Growth,Organic,False,2,95.34,True,2024-04,5131.74
+SLEEK-0214,2023-01-31,AU,SME,Starter,Referral,False,35,85.68,False,,2963.84
+SLEEK-0215,2023-01-14,HK,Startup,Full Compliance,Referral,False,2,69.37,True,2024-01,6629.04
+SLEEK-0216,2024-12-19,SG,Startup,Starter,Referral,False,2,63.69,False,,713.2
+SLEEK-0217,2024-10-26,HK,Startup,Full Compliance,Organic,False,7,103.96,False,,2531.57
+SLEEK-0218,2023-01-16,SG,Corporate,Growth,Referral,False,93,65.95,False,,61130.18
+SLEEK-0219,2023-03-24,AU,Corporate,Full Compliance,Partner,False,140,182.26,False,,104039.84
+SLEEK-0220,2022-01-27,SG,Startup,Starter,Referral,False,3,60.13,False,,3371.3
+SLEEK-0221,2023-08-03,SG,SME,Full Compliance,Referral,True,16,58.69,True,2024-01,7023.76
+SLEEK-0222,2024-08-04,HK,Startup,Growth,Organic,True,4,83.09,False,,3950.5
+SLEEK-0223,2022-04-03,AU,SME,Growth,Referral,False,11,81.01,False,,22668.29
+SLEEK-0224,2022-07-03,UK,Startup,Starter,Partner,True,7,174.4,True,2024-01,3208.82
+SLEEK-0225,2024-11-29,UK,SME,Growth,Paid,False,32,596.88,False,,2565.24
+SLEEK-0226,2022-02-06,SG,Corporate,Full Compliance,Partner,True,68,143.58,False,,76699.2
+SLEEK-0227,2024-08-06,AU,SME,Growth,Partner,False,22,173.02,False,,5357.23
+SLEEK-0228,2024-02-02,SG,Startup,Growth,Organic,False,2,77.42,True,2024-08,2406.63
+SLEEK-0229,2022-01-08,SG,Startup,Growth,Referral,True,3,57.65,False,,12004.02
+SLEEK-0230,2023-08-16,AU,SME,Starter,Organic,False,28,116.66,False,,2383.07
+SLEEK-0231,2023-05-02,SG,SME,Growth,Partner,False,19,155.5,True,2023-10,4774.29
+SLEEK-0232,2023-12-07,HK,Startup,Full Compliance,Paid,False,4,542.28,False,,7387.32
+SLEEK-0233,2023-01-12,HK,Startup,Growth,Organic,False,4,89.05,False,,7951.36
+SLEEK-0234,2022-04-29,AU,Startup,Growth,Paid,False,3,451.1,False,,11129.48
+SLEEK-0235,2022-06-03,SG,Startup,Starter,Paid,True,5,362.16,False,,13184.32
+SLEEK-0236,2023-01-21,HK,SME,Full Compliance,Partner,False,21,165.61,False,,24263.9
+SLEEK-0237,2022-02-01,HK,SME,Starter,Paid,False,38,306.6,True,2022-09,1371.28
+SLEEK-0238,2023-07-12,UK,SME,Full Compliance,Referral,False,32,91.87,False,,21420.28
+SLEEK-0239,2024-01-07,HK,SME,Growth,Paid,True,38,349.62,True,2024-12,17345.95
+SLEEK-0240,2023-10-03,AU,Startup,Starter,Organic,True,3,102.5,True,2024-07,3690.31
+SLEEK-0241,2023-01-11,SG,SME,Starter,Referral,True,29,61.67,False,,4020.53
+SLEEK-0242,2023-03-24,SG,SME,Growth,Partner,False,39,130.16,True,2023-05,4154.67
+SLEEK-0243,2024-02-27,SG,SME,Growth,Partner,False,22,165.86,False,,8892.55
+SLEEK-0244,2023-03-22,SG,Startup,Full Compliance,Organic,False,2,93.21,False,,10998.08
+SLEEK-0245,2023-02-01,SG,SME,Growth,Organic,False,19,86.33,False,,16241.08
+SLEEK-0246,2022-06-09,SG,Startup,Growth,Organic,False,5,66.53,True,2024-09,16191.06
+SLEEK-0247,2022-06-15,HK,Corporate,Full Compliance,Paid,False,51,400.15,False,,57007.82
+SLEEK-0248,2023-02-16,SG,Startup,Growth,Paid,False,8,338.55,False,,9835.32
+SLEEK-0249,2023-01-22,UK,SME,Starter,Partner,False,38,229.45,False,,2287.98
+SLEEK-0250,2022-11-02,SG,Corporate,Growth,Partner,True,66,171.03,False,,52952.97
+SLEEK-0251,2024-03-26,HK,SME,Full Compliance,Partner,False,32,147.15,False,,13793.51
+SLEEK-0252,2022-10-14,HK,Startup,Growth,Paid,True,7,376.5,False,,12778.08
+SLEEK-0253,2024-10-06,UK,Startup,Starter,Paid,True,6,541.88,False,,2176.93
+SLEEK-0254,2022-08-08,SG,SME,Growth,Organic,False,32,94.12,True,2022-08,1589.91
+SLEEK-0255,2023-01-13,SG,SME,Growth,Partner,False,28,158.03,False,,23403.64
+SLEEK-0256,2022-02-05,SG,Startup,Starter,Partner,False,6,145.86,True,2022-10,1333.35
+SLEEK-0257,2022-06-28,SG,Startup,Starter,Paid,False,2,293.36,True,2023-05,1562.23
+SLEEK-0258,2023-05-13,AU,SME,Growth,Partner,False,16,147.53,False,,14879.86
+SLEEK-0259,2022-02-16,SG,Startup,Growth,Organic,False,7,75.56,False,,14236.01
+SLEEK-0260,2022-08-08,HK,SME,Starter,Organic,False,32,72.24,True,2023-05,1506.73
+SLEEK-0261,2022-10-06,AU,Startup,Starter,Organic,False,5,104.13,True,2023-08,1790.14
+SLEEK-0262,2022-08-19,SG,Corporate,Full Compliance,Partner,True,140,139.55,True,2024-09,104320.26
+SLEEK-0263,2023-11-25,SG,Startup,Growth,Referral,False,7,70.87,True,2024-01,2019.43
+SLEEK-0264,2022-07-22,SG,SME,Growth,Partner,True,17,158.0,False,,21049.07
+SLEEK-0265,2024-09-08,AU,SME,Growth,Organic,False,34,101.37,False,,5802.43
+SLEEK-0266,2022-06-24,HK,SME,Starter,Paid,False,18,314.75,False,,3008.42
+SLEEK-0267,2024-03-29,HK,Startup,Full Compliance,Partner,False,2,149.22,True,2024-09,3928.18
+SLEEK-0268,2023-10-08,SG,Startup,Starter,Referral,False,6,57.39,True,2024-06,1331.19
+SLEEK-0269,2024-09-15,HK,Startup,Starter,Partner,False,2,154.62,False,,1043.87
+SLEEK-0270,2023-12-04,AU,SME,Growth,Paid,False,38,486.39,False,,18301.07
+SLEEK-0271,2022-03-04,SG,SME,Starter,Referral,True,18,56.23,True,2022-07,2660.52
+SLEEK-0272,2023-12-18,UK,SME,Starter,Paid,False,22,772.05,False,,1551.22
+SLEEK-0273,2024-06-04,AU,SME,Growth,Organic,False,36,109.5,False,,10070.69
+SLEEK-0274,2023-02-26,HK,Startup,Starter,Referral,False,6,75.71,True,2024-10,2252.73
+SLEEK-0275,2022-05-22,SG,SME,Full Compliance,Organic,False,32,80.89,False,,39855.2
+SLEEK-0276,2024-07-26,HK,SME,Growth,Paid,False,27,393.92,False,,6472.55
+SLEEK-0277,2023-04-17,UK,SME,Starter,Referral,True,17,82.99,True,2024-01,2607.78
+SLEEK-0278,2024-02-25,HK,Startup,Starter,Organic,False,7,89.52,False,,1573.21
+SLEEK-0279,2023-03-23,UK,Startup,Starter,Organic,True,2,111.1,True,2024-03,2863.82
+SLEEK-0280,2023-02-04,AU,Corporate,Full Compliance,Referral,False,103,88.91,False,,82810.18
+SLEEK-0281,2022-03-01,SG,Startup,Growth,Referral,True,3,53.29,True,2022-11,4609.6
+SLEEK-0282,2024-10-11,HK,Startup,Starter,Paid,True,8,295.85,False,,2803.77
+SLEEK-0283,2022-03-27,HK,Corporate,Full Compliance,Partner,True,94,156.25,True,2022-11,29942.07
+SLEEK-0284,2022-08-09,SG,SME,Growth,Partner,False,15,169.0,False,,17251.31
+SLEEK-0285,2023-12-20,AU,Startup,Growth,Referral,False,6,78.31,True,2024-12,6146.75
+SLEEK-0286,2022-05-20,SG,Startup,Starter,Organic,False,4,74.36,False,,7300.34
+SLEEK-0287,2022-07-15,HK,Corporate,Growth,Partner,False,47,176.01,False,,45652.3
+SLEEK-0288,2024-11-03,UK,SME,Starter,Organic,True,23,103.02,False,,2121.2
+SLEEK-0289,2023-07-05,AU,SME,Growth,Paid,True,13,523.49,True,2024-06,10008.0
+SLEEK-0290,2024-08-11,SG,SME,Growth,Partner,False,13,172.13,False,,3274.99
+SLEEK-0291,2024-01-04,AU,Startup,Growth,Referral,False,5,83.87,True,2024-08,3843.97
+SLEEK-0292,2023-08-04,AU,Startup,Starter,Organic,False,5,103.12,False,,2371.91
+SLEEK-0293,2022-04-05,AU,SME,Starter,Partner,False,15,189.3,False,,14660.67
+SLEEK-0294,2023-08-13,UK,Startup,Starter,Paid,True,7,810.88,False,,3135.81
+SLEEK-0295,2022-02-12,SG,SME,Growth,Partner,True,27,158.93,False,,39328.76
+SLEEK-0296,2022-07-06,AU,SME,Growth,Paid,False,16,304.17,True,2023-01,5769.27
+SLEEK-0297,2022-01-17,HK,Startup,Growth,Paid,False,5,394.4,False,,12529.72
+SLEEK-0298,2022-07-02,HK,Startup,Growth,Organic,False,4,75.69,True,2023-08,4979.88
+SLEEK-0299,2022-03-03,SG,SME,Growth,Partner,False,36,120.51,False,,38074.07
+SLEEK-0300,2024-08-28,SG,Startup,Starter,Referral,True,2,69.52,True,2024-09,2293.65
+SLEEK-0301,2023-10-07,HK,Startup,Growth,Partner,False,3,143.86,True,2023-12,1619.06
+SLEEK-0302,2022-02-24,HK,SME,Full Compliance,Referral,False,40,74.44,True,2022-08,11254.48
+SLEEK-0303,2023-04-16,SG,Startup,Starter,Referral,False,2,53.79,False,,2231.51
+SLEEK-0304,2023-10-11,HK,Corporate,Growth,Partner,False,86,183.09,False,,40240.3
+SLEEK-0305,2022-05-30,HK,Startup,Starter,Paid,False,2,289.45,True,2024-07,2718.89
+SLEEK-0306,2023-03-21,UK,Corporate,Full Compliance,Paid,True,129,520.22,False,,79126.44
+SLEEK-0307,2022-01-17,SG,SME,Full Compliance,Referral,True,28,71.38,True,2023-09,25730.76
+SLEEK-0308,2023-03-14,SG,SME,Growth,Partner,True,13,170.79,False,,13923.82
+SLEEK-0309,2022-07-27,UK,Startup,Starter,Paid,False,2,570.27,False,,7699.0
+SLEEK-0310,2023-09-26,SG,Startup,Growth,Organic,False,7,72.3,False,,6653.69
+SLEEK-0311,2022-03-02,AU,Startup,Starter,Partner,False,4,165.19,False,,3773.29
+SLEEK-0312,2024-07-21,AU,SME,Growth,Organic,False,18,82.22,True,2024-10,3915.85
+SLEEK-0313,2023-04-24,SG,Startup,Starter,Organic,False,3,65.41,True,2024-09,1984.7
+SLEEK-0314,2022-01-18,SG,Startup,Growth,Partner,False,3,162.84,False,,20922.48
+SLEEK-0315,2022-02-04,SG,Startup,Starter,Referral,True,8,69.65,False,,8666.37
+SLEEK-0316,2024-08-10,HK,Startup,Growth,Paid,False,2,388.29,False,,2015.96
+SLEEK-0317,2023-09-15,HK,Startup,Growth,Organic,False,5,80.73,False,,7774.5
+SLEEK-0318,2023-12-12,UK,SME,Growth,Referral,True,34,80.82,True,2024-09,11878.24
+SLEEK-0319,2023-02-01,SG,Startup,Growth,Referral,False,4,57.03,False,,7543.03
+SLEEK-0320,2023-01-23,SG,Startup,Starter,Organic,True,8,65.4,False,,4361.51
+SLEEK-0321,2022-06-23,HK,SME,Growth,Paid,False,33,350.76,False,,35131.34
+SLEEK-0322,2024-02-28,SG,SME,Growth,Referral,False,28,67.22,False,,11911.94
+SLEEK-0323,2022-10-04,SG,Startup,Starter,Organic,False,5,69.26,False,,2659.28
+SLEEK-0324,2023-02-03,SG,Startup,Starter,Referral,False,7,64.47,False,,2382.84
+SLEEK-0325,2022-10-31,HK,Startup,Starter,Partner,False,6,143.89,True,2023-03,1216.2
+SLEEK-0326,2022-08-18,SG,Startup,Growth,Partner,False,8,134.99,True,2022-12,2659.34
+SLEEK-0327,2023-04-01,AU,Startup,Starter,Organic,False,7,112.95,False,,2694.94
+SLEEK-0328,2024-12-26,UK,Startup,Growth,Paid,True,7,420.53,False,,2280.71
+SLEEK-0329,2024-01-15,SG,Startup,Starter,Partner,False,7,175.45,True,2024-03,849.75
+SLEEK-0330,2022-01-09,SG,Startup,Starter,Referral,True,6,69.2,True,2022-05,2644.66
+SLEEK-0331,2024-09-08,HK,SME,Starter,Referral,True,20,63.83,True,2024-12,2753.48
+SLEEK-0332,2022-02-09,HK,SME,Full Compliance,Organic,False,39,100.15,True,2023-06,26036.33
+SLEEK-0333,2022-03-08,SG,SME,Starter,Paid,False,38,359.77,False,,25067.9
+SLEEK-0334,2022-11-23,HK,SME,Starter,Partner,False,11,170.04,False,,2595.38
+SLEEK-0335,2024-03-06,AU,Corporate,Growth,Partner,False,62,193.07,False,,21648.34
+SLEEK-0336,2022-12-23,SG,Startup,Starter,Referral,True,3,61.62,False,,4014.3
+SLEEK-0337,2023-09-25,AU,SME,Starter,Partner,True,22,138.58,False,,4077.59
+SLEEK-0338,2023-06-23,SG,Startup,Starter,Paid,False,2,358.71,False,,2105.39
+SLEEK-0339,2023-06-03,SG,SME,Growth,Partner,False,14,176.52,False,,11237.42
+SLEEK-0340,2023-11-16,SG,Startup,Growth,Partner,False,7,130.45,True,2024-06,3673.0
+SLEEK-0341,2022-12-26,AU,SME,Growth,Paid,False,19,415.57,False,,20544.14
+SLEEK-0342,2024-03-12,AU,Corporate,Full Compliance,Partner,False,63,188.42,False,,24396.5
+SLEEK-0343,2023-03-29,HK,Corporate,Full Compliance,Partner,False,82,134.66,True,2023-09,19430.75
+SLEEK-0344,2022-12-10,AU,Startup,Growth,Partner,False,7,201.49,False,,11688.99
+SLEEK-0345,2023-06-28,HK,SME,Starter,Paid,False,14,377.04,True,2023-06,852.56
+SLEEK-0346,2024-05-09,AU,Startup,Full Compliance,Paid,False,5,438.45,False,,5822.98
+SLEEK-0347,2023-11-08,SG,Startup,Starter,Partner,False,4,124.42,False,,4942.49
+SLEEK-0348,2022-03-24,SG,Startup,Starter,Organic,False,4,94.14,False,,3171.47
+SLEEK-0349,2022-03-05,HK,SME,Growth,Referral,False,35,74.3,False,,40178.1
+SLEEK-0350,2022-12-24,SG,Startup,Starter,Organic,False,2,85.14,False,,2527.37
+SLEEK-0351,2022-07-03,SG,SME,Starter,Partner,False,20,159.72,False,,2916.7
+SLEEK-0352,2024-02-10,SG,Startup,Growth,Referral,False,4,59.3,False,,3914.98
+SLEEK-0353,2024-08-02,SG,Startup,Starter,Organic,True,4,78.88,False,,3463.35
+SLEEK-0354,2022-07-18,HK,Startup,Starter,Referral,False,8,65.63,True,2022-12,1186.72
+SLEEK-0355,2024-12-06,HK,SME,Growth,Partner,False,38,162.27,False,,2115.7
+SLEEK-0356,2024-03-19,HK,Startup,Full Compliance,Organic,False,6,97.72,False,,6355.36
+SLEEK-0357,2022-09-04,AU,SME,Full Compliance,Referral,False,18,73.47,False,,28965.32
+SLEEK-0358,2023-08-08,UK,SME,Starter,Organic,True,17,128.79,True,2023-09,2129.93
+SLEEK-0359,2022-05-18,AU,Startup,Starter,Partner,False,8,173.83,True,2024-06,3078.0
+SLEEK-0360,2023-09-26,SG,Startup,Starter,Partner,True,6,144.87,False,,3301.8
+SLEEK-0361,2022-08-05,HK,Corporate,Full Compliance,Organic,True,108,75.64,True,2024-05,78097.67
+SLEEK-0362,2024-09-21,AU,SME,Growth,Organic,True,33,98.92,False,,7595.02
+SLEEK-0363,2022-06-23,SG,SME,Starter,Partner,False,31,164.74,False,,2982.45
+SLEEK-0364,2022-12-22,SG,SME,Starter,Paid,True,36,367.22,False,,13925.51
+SLEEK-0365,2022-07-02,AU,Startup,Starter,Referral,False,7,66.34,True,2023-11,2342.05
+SLEEK-0366,2022-04-26,HK,Startup,Starter,Paid,False,6,302.26,False,,3734.4
+SLEEK-0367,2023-01-27,SG,SME,Starter,Referral,True,31,48.79,True,2024-08,3756.56
+SLEEK-0368,2024-10-31,AU,Startup,Starter,Referral,False,3,87.69,False,,1201.03
+SLEEK-0369,2024-06-12,SG,SME,Starter,Organic,False,13,92.62,False,,1197.17
+SLEEK-0370,2023-04-21,SG,Startup,Starter,Organic,False,6,70.62,False,,2237.99
+SLEEK-0371,2022-11-06,SG,SME,Growth,Partner,False,27,120.51,False,,23424.2
+SLEEK-0372,2024-02-11,AU,SME,Full Compliance,Organic,True,27,98.36,False,,16720.9
+SLEEK-0373,2022-07-29,HK,SME,Starter,Paid,False,31,419.92,True,2023-11,2005.8
+SLEEK-0374,2022-08-10,HK,SME,Growth,Paid,False,28,327.08,True,2023-07,12493.76
+SLEEK-0375,2023-09-04,AU,Startup,Starter,Referral,True,2,75.52,True,2024-02,3397.8
+SLEEK-0376,2023-10-17,AU,SME,Growth,Referral,False,26,81.64,False,,15912.2
+SLEEK-0377,2022-10-27,SG,Startup,Starter,Paid,True,6,349.0,True,2023-01,2600.45
+SLEEK-0378,2024-01-05,HK,Startup,Starter,Partner,False,6,182.11,False,,1666.49
+SLEEK-0379,2022-03-22,SG,Startup,Growth,Organic,True,3,84.94,True,2024-06,9875.67
+SLEEK-0380,2023-11-10,AU,Startup,Starter,Referral,False,2,77.57,False,,4654.5
+SLEEK-0381,2022-05-26,HK,SME,Growth,Referral,True,32,61.45,False,,37090.77
+SLEEK-0382,2022-11-05,HK,Startup,Starter,Partner,False,6,140.82,False,,9379.25
+SLEEK-0383,2023-01-05,AU,Corporate,Full Compliance,Organic,False,62,99.5,False,,56711.88
+SLEEK-0384,2022-10-25,SG,Startup,Starter,Paid,False,3,356.51,False,,2923.26
+SLEEK-0385,2024-09-04,HK,SME,Growth,Paid,True,31,285.28,False,,6740.8
+SLEEK-0386,2023-11-26,UK,SME,Starter,Partner,True,23,214.14,False,,2995.16
+SLEEK-0387,2022-05-06,SG,SME,Starter,Paid,False,37,261.85,False,,3041.25
+SLEEK-0388,2022-10-02,AU,SME,Growth,Paid,False,20,441.01,False,,23044.73
+SLEEK-0389,2022-01-07,SG,Corporate,Full Compliance,Partner,True,86,155.38,False,,94963.96
+SLEEK-0390,2023-06-08,AU,SME,Growth,Paid,False,11,398.72,False,,16091.62
+SLEEK-0391,2022-08-26,HK,SME,Growth,Organic,False,38,85.69,True,2024-09,33235.09
+SLEEK-0392,2022-01-20,AU,Startup,Starter,Referral,False,4,79.85,False,,15551.37
+SLEEK-0393,2022-08-03,HK,SME,Growth,Paid,False,14,366.48,False,,17596.08
+SLEEK-0394,2024-12-07,HK,SME,Full Compliance,Partner,False,18,150.91,False,,1706.33
+SLEEK-0395,2024-01-01,SG,Startup,Growth,Organic,False,7,93.02,False,,5115.21
+SLEEK-0396,2022-06-03,HK,Corporate,Full Compliance,Partner,True,69,134.48,True,2023-09,39553.83
+SLEEK-0397,2022-04-13,HK,Corporate,Starter,Paid,True,77,304.46,False,,55370.29
+SLEEK-0398,2022-01-01,SG,SME,Full Compliance,Referral,True,30,63.92,False,,44410.28
+SLEEK-0399,2022-07-10,AU,Corporate,Growth,Paid,True,91,356.09,False,,91183.36
+SLEEK-0400,2024-10-19,UK,Startup,Starter,Paid,False,3,503.72,False,,879.37
+SLEEK-0401,2024-02-19,SG,SME,Growth,Organic,False,32,82.21,False,,14601.6
+SLEEK-0402,2022-09-25,AU,SME,Growth,Partner,False,36,169.19,True,2023-04,11153.15
+SLEEK-0403,2023-12-19,SG,Startup,Growth,Paid,False,8,412.77,False,,5846.93
+SLEEK-0404,2022-04-16,SG,Startup,Starter,Referral,False,8,64.23,False,,3110.82
+SLEEK-0405,2022-01-24,AU,SME,Growth,Referral,False,39,64.71,True,2024-03,42151.08
+SLEEK-0406,2023-05-09,AU,Startup,Starter,Paid,False,6,346.28,False,,2622.88
+SLEEK-0407,2024-07-29,HK,Startup,Starter,Organic,True,5,92.63,False,,2994.73
+SLEEK-0408,2023-02-02,SG,Startup,Growth,Paid,True,6,256.02,False,,10321.28
+SLEEK-0409,2023-12-28,UK,SME,Starter,Partner,False,31,213.72,False,,1550.85
+SLEEK-0410,2023-11-11,AU,SME,Growth,Partner,False,31,178.14,False,,17641.68
+SLEEK-0411,2023-03-31,AU,Startup,Starter,Referral,False,8,70.65,True,2023-08,1376.31
+SLEEK-0412,2022-01-27,SG,Startup,Growth,Referral,True,6,65.32,False,,14723.16
+SLEEK-0413,2022-04-23,SG,Startup,Starter,Partner,True,7,165.43,False,,4761.15
+SLEEK-0414,2024-07-11,AU,SME,Growth,Partner,False,39,176.07,True,2024-11,8325.69
+SLEEK-0415,2022-09-25,SG,SME,Full Compliance,Referral,False,16,52.25,False,,23538.47
+SLEEK-0416,2022-07-20,SG,SME,Full Compliance,Partner,False,29,165.74,False,,35016.05
+SLEEK-0417,2023-07-28,UK,Startup,Growth,Organic,True,8,138.55,False,,8708.88
+SLEEK-0418,2023-03-22,AU,SME,Starter,Referral,False,30,78.73,False,,2763.59
+SLEEK-0419,2022-11-30,UK,Startup,Starter,Referral,True,2,97.0,False,,3763.23
+SLEEK-0420,2024-05-04,AU,SME,Growth,Referral,False,35,86.82,False,,11095.5
+SLEEK-0421,2022-10-25,AU,Startup,Starter,Organic,False,8,82.26,True,2024-12,3200.04
+SLEEK-0422,2024-05-07,SG,Startup,Growth,Organic,False,2,65.03,False,,2685.73
+SLEEK-0423,2023-04-05,HK,SME,Growth,Referral,True,26,71.72,True,2023-07,6003.85
+SLEEK-0424,2024-05-03,HK,Startup,Full Compliance,Paid,False,6,416.62,False,,5274.57
+SLEEK-0425,2024-08-27,SG,SME,Starter,Organic,False,31,84.28,False,,1056.34
+SLEEK-0426,2023-02-01,AU,Startup,Starter,Paid,False,3,330.97,True,2023-10,1679.32
+SLEEK-0427,2022-07-12,UK,SME,Growth,Organic,True,24,122.72,False,,24621.13
+SLEEK-0428,2022-10-02,SG,Startup,Growth,Partner,False,4,157.52,True,2024-05,6672.52
+SLEEK-0429,2023-10-13,HK,SME,Growth,Paid,False,40,600.27,False,,22188.93
+SLEEK-0430,2022-11-11,SG,Startup,Starter,Paid,False,6,293.58,True,2023-06,1234.49
+SLEEK-0431,2022-01-19,HK,Corporate,Growth,Partner,True,122,150.14,True,2023-08,74441.8
+SLEEK-0432,2023-10-20,HK,SME,Growth,Partner,True,24,178.96,False,,15234.31
+SLEEK-0433,2024-02-07,HK,Startup,Starter,Partner,False,4,160.56,False,,1589.34
+SLEEK-0434,2022-07-16,AU,Startup,Starter,Paid,False,2,449.35,True,2022-08,1024.81
+SLEEK-0435,2023-03-13,HK,Startup,Growth,Referral,True,6,67.88,True,2024-07,8619.52
+SLEEK-0436,2024-06-10,AU,SME,Growth,Referral,False,17,88.19,False,,6044.71
+SLEEK-0437,2022-02-18,SG,SME,Starter,Organic,False,34,90.29,True,2024-10,10548.72
+SLEEK-0438,2022-09-01,SG,SME,Growth,Referral,False,10,62.84,True,2023-09,8098.26
+SLEEK-0439,2022-08-06,AU,Startup,Starter,Partner,False,4,182.64,True,2023-07,1932.35
+SLEEK-0440,2022-03-05,AU,Startup,Starter,Paid,True,5,385.09,True,2023-03,3958.17
+SLEEK-0441,2022-10-23,AU,SME,Starter,Organic,False,31,115.48,False,,3163.41
+SLEEK-0442,2022-10-23,UK,Startup,Starter,Referral,True,6,72.18,True,2023-07,2743.83
+SLEEK-0443,2023-12-06,HK,Startup,Starter,Organic,False,3,104.6,False,,1679.69
+SLEEK-0444,2022-03-28,SG,Startup,Starter,Partner,False,6,165.06,False,,3189.66
+SLEEK-0445,2022-05-18,HK,Startup,Starter,Organic,False,4,79.11,True,2023-07,1825.17
+SLEEK-0446,2022-01-11,SG,SME,Growth,Organic,False,17,74.51,False,,27309.84
+SLEEK-0447,2024-05-27,HK,Startup,Starter,Paid,False,7,323.85,False,,1326.61
+SLEEK-0448,2022-10-03,AU,Startup,Growth,Referral,False,5,69.95,False,,10919.73
+SLEEK-0449,2022-05-28,SG,Startup,Growth,Referral,True,7,69.39,True,2023-04,6621.53
+SLEEK-0450,2022-02-08,AU,Startup,Growth,Organic,False,6,105.27,True,2024-02,10944.14
+SLEEK-0451,2023-09-16,SG,SME,Growth,Partner,False,26,128.92,True,2024-11,13297.0
+SLEEK-0452,2022-01-28,SG,Startup,Full Compliance,Organic,False,8,95.42,True,2023-04,10546.57
+SLEEK-0453,2022-10-27,HK,Startup,Growth,Organic,False,3,89.41,True,2023-05,2984.21
+SLEEK-0454,2023-04-25,AU,Startup,Starter,Organic,False,4,88.27,True,2023-12,1678.65
+SLEEK-0455,2022-02-23,SG,Corporate,Full Compliance,Partner,True,134,158.01,True,2022-06,20864.23
+SLEEK-0456,2023-11-27,SG,Startup,Starter,Organic,False,3,72.05,False,,2166.9
+SLEEK-0457,2024-09-24,HK,Startup,Growth,Partner,True,3,184.78,True,2024-12,3636.78
+SLEEK-0458,2022-01-12,SG,Startup,Growth,Referral,False,5,67.61,True,2023-05,6172.52
+SLEEK-0459,2024-09-07,AU,SME,Growth,Paid,False,34,393.8,False,,5825.44
+SLEEK-0460,2022-01-19,SG,Startup,Starter,Referral,False,6,51.99,True,2022-07,1167.37
+SLEEK-0461,2022-06-20,UK,SME,Full Compliance,Paid,False,13,567.42,False,,22098.83
+SLEEK-0462,2023-02-20,SG,SME,Starter,Referral,False,40,61.98,True,2023-12,1488.12
+SLEEK-0463,2023-04-13,SG,SME,Growth,Paid,True,40,269.9,True,2023-12,13131.41
+SLEEK-0464,2022-12-30,HK,SME,Growth,Referral,True,40,73.21,False,,35137.28
+SLEEK-0465,2022-01-03,AU,Startup,Growth,Referral,False,6,83.25,True,2024-08,13803.25
+SLEEK-0466,2022-08-26,SG,SME,Growth,Partner,False,14,141.03,False,,16568.03
+SLEEK-0467,2024-03-18,SG,Startup,Starter,Referral,False,8,52.54,True,2024-09,1138.71
+SLEEK-0468,2022-02-14,SG,Startup,Starter,Referral,False,4,51.71,False,,3283.9
+SLEEK-0469,2023-07-25,SG,Startup,Starter,Referral,False,3,61.25,False,,2319.52
+SLEEK-0470,2022-12-13,SG,SME,Growth,Paid,False,22,365.44,False,,19260.76
+SLEEK-0471,2022-06-26,SG,SME,Growth,Organic,False,18,86.31,False,,20855.48
+SLEEK-0472,2024-10-14,SG,SME,Starter,Partner,False,10,135.79,False,,884.09
+SLEEK-0473,2024-12-03,AU,Corporate,Growth,Referral,True,139,88.91,False,,7099.64
+SLEEK-0474,2023-02-18,AU,SME,Full Compliance,Paid,False,20,445.48,False,,25232.7
+SLEEK-0475,2022-01-12,SG,SME,Starter,Referral,True,25,48.01,True,2024-06,4538.36
+SLEEK-0476,2023-02-15,AU,Startup,Starter,Paid,True,2,416.01,True,2024-11,4792.09
+SLEEK-0477,2023-12-14,HK,SME,Growth,Referral,True,20,78.83,True,2024-01,4061.63
+SLEEK-0478,2022-12-25,HK,Startup,Starter,Organic,True,4,75.83,True,2023-06,3093.88
+SLEEK-0479,2022-10-09,SG,Startup,Growth,Referral,False,8,71.19,True,2024-09,10213.09
+SLEEK-0480,2023-01-16,SG,Startup,Starter,Referral,False,3,49.62,True,2024-11,2357.65
+SLEEK-0481,2023-12-25,HK,Startup,Starter,Paid,False,3,407.97,True,2024-05,1196.65
+SLEEK-0482,2022-03-16,SG,Startup,Starter,Referral,False,3,53.25,False,,9693.68
+SLEEK-0483,2023-10-24,UK,SME,Growth,Partner,True,24,178.79,False,,13336.87
+SLEEK-0484,2023-01-04,SG,Startup,Full Compliance,Organic,False,6,85.63,False,,14326.48
+SLEEK-0485,2024-06-16,SG,SME,Full Compliance,Partner,False,25,172.86,False,,7995.21
+SLEEK-0486,2023-07-28,HK,Corporate,Growth,Partner,True,107,176.01,False,,61517.21
+SLEEK-0487,2024-10-26,AU,Startup,Starter,Paid,False,5,434.78,False,,1132.22
+SLEEK-0488,2024-05-06,UK,SME,Starter,Paid,True,14,556.21,False,,4131.61
+SLEEK-0489,2023-02-20,SG,SME,Growth,Paid,False,34,279.54,False,,26805.24
+SLEEK-0490,2023-07-27,AU,Startup,Starter,Partner,False,7,174.86,True,2024-04,1785.89
+SLEEK-0491,2022-07-07,SG,Startup,Starter,Organic,True,8,94.69,False,,4435.61
+SLEEK-0492,2024-09-24,SG,Startup,Starter,Organic,False,8,79.57,False,,929.28
+SLEEK-0493,2022-05-03,HK,Startup,Starter,Referral,False,2,63.12,False,,7085.12
+SLEEK-0494,2023-05-12,SG,Startup,Starter,Paid,False,6,271.52,False,,6847.64
+SLEEK-0495,2022-06-11,SG,SME,Growth,Partner,False,13,149.25,False,,16909.73
+SLEEK-0496,2022-02-14,SG,Startup,Growth,Referral,False,2,61.72,True,2023-08,5380.2
+SLEEK-0497,2023-10-21,SG,Startup,Starter,Paid,False,4,535.96,True,2023-12,868.18
+SLEEK-0498,2022-12-09,AU,Startup,Starter,Paid,False,7,307.51,True,2024-08,2647.89
+SLEEK-0499,2022-02-03,SG,SME,Full Compliance,Partner,True,33,148.39,True,2022-05,7152.59
+SLEEK-0500,2022-11-15,HK,Corporate,Starter,Organic,True,69,105.54,True,2023-03,2832.36
+SLEEK-0501,2022-01-02,SG,Startup,Growth,Referral,False,5,68.65,False,,12329.52
+SLEEK-0502,2024-06-30,HK,SME,Starter,Partner,False,37,188.7,False,,1309.61
+SLEEK-0503,2024-12-08,HK,SME,Growth,Referral,False,38,70.95,False,,2049.83
+SLEEK-0504,2024-01-20,HK,SME,Growth,Paid,True,16,301.8,True,2024-01,3081.24
+SLEEK-0505,2024-08-10,SG,Startup,Starter,Organic,False,3,77.77,False,,1028.88
+SLEEK-0506,2024-06-14,AU,Startup,Starter,Organic,False,5,86.53,False,,1498.6
+SLEEK-0507,2023-05-06,AU,Startup,Starter,Organic,False,7,112.0,False,,2614.65
+SLEEK-0508,2023-07-05,HK,Startup,Starter,Referral,True,4,79.9,True,2023-07,2580.16
+SLEEK-0509,2023-06-01,SG,Startup,Starter,Paid,True,2,380.12,False,,3549.89
+SLEEK-0510,2022-01-16,SG,Startup,Starter,Paid,False,5,309.79,True,2023-02,1714.93
+SLEEK-0511,2023-05-05,UK,Startup,Starter,Referral,True,4,99.02,False,,3390.02
+SLEEK-0512,2023-01-29,AU,Startup,Growth,Paid,False,2,342.01,True,2024-11,7290.81
+SLEEK-0513,2023-12-02,SG,SME,Starter,Organic,True,21,87.53,False,,8077.08
+SLEEK-0514,2023-10-24,HK,SME,Starter,Paid,False,15,553.83,True,2023-11,949.87
+SLEEK-0515,2024-04-04,SG,SME,Starter,Organic,True,25,77.89,False,,2966.7
+SLEEK-0516,2022-03-28,HK,Startup,Growth,Organic,False,3,96.87,True,2024-08,8841.1
+SLEEK-0517,2022-11-02,SG,Startup,Starter,Organic,False,8,84.63,False,,2596.81
+SLEEK-0518,2023-06-26,SG,Startup,Growth,Paid,True,5,349.85,False,,8437.65
+SLEEK-0519,2023-05-18,SG,Startup,Growth,Partner,True,4,131.39,False,,8129.34
+SLEEK-0520,2023-03-03,SG,Startup,Starter,Partner,False,6,146.96,True,2024-04,1700.59
+SLEEK-0521,2022-01-20,SG,Startup,Growth,Referral,True,7,66.62,False,,23078.84
+SLEEK-0522,2022-09-05,SG,Corporate,Full Compliance,Partner,False,54,139.36,False,,50253.31
+SLEEK-0523,2024-01-07,SG,SME,Starter,Organic,True,32,70.13,False,,3046.43
+SLEEK-0524,2023-06-09,HK,Startup,Starter,Referral,False,2,62.18,False,,2115.81
+SLEEK-0525,2024-11-28,UK,Startup,Growth,Paid,True,4,513.36,False,,2467.4
+SLEEK-0526,2024-01-26,HK,Corporate,Full Compliance,Referral,False,107,57.63,False,,41312.68
+SLEEK-0527,2024-02-04,SG,Startup,Growth,Paid,True,6,324.05,True,2024-11,5700.82
+SLEEK-0528,2024-04-30,HK,SME,Growth,Partner,False,37,177.04,False,,12961.18
+SLEEK-0529,2023-01-05,AU,Startup,Starter,Organic,False,6,100.19,True,2023-01,952.71
+SLEEK-0530,2023-04-19,UK,Startup,Growth,Paid,False,5,623.34,True,2023-08,2204.74
+SLEEK-0531,2023-05-08,AU,Startup,Growth,Referral,False,7,66.42,False,,9423.35
+SLEEK-0532,2022-05-20,SG,Corporate,Starter,Partner,False,40,128.11,False,,3037.23
+SLEEK-0533,2022-12-27,SG,Startup,Starter,Partner,False,6,153.22,True,2024-07,2159.74
+SLEEK-0534,2022-10-08,SG,Startup,Starter,Paid,True,5,359.82,False,,4217.23
+SLEEK-0535,2023-10-27,HK,Startup,Growth,Organic,False,7,78.22,False,,6502.51
+SLEEK-0536,2023-09-08,AU,SME,Starter,Organic,False,11,112.33,False,,8168.08
+SLEEK-0537,2023-08-19,UK,Startup,Starter,Referral,False,3,103.24,False,,1767.64
+SLEEK-0538,2024-02-23,AU,SME,Starter,Partner,False,17,171.66,False,,1844.14
+SLEEK-0539,2023-08-25,SG,SME,Growth,Organic,True,26,80.15,False,,16641.4
+SLEEK-0540,2024-09-01,AU,Startup,Growth,Organic,False,2,81.97,False,,1974.0
+SLEEK-0541,2023-04-16,SG,Startup,Starter,Referral,False,7,61.71,True,2023-09,1077.2
+SLEEK-0542,2024-05-30,HK,Startup,Starter,Organic,True,7,105.27,False,,3093.46
+SLEEK-0543,2022-05-06,SG,Startup,Full Compliance,Organic,False,5,83.72,False,,18104.08
+SLEEK-0544,2023-04-24,HK,Startup,Starter,Partner,False,8,151.92,True,2024-03,1642.78
+SLEEK-0545,2023-02-01,SG,SME,Growth,Organic,False,38,89.74,True,2023-03,2952.62
+SLEEK-0546,2022-05-18,SG,Startup,Starter,Referral,True,7,65.52,False,,6326.44
+SLEEK-0547,2024-12-14,HK,Startup,Starter,Partner,False,8,138.9,False,,862.09
+SLEEK-0548,2022-01-18,HK,Startup,Starter,Paid,False,7,372.45,True,2023-08,2176.79
+SLEEK-0549,2024-07-17,SG,Startup,Full Compliance,Organic,False,8,67.19,False,,4360.02
+SLEEK-0550,2024-07-26,HK,Startup,Growth,Organic,True,6,97.65,False,,4550.35
+SLEEK-0551,2022-06-21,SG,Startup,Starter,Referral,False,4,71.9,False,,2941.34
+SLEEK-0552,2022-03-02,AU,SME,Full Compliance,Partner,True,29,200.54,False,,47893.06
+SLEEK-0553,2024-02-22,AU,SME,Growth,Organic,False,22,107.12,False,,11600.1
+SLEEK-0554,2022-08-18,SG,SME,Starter,Referral,False,20,63.66,False,,2825.77
+SLEEK-0555,2024-12-08,AU,Startup,Full Compliance,Referral,False,8,72.9,False,,1572.14
+SLEEK-0556,2022-12-04,SG,Corporate,Growth,Partner,True,43,170.37,False,,34321.08
+SLEEK-0557,2024-04-22,AU,SME,Growth,Paid,False,25,417.33,False,,9740.68
+SLEEK-0558,2022-10-09,SG,Startup,Growth,Organic,False,3,83.6,True,2023-05,2847.19
+SLEEK-0559,2024-09-03,HK,Startup,Starter,Referral,False,7,79.69,False,,1110.54
+SLEEK-0560,2022-01-14,SG,SME,Growth,Referral,False,34,48.36,False,,38314.56
+SLEEK-0561,2022-02-28,SG,SME,Growth,Organic,False,23,86.01,False,,27702.97
+SLEEK-0562,2024-07-20,SG,SME,Full Compliance,Partner,False,10,154.32,False,,4646.79
+SLEEK-0563,2022-03-28,HK,Startup,Growth,Partner,False,7,143.73,False,,20272.38
+SLEEK-0564,2024-02-13,SG,Startup,Growth,Referral,False,3,66.57,True,2024-10,3125.73
+SLEEK-0565,2023-03-15,SG,SME,Starter,Organic,True,16,80.02,False,,3911.5
+SLEEK-0566,2023-04-15,SG,Startup,Starter,Organic,False,7,74.37,False,,2197.26
+SLEEK-0567,2022-08-22,AU,SME,Growth,Organic,True,32,105.36,False,,40260.21
+SLEEK-0568,2022-11-24,AU,Corporate,Growth,Partner,False,82,161.88,False,,72595.85
+SLEEK-0569,2022-10-24,HK,SME,Starter,Organic,False,27,97.63,True,2023-06,1432.16
+SLEEK-0570,2023-01-06,AU,Corporate,Growth,Paid,True,119,324.0,False,,93615.79
+SLEEK-0571,2024-10-18,AU,Startup,Starter,Paid,False,3,304.87,True,2024-12,1133.88
+SLEEK-0572,2022-01-08,SG,SME,Full Compliance,Referral,False,21,54.67,True,2024-02,25297.97
+SLEEK-0573,2022-11-19,SG,Startup,Growth,Referral,False,2,55.16,False,,7128.72
+SLEEK-0574,2022-12-20,SG,Corporate,Full Compliance,Paid,False,135,327.96,False,,95438.91
+SLEEK-0575,2023-09-05,HK,Corporate,Growth,Organic,False,137,104.31,False,,65017.41
+SLEEK-0576,2022-05-11,SG,SME,Growth,Paid,False,11,323.15,True,2022-05,1134.19
+SLEEK-0577,2024-12-20,SG,SME,Full Compliance,Partner,False,28,179.18,False,,1802.97
+SLEEK-0578,2024-08-17,SG,SME,Growth,Partner,False,22,149.86,False,,4484.68
+SLEEK-0579,2022-02-19,AU,Corporate,Full Compliance,Organic,False,66,111.87,False,,85636.81
+SLEEK-0580,2023-11-15,AU,Corporate,Growth,Referral,True,121,84.18,False,,57283.58
+SLEEK-0581,2022-06-25,SG,Startup,Starter,Referral,False,7,64.46,True,2022-06,747.01
+SLEEK-0582,2023-02-02,HK,Corporate,Growth,Partner,False,100,149.63,True,2023-11,30420.03
+SLEEK-0583,2024-08-01,AU,SME,Full Compliance,Paid,False,34,385.62,True,2024-10,5326.9
+SLEEK-0584,2023-12-31,UK,Startup,Growth,Paid,True,3,698.36,True,2024-02,2839.2
+SLEEK-0585,2023-12-26,HK,Startup,Starter,Partner,False,4,137.56,False,,1678.74
+SLEEK-0586,2024-01-06,UK,SME,Growth,Partner,True,27,174.99,False,,11984.95
+SLEEK-0587,2024-04-27,AU,Startup,Starter,Organic,False,8,115.08,True,2024-12,1679.71
+SLEEK-0588,2022-09-23,UK,Startup,Starter,Paid,True,2,423.78,False,,3760.91
+SLEEK-0589,2023-02-24,SG,Startup,Growth,Paid,False,8,295.73,False,,13699.18
+SLEEK-0590,2022-09-29,AU,SME,Starter,Partner,False,15,138.49,True,2024-04,2587.28
+SLEEK-0591,2023-02-02,SG,Corporate,Growth,Partner,False,42,165.97,False,,29381.67
+SLEEK-0592,2023-10-20,HK,Startup,Starter,Partner,False,8,146.34,True,2024-03,1242.34
+SLEEK-0593,2022-03-18,SG,Startup,Starter,Organic,False,4,70.61,False,,3223.53
+SLEEK-0594,2023-02-20,SG,Corporate,Full Compliance,Partner,True,43,152.43,False,,36554.28
+SLEEK-0595,2022-04-21,HK,SME,Starter,Organic,False,36,86.11,False,,3120.0
+SLEEK-0596,2024-12-28,HK,Startup,Starter,Partner,False,6,187.06,False,,877.17
+SLEEK-0597,2023-11-21,SG,SME,Growth,Partner,True,22,147.92,False,,15445.31
+SLEEK-0598,2022-03-11,SG,SME,Growth,Paid,False,9,368.95,False,,15187.24
+SLEEK-0599,2024-02-20,SG,Startup,Growth,Paid,False,7,321.02,False,,4794.63
+SLEEK-0600,2023-09-11,AU,Startup,Starter,Paid,False,6,529.14,False,,2260.21
+SLEEK-0601,2022-03-19,SG,Startup,Starter,Paid,False,4,381.47,False,,4918.99
+SLEEK-0602,2022-06-09,HK,Startup,Growth,Referral,False,2,75.93,False,,8281.67
+SLEEK-0603,2024-06-30,HK,Startup,Starter,Referral,True,2,82.76,True,2024-07,2632.37
+SLEEK-0604,2023-11-02,HK,SME,Growth,Partner,True,16,170.25,False,,11427.18
+SLEEK-0605,2022-01-01,AU,Corporate,Full Compliance,Partner,False,77,180.94,True,2024-01,70181.23
+SLEEK-0606,2023-10-26,SG,SME,Full Compliance,Organic,False,35,73.75,False,,20016.64
+SLEEK-0607,2022-01-17,AU,Corporate,Full Compliance,Partner,False,149,170.71,False,,178494.27
+SLEEK-0608,2022-06-04,SG,Startup,Growth,Referral,True,7,68.78,False,,13827.02
+SLEEK-0609,2024-04-11,HK,SME,Growth,Partner,False,38,162.89,False,,12948.04
+SLEEK-0610,2022-05-28,SG,SME,Growth,Partner,True,9,128.06,False,,15789.18
+SLEEK-0611,2024-01-21,SG,SME,Full Compliance,Partner,False,35,171.61,False,,16022.63
+SLEEK-0612,2024-07-10,HK,Startup,Starter,Paid,False,2,311.6,True,2024-09,1034.63
+SLEEK-0613,2024-10-24,HK,SME,Starter,Organic,False,10,105.36,False,,1047.35
+SLEEK-0614,2022-09-24,UK,SME,Growth,Referral,True,25,106.62,False,,23812.09
+SLEEK-0615,2022-07-01,HK,Startup,Starter,Partner,False,7,168.36,True,2024-05,2394.54
+SLEEK-0616,2022-02-18,SG,SME,Growth,Partner,False,38,148.13,False,,40785.42
+SLEEK-0617,2023-08-27,HK,Startup,Starter,Paid,False,7,413.17,False,,1971.29
+SLEEK-0618,2023-10-02,SG,SME,Growth,Paid,False,9,425.35,False,,9142.2
+SLEEK-0619,2024-01-20,SG,Startup,Starter,Referral,True,2,68.59,True,2024-02,2337.9
+SLEEK-0620,2024-07-03,HK,Corporate,Growth,Partner,False,70,139.23,False,,13654.85
+SLEEK-0621,2023-12-04,HK,SME,Full Compliance,Partner,False,17,189.91,False,,12036.38
+SLEEK-0622,2024-02-24,AU,SME,Starter,Paid,False,21,370.91,True,2024-11,4861.29
+SLEEK-0623,2023-06-26,HK,SME,Growth,Organic,True,33,76.18,True,2023-07,4760.43
+SLEEK-0624,2024-12-26,HK,Startup,Starter,Partner,False,4,171.74,False,,835.58
+SLEEK-0625,2024-11-11,SG,SME,Full Compliance,Organic,True,30,85.85,False,,4446.76
+SLEEK-0626,2024-10-26,UK,Startup,Starter,Partner,False,4,181.63,False,,890.86
+SLEEK-0627,2023-05-11,HK,Startup,Growth,Referral,True,4,72.48,False,,8553.7
+SLEEK-0628,2022-01-22,HK,Corporate,Full Compliance,Referral,True,52,79.29,False,,68840.88
+SLEEK-0629,2023-08-04,HK,SME,Starter,Paid,False,11,412.91,False,,1948.79
+SLEEK-0630,2024-02-04,UK,SME,Growth,Partner,True,16,216.65,False,,8146.02
+SLEEK-0631,2024-01-23,SG,SME,Starter,Partner,False,12,137.67,False,,1557.48
+SLEEK-0632,2024-05-24,HK,Corporate,Full Compliance,Paid,False,72,373.46,False,,20310.08
+SLEEK-0633,2022-01-09,SG,Startup,Full Compliance,Referral,False,5,54.35,False,,20266.2
+SLEEK-0634,2024-03-22,UK,Startup,Starter,Paid,False,3,445.93,False,,1340.02
+SLEEK-0635,2023-06-15,HK,Startup,Starter,Paid,False,4,290.21,False,,2156.95
+SLEEK-0636,2022-01-02,AU,Startup,Full Compliance,Paid,False,7,405.02,False,,25022.87
+SLEEK-0637,2023-08-14,SG,Startup,Starter,Organic,False,2,87.29,True,2024-10,1752.48
+SLEEK-0638,2024-09-14,HK,Startup,Starter,Partner,False,4,162.26,False,,1079.03
+SLEEK-0639,2022-07-05,HK,Startup,Starter,Referral,False,8,79.89,False,,4282.22
+SLEEK-0640,2022-12-28,HK,SME,Growth,Referral,False,27,83.09,False,,24181.01
+SLEEK-0641,2024-01-06,HK,SME,Growth,Referral,False,20,80.79,False,,9727.39
+SLEEK-0642,2023-02-26,SG,Startup,Starter,Referral,False,8,55.39,True,2024-06,1942.09
+SLEEK-0643,2023-11-26,AU,Corporate,Starter,Organic,True,55,111.51,False,,3930.09
+SLEEK-0644,2024-09-05,SG,SME,Growth,Referral,True,17,53.59,True,2024-12,4615.96
+SLEEK-0645,2022-04-04,HK,Startup,Starter,Partner,True,7,169.52,True,2023-09,3869.96
+SLEEK-0646,2023-03-03,SG,Startup,Growth,Referral,False,8,50.55,True,2024-06,7038.96
+SLEEK-0647,2023-11-22,HK,Startup,Growth,Organic,False,4,107.36,False,,5018.35
+SLEEK-0648,2022-04-25,SG,SME,Starter,Referral,True,25,52.16,True,2022-12,2782.26
+SLEEK-0649,2023-10-02,SG,Startup,Starter,Referral,False,5,66.99,False,,1748.47
+SLEEK-0650,2022-01-14,AU,Startup,Starter,Paid,False,6,444.77,True,2023-03,2135.51
+SLEEK-0651,2024-09-01,AU,Startup,Growth,Referral,False,6,66.18,False,,2483.78
+SLEEK-0652,2022-03-19,HK,Startup,Growth,Organic,False,2,97.82,True,2023-11,5869.29
+SLEEK-0653,2022-01-10,HK,SME,Growth,Paid,False,14,306.87,True,2022-05,3681.39
+SLEEK-0654,2024-11-05,HK,SME,Starter,Partner,False,25,177.3,False,,948.31
+SLEEK-0655,2024-08-06,SG,Startup,Starter,Organic,True,4,93.53,False,,3190.78
+SLEEK-0656,2024-01-04,SG,Startup,Growth,Paid,True,8,374.38,False,,7052.6
+SLEEK-0657,2022-10-11,SG,Startup,Starter,Organic,False,3,87.91,False,,2682.18
+SLEEK-0658,2024-04-24,AU,Startup,Growth,Organic,True,5,95.02,False,,6232.11
+SLEEK-0659,2023-03-19,HK,Startup,Full Compliance,Paid,False,3,343.7,True,2023-11,5076.69
+SLEEK-0660,2023-07-07,HK,Startup,Starter,Paid,False,2,431.82,True,2023-11,1151.57
+SLEEK-0661,2022-04-10,SG,Startup,Growth,Paid,False,6,357.06,True,2023-02,4457.69
+SLEEK-0662,2023-01-22,UK,SME,Starter,Paid,True,21,594.25,True,2023-08,2515.84
+SLEEK-0663,2024-05-26,HK,SME,Growth,Paid,False,22,314.53,False,,7728.08
+SLEEK-0664,2022-01-11,AU,SME,Growth,Organic,False,40,81.77,True,2023-12,35082.99
+SLEEK-0665,2023-08-16,SG,Startup,Starter,Paid,True,7,474.86,False,,3401.6
+SLEEK-0666,2022-01-16,SG,Startup,Growth,Paid,False,6,276.71,True,2024-03,10125.09
+SLEEK-0667,2022-10-11,AU,Startup,Growth,Paid,False,4,365.61,False,,10091.22
+SLEEK-0668,2022-05-25,HK,SME,Growth,Organic,False,26,96.87,False,,30060.7
+SLEEK-0669,2023-11-03,SG,Startup,Growth,Partner,False,6,140.14,True,2023-11,1033.67
+SLEEK-0670,2022-09-22,UK,SME,Growth,Partner,True,31,197.23,False,,27812.89
+SLEEK-0671,2023-02-08,SG,SME,Growth,Organic,False,21,84.77,True,2023-11,7916.62
+SLEEK-0672,2023-07-02,AU,SME,Growth,Paid,True,31,534.01,False,,29562.05
+SLEEK-0673,2022-11-27,SG,Startup,Starter,Referral,False,8,55.01,False,,2582.28
+SLEEK-0674,2022-05-15,HK,SME,Starter,Partner,True,33,184.57,True,2024-01,3915.6
+SLEEK-0675,2022-08-12,AU,Startup,Starter,Partner,True,3,143.62,True,2024-08,4869.18
+SLEEK-0676,2023-08-24,AU,Startup,Starter,Paid,False,5,591.2,False,,4701.22
+SLEEK-0677,2022-01-27,SG,Startup,Full Compliance,Referral,False,4,63.47,False,,19356.91
+SLEEK-0678,2024-12-21,HK,SME,Full Compliance,Referral,False,16,68.47,False,,1611.06
+SLEEK-0679,2023-04-10,AU,Startup,Starter,Referral,False,2,89.12,True,2023-08,1334.81
+SLEEK-0680,2023-03-10,SG,Startup,Starter,Partner,False,7,130.52,True,2023-03,709.92
+SLEEK-0681,2023-10-11,AU,Startup,Growth,Organic,False,3,97.64,False,,5547.91
+SLEEK-0682,2023-12-06,HK,Startup,Starter,Paid,False,6,497.03,False,,1677.49
+SLEEK-0683,2023-02-11,SG,Corporate,Growth,Partner,False,104,178.21,False,,65083.37
+SLEEK-0684,2022-10-22,SG,SME,Starter,Referral,False,36,61.57,True,2024-08,9095.57
+SLEEK-0685,2022-02-10,SG,Startup,Starter,Paid,True,4,335.04,True,2023-03,3186.88
+SLEEK-0686,2023-02-07,SG,Startup,Starter,Referral,False,7,60.92,True,2023-07,1104.25
+SLEEK-0687,2023-10-16,UK,Corporate,Growth,Paid,False,125,785.69,False,,48564.59
+SLEEK-0688,2022-05-12,SG,Startup,Starter,Partner,False,2,178.65,True,2022-08,929.49
+SLEEK-0689,2022-03-26,SG,SME,Growth,Partner,False,34,173.86,True,2023-03,14336.71
+SLEEK-0690,2022-09-11,SG,SME,Starter,Organic,False,13,94.72,True,2023-09,4366.47
+SLEEK-0691,2022-10-25,SG,SME,Full Compliance,Paid,False,26,281.5,False,,29571.41
+SLEEK-0692,2023-09-15,HK,Startup,Starter,Partner,True,8,175.35,False,,3626.55
+SLEEK-0693,2024-11-22,SG,Startup,Growth,Partner,False,7,145.03,False,,1383.64
+SLEEK-0694,2024-10-06,HK,Startup,Full Compliance,Referral,False,6,57.87,False,,2459.01
+SLEEK-0695,2024-09-01,HK,Startup,Full Compliance,Organic,False,7,101.46,False,,3205.22
+SLEEK-0696,2022-04-30,HK,SME,Starter,Organic,False,30,88.6,True,2023-11,2171.43
+SLEEK-0697,2024-05-10,SG,Startup,Starter,Paid,False,8,375.85,True,2024-06,774.47
+SLEEK-0698,2022-12-09,HK,SME,Growth,Referral,False,27,80.43,False,,28325.2
+SLEEK-0699,2023-03-01,SG,SME,Starter,Paid,False,34,292.02,False,,7643.22
+SLEEK-0700,2022-01-26,SG,Corporate,Full Compliance,Organic,False,107,83.63,False,,111935.8
+SLEEK-0701,2022-08-22,AU,SME,Growth,Referral,True,16,87.48,True,2023-05,9958.79
+SLEEK-0702,2023-06-07,UK,Startup,Starter,Paid,False,6,507.92,False,,3602.32
+SLEEK-0703,2022-02-28,AU,Startup,Growth,Referral,True,7,63.56,True,2022-04,4222.34
+SLEEK-0704,2022-03-25,SG,Startup,Growth,Organic,False,8,66.49,True,2023-02,5495.36
+SLEEK-0705,2023-08-04,SG,Startup,Full Compliance,Organic,False,2,65.39,True,2024-12,8619.41
+SLEEK-0706,2023-02-25,AU,SME,Growth,Partner,False,9,149.6,False,,12191.07
+SLEEK-0707,2024-03-28,SG,SME,Growth,Partner,True,12,163.71,False,,7214.54
+SLEEK-0708,2022-02-06,SG,SME,Full Compliance,Organic,False,14,81.19,True,2022-04,2912.78
+SLEEK-0709,2023-09-30,UK,Corporate,Growth,Partner,True,53,207.15,False,,28131.01
+SLEEK-0710,2022-01-25,SG,Startup,Full Compliance,Paid,True,3,271.82,True,2024-09,18417.6
+SLEEK-0711,2022-03-25,HK,Startup,Starter,Organic,False,5,89.77,True,2024-02,2478.03
+SLEEK-0712,2024-06-28,HK,Startup,Starter,Partner,False,5,154.07,True,2024-08,982.54
+SLEEK-0713,2023-03-01,SG,Startup,Full Compliance,Partner,True,5,149.5,False,,14177.7
+SLEEK-0714,2024-03-19,HK,SME,Growth,Organic,True,18,93.26,False,,9307.12
+SLEEK-0715,2023-02-08,SG,Corporate,Full Compliance,Referral,True,131,65.4,False,,86668.34
+SLEEK-0716,2024-03-30,AU,SME,Growth,Partner,False,39,181.33,False,,14729.48
+SLEEK-0717,2022-09-08,HK,Startup,Starter,Paid,False,3,349.62,False,,11504.93
+SLEEK-0718,2023-01-13,SG,SME,Growth,Partner,False,14,139.62,False,,13883.7
+SLEEK-0719,2024-10-05,AU,SME,Growth,Paid,False,39,334.69,False,,5145.55
+SLEEK-0720,2022-02-06,HK,Startup,Full Compliance,Partner,False,2,130.02,True,2022-05,2603.56
+SLEEK-0721,2023-03-22,SG,Startup,Growth,Paid,False,5,294.79,True,2024-10,11557.88
+SLEEK-0722,2023-08-22,SG,Startup,Growth,Paid,False,6,471.31,False,,6604.18
+SLEEK-0723,2024-10-10,AU,Startup,Growth,Paid,False,8,361.43,False,,2230.6
+SLEEK-0724,2022-07-17,UK,Startup,Starter,Organic,False,6,113.59,True,2024-06,2551.84
+SLEEK-0725,2022-06-14,SG,SME,Growth,Paid,True,27,340.64,False,,32506.65
+SLEEK-0726,2023-09-17,HK,Corporate,Growth,Organic,False,44,78.11,False,,23344.0
+SLEEK-0727,2024-05-12,HK,SME,Starter,Referral,False,28,75.49,False,,1318.29
+SLEEK-0728,2024-03-07,SG,Startup,Starter,Referral,False,4,60.07,False,,1402.2
+SLEEK-0729,2022-02-27,SG,Startup,Growth,Partner,False,4,132.84,True,2022-03,1236.45
+SLEEK-0730,2024-06-30,UK,Startup,Full Compliance,Organic,True,6,130.45,False,,5631.16
+SLEEK-0731,2023-01-21,SG,Startup,Growth,Partner,False,7,150.28,False,,9657.16
+SLEEK-0732,2024-11-21,HK,Startup,Starter,Paid,True,2,386.88,False,,2760.48
+SLEEK-0733,2024-10-19,HK,Startup,Starter,Organic,False,5,106.64,True,2024-10,841.37
+SLEEK-0734,2024-10-24,SG,SME,Growth,Partner,False,17,151.34,False,,2498.53
+SLEEK-0735,2024-02-21,SG,SME,Starter,Partner,False,18,144.75,False,,6189.25
+SLEEK-0736,2022-01-26,SG,SME,Full Compliance,Referral,False,35,59.14,True,2022-03,4497.21
+SLEEK-0737,2022-02-22,SG,Corporate,Full Compliance,Paid,True,132,338.47,False,,130557.3
+SLEEK-0738,2022-06-21,HK,Startup,Starter,Partner,True,5,147.07,False,,4748.14
+SLEEK-0739,2024-03-23,AU,SME,Full Compliance,Partner,True,15,185.25,False,,11833.84
+SLEEK-0740,2024-12-11,HK,Startup,Starter,Organic,True,2,103.84,False,,2654.56
+SLEEK-0741,2024-03-09,AU,Startup,Growth,Referral,False,3,82.32,True,2024-08,2788.09
+SLEEK-0742,2022-03-02,SG,Startup,Starter,Partner,False,4,142.48,False,,3226.82
+SLEEK-0743,2023-07-23,HK,Startup,Growth,Organic,False,7,105.73,True,2023-09,1925.16
+SLEEK-0744,2024-03-22,SG,Startup,Growth,Referral,False,7,49.31,False,,5373.23
+SLEEK-0745,2024-11-04,SG,SME,Growth,Paid,False,8,286.26,False,,1454.61
+SLEEK-0746,2023-02-17,UK,Startup,Starter,Partner,False,4,234.91,False,,2204.55
+SLEEK-0747,2023-11-14,SG,SME,Growth,Partner,True,39,136.44,False,,18604.53
+SLEEK-0748,2024-05-15,HK,Startup,Growth,Partner,False,7,180.5,False,,3883.62
+SLEEK-0749,2023-06-15,SG,Startup,Growth,Paid,False,3,353.53,False,,5904.52
+SLEEK-0750,2024-03-31,HK,SME,Starter,Organic,False,15,83.0,False,,1531.72
+SLEEK-0751,2024-10-22,SG,Startup,Starter,Partner,False,8,176.37,False,,1164.77
+SLEEK-0752,2023-11-02,AU,Startup,Growth,Referral,False,3,65.96,True,2024-07,3723.04
+SLEEK-0753,2023-01-18,SG,Startup,Growth,Partner,False,5,157.6,True,2024-09,7440.25
+SLEEK-0754,2022-05-05,SG,SME,Starter,Organic,False,15,75.77,False,,9893.15
+SLEEK-0755,2024-08-04,SG,Startup,Starter,Referral,False,8,52.88,False,,1026.76
+SLEEK-0756,2022-09-24,AU,Startup,Starter,Paid,True,8,335.4,False,,7723.87
+SLEEK-0757,2022-02-09,SG,SME,Starter,Referral,True,37,58.82,True,2022-07,4738.36
+SLEEK-0758,2024-04-23,SG,Startup,Starter,Partner,False,2,145.4,False,,1350.4
+SLEEK-0759,2022-10-22,SG,Startup,Full Compliance,Paid,False,2,332.57,True,2024-11,12855.47
+SLEEK-0760,2024-03-18,SG,Startup,Starter,Paid,True,5,278.96,False,,3046.79
+SLEEK-0761,2023-04-21,UK,SME,Growth,Organic,True,28,116.78,True,2024-11,24570.73
+SLEEK-0762,2024-07-10,SG,Startup,Full Compliance,Partner,False,4,135.79,False,,3759.84
+SLEEK-0763,2024-10-03,HK,Startup,Growth,Organic,False,7,77.45,False,,1972.34
+SLEEK-0764,2022-04-22,HK,Startup,Starter,Organic,False,7,73.29,False,,3087.53
+SLEEK-0765,2024-10-10,HK,Startup,Starter,Partner,False,5,150.82,False,,1038.18
+SLEEK-0766,2022-10-31,HK,Startup,Starter,Referral,False,3,58.62,True,2024-02,1991.99
+SLEEK-0767,2023-03-11,AU,SME,Growth,Partner,False,19,202.07,False,,21890.17
+SLEEK-0768,2023-01-10,SG,Startup,Growth,Referral,False,6,64.34,True,2024-06,6919.62
+SLEEK-0769,2022-06-30,UK,Startup,Starter,Paid,True,5,588.79,True,2023-02,2669.84
+SLEEK-0770,2023-11-06,HK,Startup,Full Compliance,Referral,False,4,74.37,True,2023-11,1314.47
+SLEEK-0771,2024-08-25,UK,Corporate,Full Compliance,Partner,True,122,176.91,False,,18463.1
+SLEEK-0772,2023-02-13,SG,SME,Starter,Partner,False,33,134.4,True,2024-03,1669.33
+SLEEK-0773,2023-03-05,SG,SME,Starter,Organic,False,27,79.71,False,,2328.66
+SLEEK-0774,2022-09-07,UK,SME,Full Compliance,Paid,True,32,522.63,False,,34034.78
+SLEEK-0775,2024-05-15,HK,SME,Full Compliance,Paid,False,35,365.94,False,,11770.16
+SLEEK-0776,2023-12-05,SG,Startup,Full Compliance,Partner,False,2,151.64,False,,6776.11
+SLEEK-0777,2023-01-22,SG,Startup,Full Compliance,Partner,False,4,170.49,True,2023-03,2203.97
+SLEEK-0778,2024-11-17,HK,SME,Starter,Partner,True,24,155.19,False,,2590.1
+SLEEK-0779,2022-08-06,SG,SME,Growth,Partner,True,34,170.57,True,2023-02,9687.27
+SLEEK-0780,2024-07-20,AU,Startup,Growth,Paid,False,4,372.39,False,,2953.09
+SLEEK-0781,2022-12-07,UK,SME,Starter,Organic,True,14,143.14,False,,10348.04
+SLEEK-0782,2022-08-23,SG,Startup,Starter,Paid,False,7,340.19,False,,8687.39
+SLEEK-0783,2024-01-09,HK,SME,Growth,Partner,False,27,189.64,False,,11996.3
+SLEEK-0784,2024-04-28,SG,Startup,Starter,Organic,True,3,79.4,False,,2980.19
+SLEEK-0785,2022-08-05,SG,SME,Growth,Partner,True,17,121.31,False,,20427.12
+SLEEK-0786,2022-02-10,AU,Startup,Growth,Paid,True,6,392.95,True,2024-01,12801.55
+SLEEK-0787,2022-07-30,AU,Startup,Growth,Organic,False,8,108.52,False,,14774.93
+SLEEK-0788,2023-08-19,HK,SME,Starter,Partner,False,39,153.58,False,,2016.9
+SLEEK-0789,2023-05-21,SG,Startup,Starter,Organic,False,7,79.15,False,,6070.86
+SLEEK-0790,2022-02-15,SG,SME,Starter,Organic,False,29,71.03,True,2023-05,1848.55
+SLEEK-0791,2023-09-23,UK,SME,Starter,Referral,False,34,82.56,True,2024-01,1019.4
+SLEEK-0792,2024-08-25,AU,SME,Growth,Referral,False,26,85.34,True,2024-10,3888.83
+SLEEK-0793,2022-12-21,HK,Startup,Starter,Paid,True,5,364.8,False,,4319.23
+SLEEK-0794,2023-12-23,UK,Startup,Starter,Organic,False,4,96.87,False,,1574.76
+SLEEK-0795,2024-10-28,HK,Startup,Starter,Partner,False,6,132.07,False,,1032.07
+SLEEK-0796,2024-01-25,SG,SME,Full Compliance,Referral,True,40,54.42,False,,19121.67
+SLEEK-0797,2024-06-15,HK,Startup,Growth,Organic,False,2,106.66,False,,2499.38
+SLEEK-0798,2022-07-28,AU,SME,Full Compliance,Partner,True,15,138.85,False,,30002.03
+SLEEK-0799,2023-08-22,AU,Corporate,Full Compliance,Organic,False,52,110.48,False,,34848.69
+SLEEK-0800,2022-02-25,SG,Startup,Growth,Partner,False,4,134.72,False,,19197.69
+SLEEK-0801,2023-11-22,SG,Startup,Starter,Organic,False,8,88.1,False,,1674.31
+SLEEK-0802,2022-09-26,SG,SME,Growth,Referral,False,8,70.65,True,2024-03,8297.56
+SLEEK-0803,2023-11-24,AU,Startup,Starter,Organic,True,2,119.28,True,2024-01,3121.95
+SLEEK-0804,2022-11-23,SG,Startup,Growth,Partner,False,5,172.55,True,2023-03,2294.32
+SLEEK-0805,2022-06-01,SG,SME,Full Compliance,Referral,False,17,69.61,True,2024-02,18504.4
+SLEEK-0806,2024-06-24,AU,Startup,Growth,Organic,False,5,115.51,False,,3482.56
+SLEEK-0807,2023-11-17,AU,SME,Growth,Organic,False,26,108.76,False,,18343.98
+SLEEK-0808,2022-01-01,SG,Startup,Growth,Paid,False,8,325.11,True,2023-09,9054.47
+SLEEK-0809,2022-08-15,AU,SME,Growth,Partner,False,40,193.23,True,2023-04,13699.78
+SLEEK-0810,2022-03-01,SG,Startup,Starter,Referral,False,6,71.59,False,,3190.41
+SLEEK-0811,2024-12-28,HK,SME,Full Compliance,Referral,False,16,62.55,False,,1631.09
+SLEEK-0812,2023-11-03,AU,Startup,Starter,Organic,False,5,87.7,False,,3952.18
+SLEEK-0813,2022-01-16,SG,SME,Starter,Partner,False,33,124.68,True,2024-02,2619.22
+SLEEK-0814,2023-06-25,HK,Startup,Growth,Paid,False,7,369.1,True,2023-06,1145.0
+SLEEK-0815,2024-09-21,UK,Startup,Starter,Partner,True,5,200.46,False,,2261.44
+SLEEK-0816,2022-02-02,SG,SME,Growth,Partner,False,15,176.64,False,,20716.82
+SLEEK-0817,2023-08-17,HK,Startup,Starter,Organic,False,4,77.52,True,2024-11,1902.65
+SLEEK-0818,2022-01-10,SG,Startup,Growth,Referral,False,5,53.17,True,2024-07,10754.63
+SLEEK-0819,2022-05-19,SG,Startup,Starter,Organic,False,8,74.81,True,2022-06,802.8
+SLEEK-0820,2024-10-30,AU,SME,Growth,Partner,False,17,187.79,False,,3145.56
+SLEEK-0821,2024-04-18,AU,Startup,Starter,Referral,False,2,87.01,False,,1708.36
+SLEEK-0822,2024-03-23,UK,SME,Starter,Referral,True,27,77.96,True,2024-04,2035.89
+SLEEK-0823,2023-01-30,HK,Startup,Full Compliance,Referral,False,6,71.17,True,2023-09,5814.83
+SLEEK-0824,2022-02-08,HK,SME,Starter,Referral,True,9,82.21,False,,5048.96
+SLEEK-0825,2024-02-26,SG,Startup,Starter,Partner,False,5,139.23,False,,1454.09
+SLEEK-0826,2024-04-29,AU,Startup,Starter,Paid,False,2,384.24,False,,1663.72
+SLEEK-0827,2022-01-05,SG,Startup,Starter,Organic,True,6,77.03,False,,5503.49
+SLEEK-0828,2023-04-02,UK,Startup,Starter,Referral,True,4,83.52,False,,3374.49
+SLEEK-0829,2022-03-19,SG,Corporate,Growth,Partner,False,54,150.52,False,,53647.0
+SLEEK-0830,2022-03-08,SG,Startup,Full Compliance,Referral,False,6,48.45,False,,20005.37
+SLEEK-0831,2022-09-15,HK,Startup,Starter,Referral,True,7,67.39,False,,4339.21
+SLEEK-0832,2022-12-11,HK,SME,Growth,Organic,False,36,91.35,True,2023-01,3197.28
+SLEEK-0833,2023-03-01,SG,SME,Starter,Partner,False,24,175.31,True,2024-07,1953.26
+SLEEK-0834,2023-03-12,AU,Startup,Growth,Paid,True,7,381.57,False,,12228.51
+SLEEK-0835,2022-09-09,HK,Startup,Growth,Organic,False,5,98.1,True,2024-01,10571.64
+SLEEK-0836,2024-11-09,SG,Startup,Full Compliance,Partner,False,7,162.47,False,,1835.19
+SLEEK-0837,2024-02-04,UK,Startup,Starter,Paid,True,2,606.12,False,,2678.49
+SLEEK-0838,2022-12-22,HK,Startup,Starter,Organic,False,8,104.23,True,2023-12,1674.65
+SLEEK-0839,2023-11-15,SG,Startup,Growth,Partner,False,8,141.18,False,,6278.59
+SLEEK-0840,2022-01-18,HK,Startup,Starter,Partner,True,2,151.71,True,2022-05,2955.53
+SLEEK-0841,2024-02-27,SG,Startup,Growth,Organic,False,3,73.7,False,,6404.09
+SLEEK-0842,2023-10-18,UK,Corporate,Full Compliance,Organic,True,65,129.93,False,,31091.1
+SLEEK-0843,2023-03-12,UK,SME,Growth,Organic,True,19,119.71,True,2024-08,13432.97
+SLEEK-0844,2022-04-17,SG,Startup,Growth,Organic,False,2,72.78,False,,10167.28
+SLEEK-0845,2023-02-14,UK,SME,Growth,Paid,True,35,599.69,True,2024-01,14007.43
+SLEEK-0846,2023-10-24,HK,Corporate,Growth,Organic,True,127,107.82,False,,58767.03
+SLEEK-0847,2022-03-31,HK,Startup,Growth,Paid,False,5,311.44,True,2022-05,1740.9
+SLEEK-0848,2023-11-17,HK,Startup,Starter,Paid,True,7,522.08,False,,3510.81
+SLEEK-0849,2024-02-10,SG,SME,Starter,Partner,True,35,157.52,False,,6354.13
+SLEEK-0850,2023-11-16,AU,SME,Full Compliance,Referral,False,29,67.41,True,2024-01,4964.14
+SLEEK-0851,2023-04-30,AU,SME,Full Compliance,Paid,False,14,421.91,True,2023-08,5322.05
+SLEEK-0852,2022-05-05,HK,SME,Full Compliance,Organic,False,12,85.59,True,2023-07,11753.47
+SLEEK-0853,2022-04-23,AU,Startup,Starter,Referral,True,7,78.79,True,2022-05,3070.79
+SLEEK-0854,2022-07-08,SG,Startup,Growth,Partner,False,5,167.25,False,,10418.5
+SLEEK-0855,2023-11-26,SG,SME,Starter,Partner,False,14,151.03,False,,1692.19
+SLEEK-0856,2023-03-05,SG,SME,Growth,Organic,False,36,72.2,False,,24885.32
+SLEEK-0857,2022-09-21,SG,Startup,Growth,Organic,False,8,73.96,False,,11891.4
+SLEEK-0858,2022-09-19,SG,Startup,Growth,Referral,True,8,51.47,False,,13337.34
+SLEEK-0859,2023-02-05,AU,SME,Full Compliance,Paid,True,12,401.36,True,2023-02,3554.88
+SLEEK-0860,2024-06-28,SG,SME,Growth,Partner,False,34,177.78,False,,8937.78
+SLEEK-0861,2024-01-21,SG,Startup,Starter,Partner,False,3,133.82,False,,1561.01
+SLEEK-0862,2024-02-09,HK,SME,Starter,Partner,False,31,139.79,False,,2620.6
+SLEEK-0863,2022-11-19,SG,Startup,Full Compliance,Referral,False,3,56.64,True,2023-04,3638.16
+SLEEK-0864,2023-09-08,SG,Startup,Starter,Partner,False,2,121.29,False,,1849.07
+SLEEK-0865,2023-01-10,SG,SME,Growth,Paid,False,18,303.31,False,,19246.56
+SLEEK-0866,2024-11-19,UK,Corporate,Growth,Partner,True,56,216.88,False,,5015.33
+SLEEK-0867,2024-02-06,AU,Startup,Starter,Paid,False,2,369.29,False,,1860.32
+SLEEK-0868,2023-08-26,AU,SME,Growth,Partner,True,25,158.28,False,,22604.22
+SLEEK-0869,2024-09-28,AU,SME,Starter,Partner,False,12,141.54,False,,1277.34
+SLEEK-0870,2023-09-15,SG,Startup,Starter,Partner,False,5,162.75,False,,1837.47
+SLEEK-0871,2024-04-01,AU,Startup,Growth,Organic,False,3,111.62,False,,3723.33
+SLEEK-0872,2022-07-19,SG,Startup,Starter,Partner,False,2,170.55,True,2022-09,889.82
+SLEEK-0873,2022-08-17,SG,Startup,Growth,Paid,False,5,310.54,False,,13752.87
+SLEEK-0874,2022-05-21,SG,Startup,Starter,Organic,False,6,92.85,False,,3063.24
+SLEEK-0875,2023-04-12,HK,SME,Starter,Partner,True,20,132.57,False,,3857.8
+SLEEK-0876,2023-05-07,SG,SME,Growth,Paid,False,24,383.74,False,,22059.61
+SLEEK-0877,2023-07-27,SG,Startup,Growth,Partner,False,6,159.32,False,,6949.55
+SLEEK-0878,2023-01-20,UK,Corporate,Growth,Partner,True,106,219.93,False,,66964.2
+SLEEK-0879,2024-08-02,HK,SME,Growth,Referral,False,35,58.4,False,,6619.3
+SLEEK-0880,2024-07-10,AU,SME,Full Compliance,Organic,True,16,81.2,False,,8318.76
+SLEEK-0881,2023-04-14,SG,SME,Growth,Referral,False,27,66.06,False,,19083.31
+SLEEK-0882,2024-02-19,SG,Startup,Growth,Referral,False,8,62.47,False,,5042.07
+SLEEK-0883,2022-08-04,SG,Startup,Starter,Partner,False,4,177.72,False,,5208.67
+SLEEK-0884,2022-08-01,SG,Startup,Starter,Referral,False,4,49.67,True,2023-06,1475.32
+SLEEK-0885,2023-01-06,SG,Startup,Starter,Referral,False,2,69.84,True,2024-02,1715.51
+SLEEK-0886,2022-04-05,SG,Startup,Growth,Referral,False,7,55.43,True,2022-10,3293.6
+SLEEK-0887,2023-02-20,HK,SME,Growth,Partner,False,8,171.83,False,,13124.44
+SLEEK-0888,2024-02-10,UK,Startup,Growth,Referral,False,5,90.93,False,,3891.15
+SLEEK-0889,2023-08-13,HK,SME,Growth,Partner,False,27,186.81,False,,16770.49
+SLEEK-0890,2022-03-24,SG,SME,Growth,Partner,False,14,143.08,False,,27335.64
+SLEEK-0891,2024-03-18,SG,Corporate,Growth,Paid,False,132,373.29,True,2024-12,35515.07
+SLEEK-0892,2024-07-20,UK,Corporate,Full Compliance,Paid,True,53,623.03,False,,11823.02
+SLEEK-0893,2022-12-04,HK,SME,Starter,Paid,False,12,350.85,True,2024-02,1840.56
+SLEEK-0894,2023-12-05,HK,SME,Growth,Referral,False,8,79.96,False,,7754.11
+SLEEK-0895,2023-08-03,SG,SME,Starter,Organic,False,36,85.02,False,,1953.62
+SLEEK-0896,2022-01-06,SG,SME,Starter,Partner,False,12,152.08,True,2024-04,15371.71
+SLEEK-0897,2024-06-21,HK,Startup,Starter,Organic,True,7,79.8,False,,2923.47
+SLEEK-0898,2024-12-06,HK,Startup,Growth,Organic,False,5,97.79,False,,1096.64
+SLEEK-0899,2022-04-10,HK,Startup,Growth,Referral,False,4,77.48,True,2023-03,4400.45
+SLEEK-0900,2022-06-29,UK,Startup,Full Compliance,Organic,True,7,112.18,False,,19117.09
+SLEEK-0901,2024-12-06,SG,Corporate,Starter,Organic,False,81,80.4,False,,697.33
+SLEEK-0902,2024-03-20,HK,Startup,Full Compliance,Organic,True,4,76.35,False,,7418.69
+SLEEK-0903,2022-01-03,SG,Startup,Growth,Referral,False,2,54.68,False,,9671.44
+SLEEK-0904,2023-02-23,SG,Startup,Starter,Paid,False,3,382.79,True,2024-03,1671.25
+SLEEK-0905,2023-12-05,SG,Startup,Starter,Paid,False,4,489.12,False,,1632.86
+SLEEK-0906,2022-06-19,UK,SME,Growth,Organic,True,22,124.08,True,2023-10,13783.88
+SLEEK-0907,2022-02-13,HK,SME,Growth,Organic,False,35,104.28,False,,45293.6
+SLEEK-0908,2024-02-07,AU,SME,Growth,Organic,False,10,88.08,True,2024-12,8947.04
+SLEEK-0909,2022-03-09,SG,SME,Growth,Partner,True,34,167.22,False,,41051.29
+SLEEK-0910,2023-11-10,HK,Startup,Starter,Organic,True,7,79.41,False,,3437.14
+SLEEK-0911,2023-01-14,UK,SME,Growth,Referral,True,36,85.73,False,,26865.45
+SLEEK-0912,2023-01-30,HK,Startup,Starter,Paid,False,3,418.88,True,2024-12,4269.74
+SLEEK-0913,2024-01-14,SG,SME,Growth,Partner,False,23,138.69,False,,12778.44
+SLEEK-0914,2023-04-09,SG,SME,Full Compliance,Paid,False,31,317.59,True,2023-06,4286.25
+SLEEK-0915,2023-03-27,SG,Startup,Full Compliance,Paid,False,5,317.7,True,2024-07,9897.08
+SLEEK-0916,2022-11-09,AU,SME,Growth,Partner,False,27,147.95,True,2024-10,25485.79
+SLEEK-0917,2022-05-28,HK,Startup,Starter,Referral,True,3,76.02,False,,4771.35
+SLEEK-0918,2022-07-13,SG,SME,Full Compliance,Partner,False,12,142.39,False,,22097.58
+SLEEK-0919,2022-04-25,SG,Startup,Starter,Partner,False,7,135.32,True,2023-12,2244.61
+SLEEK-0920,2022-02-14,SG,SME,Growth,Partner,True,31,134.54,False,,36211.95
+SLEEK-0921,2022-10-30,HK,SME,Starter,Partner,False,24,157.15,True,2023-06,1420.95
+SLEEK-0922,2022-01-21,SG,SME,Growth,Partner,False,13,143.06,True,2022-01,1203.67
+SLEEK-0923,2024-05-24,HK,Startup,Starter,Paid,False,7,322.31,False,,1368.26
+SLEEK-0924,2022-07-02,AU,SME,Starter,Referral,False,17,77.18,False,,3421.05
+SLEEK-0925,2023-01-27,SG,Startup,Starter,Referral,False,5,50.32,False,,2431.66
+SLEEK-0926,2022-12-16,HK,SME,Starter,Partner,True,39,139.93,False,,4351.51
+SLEEK-0927,2024-01-24,SG,Corporate,Growth,Partner,True,92,165.55,False,,32189.2
+SLEEK-0928,2023-01-13,SG,Corporate,Growth,Organic,True,70,66.06,True,2024-10,45181.4
+SLEEK-0929,2022-05-06,HK,SME,Starter,Organic,False,10,106.39,True,2024-01,2300.59
+SLEEK-0930,2023-05-16,SG,Startup,Starter,Organic,False,4,74.78,True,2024-08,3082.51
+SLEEK-0931,2023-05-06,HK,Startup,Full Compliance,Paid,False,2,373.11,False,,9736.13
+SLEEK-0932,2022-06-04,UK,SME,Growth,Partner,False,16,215.86,True,2023-09,9613.8
+SLEEK-0933,2024-04-12,SG,Startup,Starter,Referral,False,6,64.47,False,,1298.31
+SLEEK-0934,2024-01-21,SG,Startup,Starter,Partner,False,4,122.75,True,2024-08,1238.37
+SLEEK-0935,2022-06-16,HK,Startup,Starter,Paid,False,5,411.47,True,2024-09,2719.44
+SLEEK-0936,2024-06-21,UK,SME,Growth,Partner,False,40,208.57,False,,8570.66
+SLEEK-0937,2024-08-06,SG,Startup,Growth,Organic,False,6,94.56,False,,2639.85
+SLEEK-0938,2023-02-23,SG,Startup,Starter,Referral,False,5,70.3,True,2023-04,877.56
+SLEEK-0939,2024-09-02,AU,Startup,Full Compliance,Organic,False,6,106.82,False,,3432.21
+SLEEK-0940,2023-11-13,HK,Startup,Growth,Referral,False,6,82.09,False,,5691.06
+SLEEK-0941,2023-11-21,SG,Startup,Growth,Partner,False,3,177.97,False,,5310.26
+SLEEK-0942,2022-04-24,SG,Startup,Full Compliance,Organic,True,4,82.33,True,2023-08,10959.83
+SLEEK-0943,2022-08-03,UK,SME,Growth,Organic,True,35,105.11,False,,31425.84
+SLEEK-0944,2023-10-19,SG,Startup,Starter,Referral,False,5,57.49,False,,1778.34
+SLEEK-0945,2022-03-20,SG,SME,Starter,Paid,False,10,351.62,True,2024-09,7998.98
+SLEEK-0946,2022-09-10,HK,Startup,Starter,Partner,False,7,182.25,True,2022-12,1044.6
+SLEEK-0947,2024-02-11,AU,Startup,Starter,Referral,True,7,84.31,False,,3758.04
+SLEEK-0948,2023-01-28,SG,SME,Growth,Partner,False,18,143.51,True,2023-11,7855.83
+SLEEK-0949,2024-04-25,UK,Startup,Starter,Paid,True,2,488.45,False,,2511.54
+SLEEK-0950,2023-02-04,HK,Startup,Growth,Referral,True,4,71.34,False,,10801.26
+SLEEK-0951,2023-09-15,AU,SME,Growth,Partner,True,38,147.13,False,,24395.12
+SLEEK-0952,2023-01-12,SG,Startup,Growth,Organic,False,8,82.42,True,2023-10,4631.31
+SLEEK-0953,2024-02-12,SG,Corporate,Full Compliance,Partner,True,105,130.78,False,,36287.0
+SLEEK-0954,2024-04-07,HK,SME,Starter,Partner,False,27,135.6,False,,1453.41
+SLEEK-0955,2024-02-08,HK,Corporate,Full Compliance,Partner,False,51,191.43,True,2024-08,13673.15
+SLEEK-0956,2023-07-18,AU,SME,Growth,Referral,True,15,73.35,True,2024-07,13788.57
+SLEEK-0957,2023-03-19,SG,Startup,Starter,Referral,True,6,64.65,False,,3948.84
+SLEEK-0958,2022-02-11,SG,Startup,Starter,Referral,False,3,69.81,True,2022-12,3106.33
+SLEEK-0959,2024-09-16,SG,SME,Starter,Paid,False,15,363.15,False,,955.24
+SLEEK-0960,2022-08-29,AU,Startup,Starter,Referral,True,6,77.97,False,,9260.93
+SLEEK-0961,2023-02-18,SG,Startup,Starter,Organic,True,2,88.1,False,,3906.56
+SLEEK-0962,2024-05-16,HK,Startup,Full Compliance,Paid,True,2,372.14,False,,6117.76
+SLEEK-0963,2024-04-05,UK,Startup,Starter,Referral,True,4,77.03,False,,2545.59
+SLEEK-0964,2024-11-11,HK,Corporate,Growth,Referral,False,70,58.77,False,,5086.89
+SLEEK-0965,2022-03-07,SG,Startup,Growth,Partner,False,5,136.64,True,2023-11,8520.5
+SLEEK-0966,2024-02-09,SG,Startup,Growth,Paid,True,3,376.35,False,,5289.85
+SLEEK-0967,2023-02-19,SG,SME,Growth,Partner,False,34,169.23,False,,24777.86
+SLEEK-0968,2024-02-16,AU,Startup,Starter,Referral,True,2,78.11,False,,3653.88
+SLEEK-0969,2023-11-06,HK,SME,Growth,Paid,False,25,479.65,True,2024-04,7453.68
+SLEEK-0970,2022-04-13,SG,SME,Full Compliance,Paid,True,27,356.19,False,,38358.6
+SLEEK-0971,2023-12-16,HK,SME,Growth,Organic,False,14,103.15,True,2024-04,3707.44
+SLEEK-0972,2024-03-08,AU,Startup,Starter,Partner,False,8,190.81,False,,1748.97
+SLEEK-0973,2024-09-03,HK,SME,Growth,Partner,False,17,144.58,False,,3467.81
+SLEEK-0974,2023-07-02,HK,Startup,Starter,Referral,False,7,76.31,True,2023-11,1158.08
+SLEEK-0975,2024-07-26,AU,SME,Starter,Paid,False,40,453.91,False,,2685.73
+SLEEK-0976,2023-04-10,SG,Corporate,Full Compliance,Partner,True,138,125.22,False,,82897.95
+SLEEK-0977,2023-03-19,SG,Startup,Starter,Organic,False,5,87.79,True,2023-07,1005.62
+SLEEK-0978,2024-11-07,AU,Startup,Full Compliance,Partner,False,7,145.28,False,,2261.84
+SLEEK-0979,2023-07-21,UK,SME,Starter,Referral,False,8,78.85,False,,1839.6
+SLEEK-0980,2023-05-16,AU,SME,Full Compliance,Referral,False,10,79.84,False,,16070.09
+SLEEK-0981,2024-12-08,HK,Corporate,Full Compliance,Partner,True,57,139.19,False,,4423.08
+SLEEK-0982,2024-02-16,HK,Corporate,Growth,Referral,True,126,83.15,False,,44771.84
+SLEEK-0983,2022-02-09,SG,Startup,Starter,Referral,False,3,65.71,False,,3258.73
+SLEEK-0984,2023-11-10,UK,Corporate,Full Compliance,Partner,True,119,162.83,False,,47085.8
+SLEEK-0985,2024-07-31,AU,Startup,Starter,Organic,True,7,94.16,False,,3357.63
+SLEEK-0986,2023-03-05,SG,Startup,Starter,Organic,True,8,93.22,True,2023-10,2711.89
+SLEEK-0987,2023-09-05,HK,Startup,Starter,Paid,False,4,587.12,False,,1949.88
+SLEEK-0988,2022-07-01,SG,Startup,Starter,Partner,True,3,172.23,True,2024-03,3729.26
+SLEEK-0989,2022-03-07,SG,Startup,Full Compliance,Paid,False,2,378.84,False,,16682.18
+SLEEK-0990,2023-07-17,SG,SME,Growth,Partner,False,16,164.51,False,,11423.82
+SLEEK-0991,2022-11-08,SG,Startup,Starter,Organic,False,6,90.55,False,,2575.41
+SLEEK-0992,2024-09-22,AU,Startup,Starter,Organic,False,7,97.16,False,,1213.42
+SLEEK-0993,2023-06-24,HK,Startup,Full Compliance,Referral,False,3,62.93,True,2023-10,3183.63
+SLEEK-0994,2024-10-25,HK,SME,Growth,Organic,False,17,78.79,False,,2806.41
+SLEEK-0995,2024-07-01,SG,Startup,Growth,Organic,True,5,66.91,False,,4140.35
+SLEEK-0996,2023-03-31,HK,SME,Growth,Partner,False,11,158.67,False,,11730.52
+SLEEK-0997,2022-06-02,SG,Startup,Starter,Organic,False,4,64.02,False,,2979.71
+SLEEK-0998,2022-02-12,SG,Startup,Starter,Partner,False,7,126.69,False,,4866.51
+SLEEK-0999,2024-01-11,HK,SME,Growth,Paid,False,23,362.45,False,,10759.45
+SLEEK-1000,2022-08-06,HK,Startup,Starter,Paid,True,6,383.96,True,2023-01,2937.35
+SLEEK-1001,2022-12-15,UK,SME,Growth,Partner,True,29,234.04,False,,23704.43
+SLEEK-1002,2023-01-07,SG,Startup,Starter,Referral,False,8,65.08,False,,2451.9
+SLEEK-1003,2024-01-20,AU,Corporate,Growth,Partner,False,48,184.78,False,,20865.11
+SLEEK-1004,2022-02-14,HK,Startup,Starter,Partner,False,4,145.55,True,2022-04,1002.87
+SLEEK-1005,2023-07-16,SG,SME,Growth,Partner,False,18,172.22,True,2024-12,13958.22
+SLEEK-1006,2022-04-06,SG,Startup,Starter,Referral,False,2,61.73,False,,4017.97
+SLEEK-1007,2024-12-11,AU,SME,Starter,Paid,False,25,433.58,False,,1023.25
+SLEEK-1008,2023-05-03,HK,Startup,Starter,Organic,False,4,95.03,True,2023-11,1299.66
+SLEEK-1009,2024-03-19,UK,Startup,Full Compliance,Referral,True,2,107.62,False,,6238.98
+SLEEK-1010,2022-03-18,SG,Startup,Starter,Referral,False,4,51.21,True,2024-08,3514.05
+SLEEK-1011,2024-02-06,SG,Startup,Starter,Partner,False,8,120.94,False,,1478.14
+SLEEK-1012,2024-02-22,AU,SME,Full Compliance,Organic,False,21,90.29,True,2024-06,6350.68
+SLEEK-1013,2024-03-20,AU,Startup,Starter,Organic,False,4,89.27,True,2024-06,1227.2
+SLEEK-1014,2023-03-07,SG,Startup,Growth,Paid,True,4,376.75,False,,8710.96
+SLEEK-1015,2022-02-05,SG,Startup,Starter,Organic,False,5,71.85,True,2023-04,1804.23
+SLEEK-1016,2024-07-13,SG,Startup,Starter,Referral,False,7,67.84,False,,1103.99
+SLEEK-1017,2023-03-02,UK,Startup,Starter,Referral,True,2,94.59,True,2023-10,2603.59
+SLEEK-1018,2023-05-13,UK,Startup,Growth,Referral,True,8,75.06,False,,9238.12
+SLEEK-1019,2023-11-11,HK,Startup,Starter,Organic,False,4,80.78,True,2024-02,1111.56
+SLEEK-1020,2022-07-30,HK,Startup,Starter,Partner,False,5,134.56,True,2023-01,3357.76
+SLEEK-1021,2022-03-10,SG,Corporate,Growth,Organic,True,131,92.13,True,2022-06,15961.95
+SLEEK-1022,2022-08-14,AU,Startup,Starter,Organic,False,2,118.26,True,2022-12,1311.82
+SLEEK-1023,2022-06-23,HK,Startup,Growth,Partner,True,6,166.69,False,,13397.42
+SLEEK-1024,2024-10-27,SG,Startup,Starter,Paid,False,5,368.05,False,,1491.25
+SLEEK-1025,2022-06-06,HK,Corporate,Full Compliance,Partner,False,139,183.15,True,2023-03,43527.97
+SLEEK-1026,2024-09-06,HK,Startup,Growth,Paid,False,7,295.84,False,,2345.66
+SLEEK-1027,2022-06-16,SG,Startup,Starter,Partner,False,8,161.61,True,2023-02,1320.5
+SLEEK-1028,2023-05-19,HK,Startup,Starter,Partner,False,5,163.16,True,2023-08,1065.41
+SLEEK-1029,2024-05-13,HK,SME,Growth,Paid,False,22,388.72,False,,7187.31
+SLEEK-1030,2022-02-05,AU,Startup,Starter,Organic,True,2,98.96,False,,5711.82
+SLEEK-1031,2024-05-15,SG,Startup,Starter,Partner,False,5,171.2,True,2024-12,1253.93
+SLEEK-1032,2022-12-05,SG,SME,Growth,Organic,False,31,64.84,False,,29951.2
+SLEEK-1033,2023-03-01,SG,Startup,Starter,Referral,True,2,51.39,False,,3851.77
+SLEEK-1034,2023-01-09,HK,SME,Growth,Organic,False,27,77.04,False,,23480.72
+SLEEK-1035,2022-01-28,HK,SME,Starter,Paid,False,10,301.82,True,2024-08,3044.67
+SLEEK-1036,2024-03-22,HK,Startup,Growth,Organic,False,6,96.48,False,,4346.47
+SLEEK-1037,2023-09-19,AU,Startup,Growth,Paid,True,2,534.18,False,,7208.92
+SLEEK-1038,2023-03-10,HK,Corporate,Growth,Organic,True,145,74.02,True,2023-09,32108.15
+SLEEK-1039,2024-08-17,AU,SME,Growth,Partner,False,32,180.38,True,2024-09,3245.21
+SLEEK-1040,2022-01-12,SG,SME,Growth,Partner,True,26,170.8,False,,32876.13
+SLEEK-1041,2022-04-18,SG,Startup,Starter,Organic,True,2,93.73,True,2024-11,5098.8
+SLEEK-1042,2024-08-18,UK,SME,Growth,Paid,True,27,425.99,False,,6073.99
+SLEEK-1043,2022-02-24,SG,Startup,Starter,Organic,False,4,68.14,True,2024-12,4243.91
+SLEEK-1044,2024-03-26,SG,SME,Growth,Organic,False,26,82.76,True,2024-09,6593.38
+SLEEK-1045,2023-04-07,SG,SME,Full Compliance,Organic,False,18,84.94,False,,18958.29
+SLEEK-1046,2024-02-14,UK,Startup,Growth,Partner,True,8,234.42,False,,6106.6
+SLEEK-1047,2024-03-25,SG,Startup,Growth,Referral,False,6,53.74,False,,5474.23
+SLEEK-1048,2023-03-25,SG,Startup,Growth,Referral,False,8,61.13,False,,9428.43
+SLEEK-1049,2022-12-14,AU,Startup,Full Compliance,Paid,False,4,328.54,False,,15487.82
+SLEEK-1050,2023-05-25,SG,Startup,Growth,Referral,True,2,63.61,False,,7109.29
+SLEEK-1051,2023-03-21,UK,Startup,Starter,Paid,False,3,594.26,False,,2143.93
+SLEEK-1052,2022-02-17,SG,Startup,Starter,Referral,False,2,69.06,True,2023-05,1832.64
+SLEEK-1053,2023-05-17,HK,SME,Growth,Partner,True,14,163.89,True,2024-03,8822.19
+SLEEK-1054,2022-08-22,SG,Startup,Starter,Paid,False,8,315.63,False,,8374.42
+SLEEK-1055,2024-03-23,HK,Startup,Growth,Referral,False,4,61.59,False,,3764.71
+SLEEK-1056,2023-02-02,SG,SME,Growth,Organic,True,21,94.35,False,,18720.91
+SLEEK-1057,2022-06-26,SG,Startup,Starter,Referral,True,8,59.36,True,2022-06,2202.3
+SLEEK-1058,2022-01-03,SG,SME,Starter,Referral,False,36,49.96,True,2023-02,1671.38
+SLEEK-1059,2023-06-16,AU,Startup,Starter,Referral,False,5,61.61,False,,2565.82
+SLEEK-1060,2022-08-18,SG,SME,Growth,Organic,False,30,69.14,True,2024-02,18497.43
+SLEEK-1061,2023-12-27,UK,SME,Growth,Partner,True,17,207.77,False,,9610.9
+SLEEK-1062,2023-06-01,SG,Corporate,Growth,Partner,True,150,147.52,False,,76739.6
+SLEEK-1063,2022-08-27,SG,SME,Full Compliance,Partner,False,14,158.06,False,,23067.9
+SLEEK-1064,2023-10-13,SG,SME,Starter,Organic,True,8,70.71,False,,3301.31
+SLEEK-1065,2022-02-23,SG,Startup,Starter,Paid,False,4,383.88,True,2023-03,1698.44
+SLEEK-1066,2023-01-15,SG,Startup,Starter,Referral,False,6,52.25,False,,2459.32
+SLEEK-1067,2023-12-20,SG,Startup,Full Compliance,Referral,True,2,69.74,False,,8390.37
+SLEEK-1068,2024-04-22,AU,Startup,Starter,Paid,False,6,417.99,False,,1636.4
+SLEEK-1069,2022-02-07,SG,Startup,Starter,Referral,False,3,58.91,False,,3282.77
+SLEEK-1070,2024-08-08,AU,Corporate,Growth,Paid,False,134,428.7,False,,22421.1
+SLEEK-1071,2023-03-09,SG,Corporate,Growth,Partner,False,126,174.16,False,,81404.11
+SLEEK-1072,2022-02-27,SG,Corporate,Full Compliance,Partner,False,82,169.2,False,,87864.81
+SLEEK-1073,2023-10-21,SG,SME,Growth,Referral,False,35,49.24,False,,16874.23
+SLEEK-1074,2022-09-06,SG,SME,Growth,Partner,False,40,125.97,False,,39662.54
+SLEEK-1075,2023-09-06,SG,SME,Full Compliance,Paid,True,35,409.02,False,,22932.11
+SLEEK-1076,2023-02-19,SG,SME,Growth,Organic,True,37,87.75,False,,32744.65
+SLEEK-1077,2023-03-31,HK,SME,Starter,Organic,True,32,91.28,True,2024-01,3197.26
+SLEEK-1078,2022-10-22,AU,SME,Growth,Organic,False,14,105.54,False,,24020.99
+SLEEK-1079,2022-01-03,SG,Corporate,Starter,Organic,False,66,91.03,False,,3342.69
+SLEEK-1080,2022-02-07,SG,Startup,Growth,Organic,False,5,76.01,True,2022-05,1906.57
+SLEEK-1081,2023-01-01,AU,Startup,Growth,Organic,False,2,105.25,False,,7626.73
+SLEEK-1082,2024-02-19,UK,Corporate,Full Compliance,Referral,True,72,72.18,True,2024-05,10445.59
+SLEEK-1083,2022-06-24,UK,Startup,Starter,Organic,True,4,132.53,False,,4020.3
+SLEEK-1084,2022-03-09,SG,Startup,Starter,Paid,True,7,281.5,True,2023-08,3473.37
+SLEEK-1085,2024-10-12,HK,Startup,Starter,Referral,False,4,82.5,False,,1026.19
+SLEEK-1086,2022-10-26,SG,SME,Growth,Partner,False,39,138.7,False,,32338.99
+SLEEK-1087,2022-02-20,SG,Startup,Starter,Referral,False,7,52.79,True,2022-11,1406.56
+SLEEK-1088,2024-11-13,AU,Startup,Starter,Partner,False,7,163.87,False,,1106.1
+SLEEK-1089,2022-09-26,UK,Startup,Starter,Paid,False,4,483.12,False,,2524.2
+SLEEK-1090,2022-01-11,SG,Startup,Growth,Paid,True,6,347.75,True,2024-12,14715.28
+SLEEK-1091,2024-02-29,AU,SME,Starter,Referral,True,25,66.37,False,,3876.37
+SLEEK-1092,2022-06-03,AU,Corporate,Full Compliance,Partner,False,95,179.95,False,,103852.05
+SLEEK-1093,2024-05-14,SG,Startup,Starter,Organic,False,6,78.49,False,,1226.72
+SLEEK-1094,2023-01-15,SG,SME,Starter,Paid,False,10,363.73,True,2024-12,2456.29
+SLEEK-1095,2024-05-09,SG,Startup,Starter,Paid,True,8,300.27,False,,2857.04
+SLEEK-1096,2023-11-04,SG,SME,Full Compliance,Paid,True,22,545.24,False,,15723.82
+SLEEK-1097,2022-07-08,SG,Startup,Starter,Organic,False,4,70.12,True,2023-07,1607.03
+SLEEK-1098,2022-04-18,AU,Startup,Starter,Organic,True,4,111.4,False,,5713.97
+SLEEK-1099,2024-01-05,SG,Startup,Growth,Referral,False,3,50.88,False,,3943.3
+SLEEK-1100,2024-04-26,AU,SME,Growth,Partner,False,23,181.44,False,,8987.34
+SLEEK-1101,2023-10-22,HK,SME,Growth,Partner,True,26,158.89,False,,16074.63
+SLEEK-1102,2023-05-12,AU,Startup,Growth,Referral,True,2,82.06,True,2023-07,3564.76
+SLEEK-1103,2023-07-07,SG,Startup,Starter,Organic,False,8,74.89,False,,2306.58
+SLEEK-1104,2023-10-01,HK,SME,Growth,Partner,False,14,169.94,True,2024-02,3677.55
+SLEEK-1105,2023-09-07,UK,Startup,Growth,Paid,False,3,758.06,False,,5494.89
+SLEEK-1106,2024-02-05,SG,Startup,Starter,Referral,True,2,50.57,True,2024-12,2993.48
+SLEEK-1107,2024-12-23,AU,Startup,Starter,Organic,False,2,90.62,False,,974.61
+SLEEK-1108,2022-08-09,SG,Startup,Starter,Paid,False,5,262.29,True,2024-10,2687.06
+SLEEK-1109,2022-09-14,SG,Startup,Starter,Organic,True,2,65.6,True,2022-09,2276.76
+SLEEK-1110,2022-01-09,SG,Startup,Starter,Organic,False,5,83.85,True,2022-03,878.77
+SLEEK-1111,2023-03-26,SG,Startup,Starter,Partner,False,4,158.21,True,2024-03,1645.06
+SLEEK-1112,2024-09-03,AU,Startup,Growth,Paid,False,3,433.59,False,,2181.1
+SLEEK-1113,2024-01-22,SG,Startup,Starter,Organic,True,4,74.69,False,,3099.45
+SLEEK-1114,2022-01-20,AU,Startup,Growth,Referral,False,5,89.09,False,,18767.19
+SLEEK-1115,2022-02-05,AU,Startup,Growth,Organic,False,6,119.62,True,2022-03,1742.32
+SLEEK-1116,2022-07-24,HK,SME,Growth,Partner,False,30,175.12,True,2022-08,2857.87
+SLEEK-1117,2023-06-09,UK,Startup,Starter,Paid,True,4,588.17,True,2024-06,2766.03
+SLEEK-1118,2024-09-18,AU,SME,Starter,Partner,False,9,182.63,False,,2631.25
+SLEEK-1119,2024-01-08,SG,Startup,Growth,Organic,False,3,86.27,False,,3957.75
+SLEEK-1120,2022-08-10,AU,Startup,Full Compliance,Partner,False,5,195.65,True,2023-12,11264.1
+SLEEK-1121,2024-12-19,UK,SME,Growth,Organic,True,34,138.62,False,,2910.3
+SLEEK-1122,2024-01-15,UK,Startup,Starter,Organic,True,5,112.48,False,,2831.3
+SLEEK-1123,2023-12-12,AU,SME,Starter,Partner,False,17,201.92,False,,1984.28
+SLEEK-1124,2022-11-30,HK,Startup,Starter,Partner,False,2,146.45,True,2023-04,1197.45
+SLEEK-1125,2022-09-10,HK,Startup,Starter,Partner,False,7,147.57,True,2022-10,923.38
+SLEEK-1126,2023-08-04,AU,Startup,Growth,Organic,False,6,100.08,False,,7740.04
+SLEEK-1127,2024-03-03,SG,Startup,Starter,Organic,False,3,65.03,False,,2912.1
+SLEEK-1128,2022-07-20,AU,SME,Full Compliance,Paid,False,19,443.87,False,,31846.8
+SLEEK-1129,2022-10-13,HK,SME,Growth,Paid,True,20,307.93,True,2024-07,18809.26
+SLEEK-1130,2023-07-26,SG,Startup,Growth,Referral,True,5,58.49,True,2023-11,3732.46
+SLEEK-1131,2024-01-03,HK,Startup,Starter,Referral,False,5,67.97,False,,1616.16
+SLEEK-1132,2024-05-12,HK,Corporate,Starter,Organic,False,140,77.06,False,,30629.55
+SLEEK-1133,2023-05-02,SG,Startup,Growth,Organic,False,2,76.57,False,,8614.37
+SLEEK-1134,2022-04-22,HK,SME,Starter,Referral,False,14,63.56,True,2023-07,1888.72
+SLEEK-1135,2023-01-04,SG,Startup,Growth,Organic,False,2,85.58,False,,6637.46
+SLEEK-1136,2024-10-11,AU,Startup,Starter,Paid,False,3,440.05,False,,1144.38
+SLEEK-1137,2022-12-07,SG,Startup,Starter,Partner,False,2,120.0,False,,2486.42
+SLEEK-1138,2022-02-20,HK,Startup,Growth,Organic,True,2,87.98,True,2023-07,6698.91
+SLEEK-1139,2022-05-27,SG,Startup,Growth,Organic,False,2,78.05,False,,15476.58
+SLEEK-1140,2024-03-17,SG,SME,Growth,Organic,False,26,81.49,False,,9226.96
+SLEEK-1141,2022-02-23,SG,Startup,Growth,Referral,False,3,59.14,True,2024-03,7798.09
+SLEEK-1142,2022-11-21,SG,Startup,Growth,Referral,True,4,62.88,False,,9955.58
+SLEEK-1143,2023-03-11,UK,Startup,Starter,Referral,True,8,77.7,True,2024-08,3099.41
+SLEEK-1144,2024-03-10,HK,Startup,Starter,Referral,True,7,60.89,True,2024-06,3037.67
+SLEEK-1145,2022-10-14,AU,Startup,Starter,Referral,False,5,82.88,True,2024-09,5968.87
+SLEEK-1146,2024-03-19,SG,SME,Growth,Referral,False,24,60.17,False,,9536.91
+SLEEK-1147,2022-07-03,SG,Startup,Starter,Partner,True,2,171.12,False,,12206.85
+SLEEK-1148,2023-10-25,HK,Startup,Growth,Referral,False,7,83.48,False,,6773.31
+SLEEK-1149,2024-02-26,AU,Startup,Growth,Partner,True,6,164.56,False,,7331.76
+SLEEK-1150,2022-11-27,SG,Startup,Starter,Referral,True,5,52.18,True,2023-01,2444.91
+SLEEK-1151,2022-02-22,SG,Corporate,Growth,Partner,True,144,132.07,False,,134339.74
+SLEEK-1152,2022-02-19,HK,SME,Growth,Organic,True,16,96.07,False,,24821.79
+SLEEK-1153,2022-05-28,AU,Startup,Starter,Paid,False,7,407.72,True,2022-06,1042.81
+SLEEK-1154,2024-08-28,HK,Startup,Starter,Partner,False,8,150.82,False,,1182.75
+SLEEK-1155,2022-01-05,SG,Startup,Growth,Paid,True,3,294.17,False,,12187.07
+SLEEK-1156,2024-02-13,SG,Startup,Growth,Organic,False,4,66.17,False,,3954.25
+SLEEK-1157,2024-07-20,SG,SME,Starter,Partner,True,38,161.85,False,,2641.68
+SLEEK-1158,2022-07-04,UK,Corporate,Growth,Partner,True,137,180.87,False,,105802.73
+SLEEK-1159,2022-01-08,SG,Startup,Starter,Partner,False,6,168.34,False,,4632.17
+SLEEK-1160,2022-05-25,AU,SME,Full Compliance,Organic,False,13,103.93,False,,27937.89
+SLEEK-1161,2022-03-27,AU,Startup,Starter,Organic,True,4,99.86,True,2024-06,5252.48
+SLEEK-1162,2024-01-01,SG,Startup,Growth,Partner,False,8,168.68,False,,5433.8
+SLEEK-1163,2023-07-23,SG,SME,Starter,Organic,False,15,86.44,False,,7230.6
+SLEEK-1164,2022-02-02,SG,SME,Starter,Partner,True,34,125.52,True,2023-06,3405.42
+SLEEK-1165,2022-04-04,AU,SME,Full Compliance,Partner,False,11,137.01,False,,27026.84
+SLEEK-1166,2022-11-08,SG,Startup,Full Compliance,Organic,False,7,68.15,True,2023-12,8949.67
+SLEEK-1167,2023-12-27,SG,Startup,Starter,Organic,True,7,93.28,False,,3200.58
+SLEEK-1168,2024-02-11,SG,Startup,Growth,Referral,True,5,60.08,False,,5762.76
+SLEEK-1169,2023-02-21,AU,SME,Full Compliance,Organic,False,27,113.66,True,2024-04,20008.51
+SLEEK-1170,2022-10-18,AU,Startup,Starter,Paid,False,8,339.74,False,,3148.46
+SLEEK-1171,2022-03-11,HK,Startup,Starter,Paid,False,2,362.35,False,,3174.8
+SLEEK-1172,2022-08-02,SG,SME,Starter,Paid,False,11,304.55,False,,15412.39
+SLEEK-1173,2022-02-23,HK,Startup,Full Compliance,Referral,False,8,77.13,True,2022-03,2053.02
+SLEEK-1174,2024-07-15,UK,SME,Starter,Paid,True,35,566.96,False,,2373.82
+SLEEK-1175,2022-08-12,AU,Corporate,Full Compliance,Partner,False,76,200.77,True,2024-11,77207.92
+SLEEK-1176,2024-11-28,AU,Corporate,Growth,Referral,False,70,88.81,False,,5569.81
+SLEEK-1177,2024-01-25,SG,Startup,Starter,Referral,False,6,56.1,False,,1569.18
+SLEEK-1178,2023-01-04,SG,Startup,Starter,Organic,False,8,85.14,True,2023-03,857.67
+SLEEK-1179,2023-08-21,SG,Startup,Growth,Paid,True,2,411.63,False,,6483.77
+SLEEK-1180,2022-02-09,SG,SME,Full Compliance,Paid,False,17,272.28,False,,30059.71
+SLEEK-1181,2022-03-20,AU,SME,Starter,Organic,False,28,100.27,True,2022-04,1100.85
+SLEEK-1182,2023-02-01,SG,SME,Growth,Organic,False,10,91.44,False,,10999.32
+SLEEK-1183,2024-06-27,HK,Startup,Starter,Organic,True,6,74.79,False,,2931.92
+SLEEK-1184,2023-03-01,SG,SME,Growth,Referral,False,34,66.92,False,,23626.75
+SLEEK-1185,2023-08-26,AU,Startup,Growth,Partner,True,3,146.9,True,2024-03,5266.99
+SLEEK-1186,2024-09-05,UK,Startup,Starter,Paid,False,8,564.88,False,,1875.55
+SLEEK-1187,2022-03-08,HK,Startup,Growth,Organic,False,7,77.4,True,2023-02,5366.29
+SLEEK-1188,2022-10-21,SG,Startup,Starter,Partner,False,8,145.08,True,2024-06,2208.74
+SLEEK-1189,2024-12-10,AU,SME,Growth,Referral,True,26,69.51,False,,3848.53
+SLEEK-1190,2023-06-06,UK,Startup,Starter,Referral,False,7,83.33,False,,1967.83
+SLEEK-1191,2022-09-03,SG,SME,Full Compliance,Partner,False,36,159.2,False,,37721.45
+SLEEK-1192,2022-09-14,AU,Startup,Full Compliance,Referral,False,7,67.35,True,2022-09,1565.43
+SLEEK-1193,2023-08-11,HK,Startup,Starter,Organic,False,6,76.25,False,,1975.93
+SLEEK-1194,2024-07-31,UK,SME,Starter,Referral,True,18,78.48,False,,2368.91
+SLEEK-1195,2024-03-28,SG,Startup,Starter,Referral,False,2,58.35,False,,3217.22
+SLEEK-1196,2024-07-23,SG,SME,Growth,Partner,True,29,162.72,True,2024-12,8570.64
+SLEEK-1197,2022-04-03,HK,SME,Starter,Partner,False,34,186.93,True,2023-07,1956.72
+SLEEK-1198,2024-09-04,HK,SME,Growth,Paid,False,40,382.68,False,,6086.0
+SLEEK-1199,2022-07-11,SG,SME,Growth,Referral,False,14,60.21,True,2023-11,10073.78
+SLEEK-1200,2023-09-28,SG,Startup,Full Compliance,Organic,False,8,73.13,False,,10629.1
+SLEEK-1201,2023-04-14,SG,Startup,Starter,Partner,False,2,154.51,True,2024-01,1432.03
+SLEEK-1202,2023-01-10,SG,Startup,Full Compliance,Organic,False,2,72.3,False,,11942.69
+SLEEK-1203,2022-12-29,UK,SME,Growth,Organic,True,10,120.42,True,2024-06,9872.17
+SLEEK-1204,2022-06-07,UK,Startup,Starter,Referral,True,4,101.61,False,,3926.57
+SLEEK-1205,2023-11-16,UK,SME,Starter,Referral,False,15,88.34,False,,1621.19
+SLEEK-1206,2024-12-22,SG,Startup,Starter,Organic,True,8,75.32,False,,2244.36
+SLEEK-1207,2022-12-17,SG,Startup,Growth,Organic,False,2,66.37,True,2023-03,1649.37
+SLEEK-1208,2022-11-27,SG,Corporate,Full Compliance,Partner,False,41,122.14,False,,38377.86
+SLEEK-1209,2022-02-05,SG,SME,Growth,Partner,False,16,131.23,False,,23318.44
+SLEEK-1210,2024-01-14,SG,SME,Starter,Partner,True,19,153.46,False,,3080.99
+SLEEK-1211,2023-02-16,SG,SME,Growth,Partner,False,22,177.26,False,,17941.45
+SLEEK-1212,2024-03-14,AU,SME,Growth,Paid,False,22,386.6,False,,9670.41
+SLEEK-1213,2022-06-08,SG,SME,Growth,Partner,False,28,126.95,True,2024-11,34967.05
+SLEEK-1214,2022-09-20,HK,Startup,Growth,Paid,False,5,347.72,True,2023-08,4668.39
+SLEEK-1215,2023-07-03,HK,SME,Growth,Organic,False,11,104.03,True,2023-10,2736.04
+SLEEK-1216,2024-04-22,HK,Startup,Starter,Referral,False,2,68.37,False,,1435.53
+SLEEK-1217,2024-07-08,SG,SME,Growth,Paid,True,15,277.32,False,,5623.59
+SLEEK-1218,2024-02-10,UK,SME,Growth,Paid,True,32,613.66,False,,12508.15
+SLEEK-1219,2023-11-02,SG,SME,Growth,Partner,True,18,141.73,True,2024-06,7443.91
+SLEEK-1220,2023-08-18,AU,Startup,Growth,Referral,False,3,87.32,False,,6188.43
+SLEEK-1221,2022-02-11,HK,Startup,Growth,Organic,False,8,90.96,True,2023-12,10210.93
+SLEEK-1222,2023-04-17,HK,Startup,Growth,Paid,True,7,376.33,False,,10440.75
+SLEEK-1223,2022-05-28,SG,SME,Starter,Partner,False,34,124.43,True,2024-03,2381.3
+SLEEK-1224,2024-03-26,SG,SME,Growth,Referral,False,28,67.96,False,,9555.39
+SLEEK-1225,2023-03-19,SG,SME,Growth,Paid,True,34,293.28,False,,25246.53
+SLEEK-1226,2024-12-28,HK,Startup,Starter,Partner,False,7,152.47,False,,885.3
+SLEEK-1227,2022-01-13,SG,Startup,Growth,Referral,False,2,58.73,True,2022-04,1667.68
+SLEEK-1228,2022-06-21,HK,Startup,Starter,Partner,False,5,138.83,True,2024-07,2607.77
+SLEEK-1229,2024-08-27,HK,Startup,Starter,Paid,False,2,397.55,True,2024-09,954.01
+SLEEK-1230,2023-11-23,AU,Startup,Growth,Organic,False,6,81.46,False,,6473.4
+SLEEK-1231,2023-09-16,SG,Startup,Starter,Referral,False,7,63.65,True,2024-06,1423.5
+SLEEK-1232,2022-06-16,HK,SME,Full Compliance,Partner,True,16,155.24,False,,28371.32
+SLEEK-1233,2022-12-07,AU,Startup,Starter,Referral,True,5,86.09,False,,4845.13
+SLEEK-1234,2022-10-14,HK,SME,Growth,Referral,False,26,71.32,True,2022-10,1726.03
+SLEEK-1235,2024-02-20,SG,Corporate,Full Compliance,Partner,True,77,153.83,True,2024-10,23426.65
+SLEEK-1236,2024-01-31,HK,Startup,Starter,Referral,False,4,63.03,True,2024-05,1141.19
+SLEEK-1237,2022-10-17,UK,SME,Starter,Partner,True,28,217.21,False,,5456.14
+SLEEK-1238,2024-04-07,SG,Startup,Growth,Organic,False,2,81.21,False,,2877.0
+SLEEK-1239,2023-04-08,HK,SME,Growth,Organic,True,26,72.51,False,,21558.64
+SLEEK-1240,2023-09-19,AU,SME,Growth,Referral,False,20,83.01,False,,14042.12
+SLEEK-1241,2022-01-05,SG,Startup,Growth,Referral,False,4,62.1,True,2022-08,3086.96
+SLEEK-1242,2024-08-27,HK,SME,Starter,Referral,True,21,56.07,True,2024-09,2529.58
+SLEEK-1243,2022-06-03,SG,SME,Full Compliance,Organic,False,36,65.67,True,2023-12,25752.92
+SLEEK-1244,2023-02-13,SG,Startup,Growth,Paid,False,8,346.4,False,,9915.92
+SLEEK-1245,2023-03-15,HK,Startup,Full Compliance,Partner,False,7,188.51,True,2023-08,4323.41
+SLEEK-1246,2023-01-18,SG,Startup,Growth,Paid,True,8,339.47,False,,11776.34
+SLEEK-1247,2023-03-07,SG,Startup,Starter,Referral,False,2,52.3,False,,2309.79
+SLEEK-1248,2023-06-09,SG,Startup,Starter,Organic,False,7,64.42,True,2023-06,745.78
+SLEEK-1249,2023-03-02,SG,Startup,Full Compliance,Organic,False,5,90.35,True,2023-10,5036.6
+SLEEK-1250,2023-09-28,UK,SME,Growth,Paid,True,14,798.5,False,,11246.41
+SLEEK-1251,2022-03-03,SG,Startup,Starter,Partner,True,7,170.75,False,,4662.37
+SLEEK-1252,2023-07-23,AU,Startup,Full Compliance,Partner,False,2,149.2,False,,10213.95
+SLEEK-1253,2024-03-24,SG,SME,Full Compliance,Partner,False,33,150.98,False,,13032.74
+SLEEK-1254,2022-03-24,SG,SME,Starter,Organic,True,20,69.52,True,2022-12,2921.87
+SLEEK-1255,2022-01-07,HK,Startup,Starter,Referral,True,5,71.7,True,2023-06,3764.64
+SLEEK-1256,2024-08-06,HK,SME,Starter,Referral,True,13,81.7,False,,2910.1
+SLEEK-1257,2023-04-21,SG,SME,Growth,Partner,False,23,124.88,True,2023-09,5314.42
+SLEEK-1258,2024-12-05,SG,SME,Growth,Partner,False,25,142.76,False,,1473.29
+SLEEK-1259,2022-03-10,SG,Startup,Starter,Organic,True,4,78.07,True,2023-08,3481.48
+SLEEK-1260,2024-07-09,HK,Startup,Growth,Referral,True,8,75.24,False,,4993.72
+SLEEK-1261,2024-06-07,HK,Startup,Starter,Referral,False,3,78.71,False,,1284.22
+SLEEK-1262,2023-03-25,SG,Corporate,Growth,Partner,True,54,133.1,False,,36346.82
+SLEEK-1263,2024-08-14,HK,SME,Growth,Referral,False,10,66.42,False,,3091.11
+SLEEK-1264,2024-02-11,SG,Startup,Starter,Paid,True,4,371.58,False,,5369.53
+SLEEK-1265,2022-08-19,SG,Startup,Growth,Organic,False,8,77.92,False,,12280.44
+SLEEK-1266,2023-01-08,SG,SME,Growth,Partner,False,34,174.05,True,2024-02,15054.0
+SLEEK-1267,2023-01-10,SG,Startup,Growth,Referral,False,3,71.17,True,2023-06,2262.84
+SLEEK-1268,2024-04-10,UK,SME,Growth,Organic,False,27,142.08,False,,8058.03
+SLEEK-1269,2024-03-21,AU,Startup,Starter,Organic,True,3,80.03,True,2024-09,3439.16
+SLEEK-1270,2022-01-05,SG,Startup,Growth,Organic,False,5,91.06,False,,12388.57
+SLEEK-1271,2022-02-22,SG,Startup,Starter,Referral,True,2,59.12,True,2024-08,4602.29
+SLEEK-1272,2022-05-27,SG,Startup,Growth,Partner,False,6,172.36,False,,11897.56
+SLEEK-1273,2023-03-06,SG,Startup,Growth,Referral,False,8,56.86,True,2023-03,1034.6
+SLEEK-1274,2022-02-07,SG,SME,Starter,Paid,True,32,294.65,False,,16981.43
+SLEEK-1275,2024-03-03,HK,Startup,Growth,Organic,False,5,89.3,False,,4099.66
+SLEEK-1276,2022-06-22,SG,Startup,Growth,Referral,False,8,63.74,True,2023-05,5447.07
+SLEEK-1277,2022-08-21,SG,Startup,Full Compliance,Referral,False,4,57.64,True,2023-05,5888.09
+SLEEK-1278,2024-09-12,SG,SME,Growth,Organic,False,31,86.78,False,,4527.86
+SLEEK-1279,2023-02-05,SG,Startup,Starter,Paid,False,4,377.37,True,2023-10,1339.27
+SLEEK-1280,2023-02-02,SG,SME,Starter,Partner,False,31,149.38,False,,2356.96
+SLEEK-1281,2024-03-10,SG,Startup,Starter,Organic,False,7,64.56,False,,1384.69
+SLEEK-1282,2023-03-03,SG,Startup,Starter,Referral,True,5,51.03,True,2023-10,2790.87
+SLEEK-1283,2023-03-27,SG,Startup,Starter,Partner,True,4,147.51,False,,3822.78
+SLEEK-1284,2024-03-24,SG,SME,Starter,Partner,False,35,175.65,True,2024-03,727.89
+SLEEK-1285,2023-02-27,SG,Startup,Full Compliance,Referral,False,6,71.16,False,,13735.58
+SLEEK-1286,2024-01-12,SG,Startup,Growth,Referral,False,4,53.17,False,,4268.27
+SLEEK-1287,2022-04-04,AU,SME,Growth,Organic,False,25,116.39,False,,32939.22
+SLEEK-1288,2023-02-20,SG,Startup,Growth,Referral,True,3,63.24,True,2023-05,3392.53
+SLEEK-1289,2022-08-19,SG,Startup,Starter,Organic,False,5,83.05,True,2024-06,2402.96
+SLEEK-1290,2023-05-21,UK,Startup,Growth,Paid,False,5,447.57,False,,6636.06
+SLEEK-1291,2022-03-03,SG,SME,Growth,Partner,False,21,153.68,False,,25347.72
+SLEEK-1292,2023-10-08,AU,Startup,Starter,Organic,True,6,98.7,True,2023-12,3114.54
+SLEEK-1293,2024-02-18,SG,Startup,Growth,Paid,False,6,382.68,False,,4494.07
+SLEEK-1294,2022-01-19,SG,SME,Starter,Partner,False,33,171.89,False,,31718.51
+SLEEK-1295,2023-07-26,HK,Startup,Starter,Organic,True,7,85.07,False,,3788.28
+SLEEK-1296,2023-12-01,UK,SME,Growth,Paid,True,37,671.09,False,,15990.49
+SLEEK-1297,2024-01-18,SG,Corporate,Full Compliance,Paid,False,127,353.66,False,,43579.26
+SLEEK-1298,2023-08-03,UK,Startup,Starter,Paid,True,3,795.14,False,,3082.16
+SLEEK-1299,2024-04-17,HK,Startup,Full Compliance,Organic,True,6,83.7,False,,7399.67
+SLEEK-1300,2022-02-16,HK,SME,Growth,Partner,False,40,184.54,True,2024-01,32235.68
+SLEEK-1301,2024-01-26,AU,SME,Growth,Organic,False,20,89.57,False,,13177.62
+SLEEK-1302,2022-04-22,SG,Startup,Growth,Partner,False,5,179.38,True,2024-09,10402.89
+SLEEK-1303,2023-11-10,HK,Startup,Growth,Referral,True,7,81.45,False,,7831.65
+SLEEK-1304,2024-04-24,UK,Startup,Starter,Organic,True,5,120.95,False,,2613.76
+SLEEK-1305,2023-03-21,SG,Startup,Full Compliance,Organic,False,8,86.87,False,,14277.42
+SLEEK-1306,2022-03-23,AU,Startup,Starter,Paid,False,7,412.93,True,2022-05,1134.89
+SLEEK-1307,2024-10-25,SG,SME,Growth,Organic,False,29,87.1,False,,3432.32
+SLEEK-1308,2022-12-03,SG,Startup,Starter,Paid,False,8,346.76,False,,2530.77
+SLEEK-1309,2023-10-09,SG,Startup,Growth,Paid,True,4,512.5,True,2023-11,2706.94
+SLEEK-1310,2023-12-06,SG,SME,Growth,Referral,False,26,55.31,False,,11621.92
+SLEEK-1311,2023-05-21,SG,SME,Starter,Organic,False,17,91.23,False,,2136.66
+SLEEK-1312,2024-11-24,HK,Startup,Starter,Referral,True,4,73.32,False,,2734.87
+SLEEK-1313,2024-12-07,HK,SME,Growth,Referral,False,18,80.23,False,,1527.52
+SLEEK-1314,2024-02-17,AU,Startup,Starter,Paid,False,4,447.94,True,2024-09,1606.98
+SLEEK-1315,2023-01-12,SG,Startup,Starter,Referral,False,2,61.67,False,,2444.77
+SLEEK-1316,2024-12-09,AU,SME,Full Compliance,Partner,False,10,186.41,False,,1687.2
+SLEEK-1317,2022-09-28,SG,Startup,Growth,Paid,False,2,367.69,True,2022-09,889.22
+SLEEK-1318,2023-03-28,SG,Startup,Starter,Organic,False,2,86.07,True,2024-02,1525.86
+SLEEK-1319,2024-06-30,UK,Startup,Starter,Paid,True,3,588.78,False,,2413.11
+SLEEK-1320,2024-09-04,HK,Startup,Starter,Organic,False,4,91.33,False,,1096.15
+SLEEK-1321,2024-06-24,AU,Startup,Starter,Paid,False,3,334.0,False,,1468.93
+SLEEK-1322,2024-05-30,HK,Startup,Growth,Organic,False,8,76.01,False,,4055.61
+SLEEK-1323,2024-07-23,HK,SME,Full Compliance,Referral,False,25,63.05,False,,7450.1
+SLEEK-1324,2024-11-19,HK,Startup,Starter,Paid,False,6,370.34,False,,975.42
+SLEEK-1325,2022-03-16,SG,Startup,Starter,Referral,False,5,69.44,True,2022-03,700.16
+SLEEK-1326,2022-08-11,SG,Startup,Growth,Paid,True,8,324.94,False,,13718.91
+SLEEK-1327,2022-08-04,SG,Startup,Growth,Paid,True,7,374.73,False,,13047.02
+SLEEK-1328,2023-10-22,SG,Startup,Starter,Referral,False,7,70.96,False,,1777.76
+SLEEK-1329,2023-04-14,HK,Startup,Full Compliance,Referral,False,4,69.22,False,,11335.3
+SLEEK-1330,2024-05-14,SG,Startup,Growth,Referral,True,5,66.3,False,,4754.88
+SLEEK-1331,2022-05-01,SG,Startup,Growth,Referral,False,4,52.85,True,2024-06,8433.43
+SLEEK-1332,2023-09-24,SG,Startup,Starter,Paid,False,8,411.1,False,,1852.73
+SLEEK-1333,2023-10-16,SG,Startup,Full Compliance,Organic,False,5,94.29,False,,8868.45
+SLEEK-1334,2023-07-28,HK,Corporate,Full Compliance,Partner,True,47,165.51,False,,33236.15
+SLEEK-1335,2023-08-06,HK,Startup,Starter,Paid,False,4,433.26,False,,4402.27
+SLEEK-1336,2024-11-11,UK,SME,Starter,Partner,True,13,183.91,False,,2155.81
+SLEEK-1337,2023-05-23,SG,Startup,Starter,Referral,True,8,66.53,False,,6220.22
+SLEEK-1338,2024-01-10,HK,SME,Full Compliance,Partner,False,19,156.53,False,,11887.66
+SLEEK-1339,2022-05-09,SG,Startup,Growth,Paid,True,7,375.38,True,2023-01,5613.28
+SLEEK-1340,2022-09-12,SG,Startup,Starter,Paid,True,6,311.96,True,2023-11,3377.47
+SLEEK-1341,2023-08-02,AU,Startup,Growth,Paid,False,6,580.62,False,,7669.86
+SLEEK-1342,2022-02-19,SG,SME,Full Compliance,Organic,False,12,83.52,False,,25817.13
+SLEEK-1343,2024-07-13,AU,Startup,Growth,Organic,True,4,119.77,False,,4826.84
+SLEEK-1344,2023-07-01,SG,SME,Growth,Paid,False,32,425.73,False,,20164.3
+SLEEK-1345,2022-03-25,SG,Startup,Starter,Paid,False,8,314.59,True,2024-11,3103.98
+SLEEK-1346,2022-11-09,AU,Corporate,Growth,Partner,True,52,146.08,False,,49261.35
+SLEEK-1347,2023-02-11,SG,SME,Full Compliance,Partner,False,20,175.71,False,,21811.11
+SLEEK-1348,2024-02-01,SG,Startup,Starter,Organic,False,8,92.76,True,2024-07,1121.01
+SLEEK-1349,2024-10-22,UK,Startup,Growth,Referral,True,5,85.69,True,2024-10,2247.9
+SLEEK-1350,2022-09-19,SG,SME,Growth,Referral,False,15,50.92,False,,16675.37
+SLEEK-1351,2023-04-21,UK,SME,Growth,Paid,True,40,459.75,False,,25862.82
+SLEEK-1352,2023-02-13,SG,Startup,Full Compliance,Organic,False,4,67.2,True,2024-05,8933.6
+SLEEK-1353,2023-09-08,AU,Startup,Starter,Referral,False,8,81.04,True,2023-09,1017.8
+SLEEK-1354,2022-06-02,SG,Startup,Starter,Partner,False,3,134.94,False,,2954.47
+SLEEK-1355,2022-03-21,HK,Startup,Starter,Paid,False,7,392.33,False,,9549.78
+SLEEK-1356,2022-03-05,SG,SME,Growth,Partner,True,15,168.62,False,,26513.0
+SLEEK-1357,2024-04-06,AU,Startup,Growth,Organic,False,4,116.36,False,,3912.61
+SLEEK-1358,2023-03-14,SG,Startup,Starter,Organic,False,6,76.07,False,,2316.77
+SLEEK-1359,2022-02-04,SG,Startup,Full Compliance,Paid,False,6,315.45,True,2023-06,10326.15
+SLEEK-1360,2022-05-05,SG,SME,Growth,Partner,False,14,152.4,False,,26937.06
+SLEEK-1361,2023-02-06,HK,SME,Starter,Partner,False,17,160.94,False,,6680.78
+SLEEK-1362,2022-02-08,SG,Startup,Starter,Organic,False,4,69.91,True,2022-02,753.16
+SLEEK-1363,2024-11-24,AU,Startup,Growth,Paid,False,3,438.3,False,,1521.03
+SLEEK-1364,2023-12-26,SG,Startup,Starter,Organic,True,3,65.54,False,,3118.23
+SLEEK-1365,2022-01-19,SG,SME,Growth,Partner,True,33,171.46,False,,40946.32
+SLEEK-1366,2024-06-19,HK,Startup,Starter,Referral,False,4,63.82,True,2024-10,1179.94
+SLEEK-1367,2024-09-15,SG,SME,Growth,Paid,False,24,341.51,False,,3873.96
+SLEEK-1368,2024-01-15,SG,Startup,Growth,Referral,False,3,50.89,True,2024-11,5771.53
+SLEEK-1369,2022-06-19,AU,Startup,Full Compliance,Paid,True,8,451.7,False,,24547.09
+SLEEK-1370,2024-10-08,UK,Corporate,Full Compliance,Paid,True,135,577.39,False,,12830.77
+SLEEK-1371,2024-09-12,SG,SME,Growth,Organic,False,18,86.2,False,,3232.19
+SLEEK-1372,2023-12-05,SG,Startup,Starter,Organic,False,3,94.56,False,,1649.64
+SLEEK-1373,2022-07-16,SG,Corporate,Full Compliance,Partner,False,40,128.17,False,,43208.43
+SLEEK-1374,2022-10-03,SG,SME,Starter,Partner,True,18,144.62,True,2024-05,3738.31
+SLEEK-1375,2023-05-12,AU,SME,Growth,Partner,False,20,146.84,True,2024-04,10763.15
+SLEEK-1376,2024-02-04,SG,Startup,Growth,Organic,False,3,82.75,False,,3647.83
+SLEEK-1377,2022-02-17,SG,SME,Starter,Partner,False,36,157.71,True,2022-04,874.84
+SLEEK-1378,2023-03-11,SG,Startup,Growth,Referral,True,8,70.79,True,2023-06,3919.11
+SLEEK-1379,2022-12-11,AU,Startup,Growth,Paid,False,8,409.1,True,2023-03,2756.11
+SLEEK-1380,2023-06-08,SG,Startup,Growth,Organic,False,5,85.28,False,,6824.19
+SLEEK-1381,2022-05-09,SG,SME,Growth,Partner,False,24,139.73,False,,26756.66
+SLEEK-1382,2024-09-03,UK,Startup,Starter,Organic,True,5,124.12,False,,2225.89
+SLEEK-1383,2024-09-26,HK,Startup,Growth,Referral,False,6,79.45,False,,2250.13
+SLEEK-1384,2022-08-09,AU,SME,Growth,Organic,False,14,111.74,True,2022-11,3783.18
+SLEEK-1385,2023-07-27,SG,SME,Growth,Paid,False,36,509.34,True,2023-09,3981.04
+SLEEK-1386,2024-03-27,AU,SME,Full Compliance,Paid,False,9,399.47,False,,8240.32
+SLEEK-1387,2022-02-26,SG,Startup,Starter,Referral,False,4,58.96,True,2022-03,776.37
+SLEEK-1388,2023-05-25,AU,Startup,Starter,Partner,False,7,189.29,False,,2641.61
+SLEEK-1389,2023-01-01,UK,Startup,Growth,Referral,True,7,103.09,True,2023-02,2759.19
+SLEEK-1390,2024-06-12,SG,Startup,Growth,Partner,False,3,164.39,False,,2551.9
+SLEEK-1391,2022-10-16,SG,Startup,Growth,Partner,True,8,165.39,False,,13137.54
+SLEEK-1392,2024-01-11,AU,Startup,Growth,Referral,False,2,88.78,False,,5072.59
+SLEEK-1393,2023-03-18,SG,Startup,Starter,Referral,True,2,62.84,False,,3888.04
+SLEEK-1394,2022-03-11,SG,SME,Growth,Partner,False,14,143.81,False,,24667.8
+SLEEK-1395,2023-08-25,AU,SME,Growth,Partner,False,22,202.01,False,,15877.45
+SLEEK-1396,2023-02-08,SG,Startup,Growth,Referral,True,3,71.6,True,2023-09,4445.71
+SLEEK-1397,2022-10-16,SG,SME,Full Compliance,Organic,False,20,77.26,True,2024-10,23614.19
+SLEEK-1398,2023-07-24,SG,SME,Starter,Referral,False,24,67.12,True,2023-08,809.92
+SLEEK-1399,2022-02-23,SG,Startup,Starter,Partner,False,3,171.6,False,,3264.17
+SLEEK-1400,2024-11-05,AU,SME,Growth,Organic,True,22,101.41,False,,4515.46
+SLEEK-1401,2023-04-04,AU,SME,Growth,Referral,True,36,77.23,True,2023-04,4091.59
+SLEEK-1402,2022-12-17,HK,Startup,Starter,Partner,False,4,156.7,False,,2511.86
+SLEEK-1403,2023-12-27,HK,SME,Starter,Organic,False,9,97.88,False,,6707.32
+SLEEK-1404,2022-10-01,AU,Startup,Full Compliance,Referral,False,6,66.46,True,2023-07,7241.34
+SLEEK-1405,2024-11-06,HK,Startup,Full Compliance,Organic,False,7,77.19,False,,1951.87
+SLEEK-1406,2022-04-19,HK,SME,Growth,Partner,True,12,150.93,True,2023-09,11812.23
+SLEEK-1407,2023-02-03,HK,Startup,Starter,Referral,False,3,72.84,False,,2406.82
+SLEEK-1408,2022-09-02,AU,Startup,Starter,Partner,False,7,142.4,True,2024-06,3160.68
+SLEEK-1409,2024-05-14,UK,Startup,Starter,Paid,True,4,592.23,False,,2569.51
+SLEEK-1410,2023-02-07,SG,SME,Starter,Partner,False,29,179.14,False,,21541.01
+SLEEK-1411,2022-05-05,HK,Startup,Full Compliance,Organic,False,3,74.13,True,2023-08,8421.25
+SLEEK-1412,2022-10-19,SG,Corporate,Growth,Organic,True,121,66.22,False,,92741.36
+SLEEK-1413,2023-12-09,HK,Startup,Starter,Organic,True,4,96.59,False,,5549.54
+SLEEK-1414,2022-12-30,HK,SME,Growth,Partner,False,10,180.12,False,,12398.51
+SLEEK-1415,2022-10-02,UK,SME,Full Compliance,Partner,True,30,184.93,True,2022-11,4180.17
+SLEEK-1416,2022-07-24,HK,SME,Growth,Organic,False,29,93.73,True,2023-07,14719.8
+SLEEK-1417,2023-07-04,UK,Corporate,Full Compliance,Referral,True,48,105.98,False,,29662.46
+SLEEK-1418,2024-02-02,SG,Startup,Starter,Organic,False,8,93.33,False,,1504.41
+SLEEK-1419,2022-07-22,AU,SME,Full Compliance,Partner,False,33,142.18,False,,44874.21
+SLEEK-1420,2022-10-05,AU,SME,Growth,Organic,False,35,87.92,False,,35154.3
+SLEEK-1421,2023-08-20,SG,Startup,Starter,Paid,False,4,463.56,True,2023-08,706.6
+SLEEK-1422,2022-03-27,AU,SME,Starter,Paid,False,19,317.56,False,,3745.44
+SLEEK-1423,2022-04-07,HK,SME,Full Compliance,Referral,False,11,66.78,True,2023-01,7851.25
+SLEEK-1424,2024-11-07,AU,SME,Growth,Paid,False,10,331.1,False,,1937.66
+SLEEK-1425,2024-11-30,UK,Startup,Starter,Partner,False,5,185.62,False,,818.4
+SLEEK-1426,2024-03-04,SG,SME,Full Compliance,Organic,True,29,64.15,True,2024-10,11493.8
+SLEEK-1427,2023-06-16,UK,Corporate,Full Compliance,Partner,True,116,192.16,False,,62229.6
+SLEEK-1428,2022-11-10,SG,SME,Starter,Partner,False,25,172.72,False,,2599.95
+SLEEK-1429,2022-04-27,SG,Startup,Growth,Partner,True,7,135.21,False,,14655.25
+SLEEK-1430,2023-03-04,SG,SME,Starter,Referral,False,19,69.65,True,2023-08,1124.13
+SLEEK-1431,2024-03-26,HK,Startup,Starter,Referral,False,4,64.02,True,2024-10,1395.39
+SLEEK-1432,2024-09-28,SG,Startup,Starter,Partner,False,5,127.63,False,,948.65
+SLEEK-1433,2024-03-05,HK,Startup,Starter,Organic,False,3,99.45,False,,1489.81
+SLEEK-1434,2022-11-17,SG,Startup,Growth,Referral,True,4,52.54,True,2023-12,6410.93
+SLEEK-1435,2024-01-12,SG,Startup,Starter,Organic,True,5,92.85,True,2024-04,2591.7
+SLEEK-1436,2022-03-24,SG,Startup,Starter,Organic,True,3,91.88,True,2023-05,3405.64
+SLEEK-1437,2023-10-13,HK,Startup,Starter,Organic,False,6,96.65,False,,6272.88
+SLEEK-1438,2022-01-22,SG,SME,Starter,Partner,False,32,142.87,False,,3331.05
+SLEEK-1439,2022-03-14,AU,Startup,Growth,Organic,False,5,82.96,False,,13432.53
+SLEEK-1440,2024-02-21,UK,SME,Growth,Paid,True,39,605.33,False,,14228.82
+SLEEK-1441,2024-07-20,HK,Startup,Starter,Partner,False,4,185.51,True,2024-08,935.58
+SLEEK-1442,2024-05-06,SG,Startup,Starter,Referral,False,3,48.5,False,,1218.21
+SLEEK-1443,2024-03-27,SG,Startup,Growth,Partner,False,5,132.49,False,,3879.73
+SLEEK-1444,2024-08-07,HK,Startup,Starter,Partner,False,7,148.86,False,,2527.17
+SLEEK-1445,2023-02-03,HK,Startup,Full Compliance,Referral,False,4,76.42,False,,12343.61
+SLEEK-1446,2023-07-24,UK,Startup,Starter,Referral,True,5,83.05,False,,3192.57
+SLEEK-1447,2024-10-14,SG,SME,Starter,Paid,False,18,283.8,False,,901.46
+SLEEK-1448,2024-06-26,HK,Corporate,Starter,Referral,False,62,61.78,False,,1322.11
+SLEEK-1449,2022-04-05,SG,SME,Growth,Referral,False,16,59.25,False,,25121.4
+SLEEK-1450,2024-12-22,AU,Startup,Growth,Paid,False,8,437.14,False,,1358.87
+SLEEK-1451,2024-02-11,SG,Startup,Full Compliance,Partner,False,3,141.4,False,,6089.15
+SLEEK-1452,2022-08-16,SG,Startup,Starter,Referral,False,8,52.21,True,2024-06,2382.06
+SLEEK-1453,2024-04-30,HK,Corporate,Growth,Paid,False,111,407.43,False,,30241.15
+SLEEK-1454,2023-05-26,HK,Startup,Full Compliance,Partner,True,5,170.49,False,,12976.84
+SLEEK-1455,2023-01-19,SG,Startup,Growth,Partner,False,6,169.08,False,,11426.12
+SLEEK-1456,2024-10-04,HK,Startup,Full Compliance,Organic,False,2,92.4,False,,2145.84
+SLEEK-1457,2023-09-07,AU,Startup,Growth,Organic,True,8,116.67,False,,10030.42
+SLEEK-1458,2023-03-27,UK,Startup,Growth,Paid,True,6,613.34,False,,8969.2
+SLEEK-1459,2024-01-26,UK,Startup,Starter,Paid,False,3,451.16,False,,1500.3
+SLEEK-1460,2022-02-18,HK,Corporate,Full Compliance,Partner,True,70,185.97,False,,84365.85
+SLEEK-1461,2023-11-23,AU,Startup,Starter,Partner,False,5,187.0,False,,2086.92
+SLEEK-1462,2022-01-22,HK,Startup,Growth,Organic,False,5,72.69,True,2022-11,4450.24
+SLEEK-1463,2023-09-28,SG,Startup,Full Compliance,Referral,False,3,58.19,False,,8590.46
+SLEEK-1464,2023-10-14,UK,SME,Starter,Paid,True,13,628.33,False,,3057.15
+SLEEK-1465,2022-08-21,AU,Corporate,Starter,Partner,False,71,144.74,False,,3332.49
+SLEEK-1466,2024-02-01,SG,Startup,Growth,Organic,False,6,87.57,False,,6377.35
+SLEEK-1467,2024-06-26,SG,SME,Growth,Partner,True,16,156.75,True,2024-11,5659.2
+SLEEK-1468,2022-01-14,SG,SME,Growth,Organic,True,13,71.46,True,2022-02,3341.2
+SLEEK-1469,2024-08-20,SG,SME,Growth,Organic,False,11,79.01,True,2024-11,2515.54
+SLEEK-1470,2024-03-19,SG,Startup,Full Compliance,Organic,False,2,86.4,True,2024-06,2498.85
+SLEEK-1471,2022-10-10,SG,SME,Growth,Partner,False,35,150.4,True,2023-08,12474.46
+SLEEK-1472,2022-11-09,SG,Startup,Starter,Organic,True,5,69.16,False,,7172.73
+SLEEK-1473,2024-03-15,SG,SME,Starter,Partner,True,31,164.66,False,,3789.74
+SLEEK-1474,2023-06-22,HK,SME,Growth,Partner,False,38,148.42,False,,27499.4
+SLEEK-1475,2023-04-19,SG,Startup,Starter,Paid,False,5,344.43,False,,2195.26
+SLEEK-1476,2022-08-15,SG,SME,Starter,Partner,False,9,164.27,False,,2845.55
+SLEEK-1477,2022-11-02,AU,SME,Growth,Paid,False,19,306.12,True,2023-09,9536.11
+SLEEK-1478,2022-05-11,SG,Corporate,Growth,Paid,True,146,319.66,False,,124579.97
+SLEEK-1479,2023-10-12,UK,Startup,Growth,Organic,True,8,119.96,True,2024-04,4482.98
+SLEEK-1480,2024-02-23,SG,Corporate,Full Compliance,Organic,True,103,73.26,False,,35308.46
+SLEEK-1481,2023-09-23,AU,Startup,Growth,Organic,False,6,93.54,False,,7352.97
+SLEEK-1482,2022-12-28,SG,Startup,Starter,Organic,False,2,82.09,True,2023-05,1129.43
+SLEEK-1483,2022-02-21,SG,Startup,Full Compliance,Organic,False,6,95.12,True,2022-06,3495.91
+SLEEK-1484,2024-11-19,SG,SME,Full Compliance,Partner,False,23,133.74,False,,2617.66
+SLEEK-1485,2022-02-09,AU,Startup,Starter,Paid,False,3,437.87,False,,13920.68
+SLEEK-1486,2023-06-29,HK,Startup,Starter,Paid,True,8,334.54,True,2024-02,3154.73
+SLEEK-1487,2022-03-01,SG,Startup,Starter,Partner,False,3,169.49,True,2022-09,1199.25
+SLEEK-1488,2023-10-06,AU,Corporate,Full Compliance,Referral,False,122,76.09,False,,62441.07
+SLEEK-1489,2022-01-17,SG,Corporate,Full Compliance,Partner,False,94,136.95,True,2023-08,55876.56
+SLEEK-1490,2023-02-23,AU,SME,Starter,Organic,False,34,81.01,False,,2869.99
+SLEEK-1491,2022-09-06,SG,Startup,Growth,Partner,True,4,165.51,False,,16640.66
+SLEEK-1492,2023-08-07,HK,Startup,Starter,Referral,False,2,59.6,False,,2003.66
+SLEEK-1493,2022-07-18,SG,Startup,Starter,Paid,False,3,311.59,True,2023-08,1737.19
+SLEEK-1494,2022-10-02,SG,SME,Full Compliance,Organic,False,16,65.79,False,,22722.64
+SLEEK-1495,2022-07-29,HK,Corporate,Full Compliance,Organic,True,136,105.84,False,,128943.92
+SLEEK-1496,2022-02-18,SG,Startup,Starter,Organic,False,7,77.32,False,,12323.08
+SLEEK-1497,2022-02-08,SG,SME,Starter,Partner,False,11,158.69,False,,11213.27
+SLEEK-1498,2022-03-28,HK,SME,Starter,Referral,True,16,62.51,False,,5003.12
+SLEEK-1499,2024-03-21,HK,Startup,Starter,Referral,False,7,77.44,False,,1519.45
+SLEEK-1500,2023-02-14,AU,Startup,Growth,Organic,False,2,88.35,False,,7345.97
+SLEEK-1501,2023-07-07,SG,Startup,Starter,Partner,False,6,120.44,True,2024-12,1992.2
+SLEEK-1502,2022-03-09,SG,SME,Growth,Referral,False,15,55.85,False,,27186.12
+SLEEK-1503,2024-11-14,HK,Startup,Growth,Paid,True,5,308.64,False,,3072.44
+SLEEK-1504,2023-02-14,AU,SME,Growth,Partner,False,21,186.03,False,,27213.32
+SLEEK-1505,2022-04-22,AU,SME,Growth,Paid,False,24,338.93,False,,31894.17
+SLEEK-1506,2024-04-16,SG,Startup,Full Compliance,Organic,False,5,76.43,True,2024-07,2836.0
+SLEEK-1507,2023-08-08,HK,Startup,Growth,Paid,False,2,541.41,False,,4928.07
+SLEEK-1508,2022-04-13,HK,SME,Full Compliance,Partner,False,27,188.59,False,,38564.3
+SLEEK-1509,2022-11-07,SG,SME,Full Compliance,Partner,False,25,164.51,False,,27910.19
+SLEEK-1510,2024-05-15,SG,Startup,Full Compliance,Referral,False,3,69.3,False,,4628.93
+SLEEK-1511,2023-08-06,SG,SME,Starter,Partner,True,25,125.17,False,,3471.95
+SLEEK-1512,2023-01-13,SG,SME,Growth,Referral,False,37,48.72,False,,27710.38
+SLEEK-1513,2022-02-23,SG,Corporate,Growth,Partner,False,43,148.75,False,,45510.65
+SLEEK-1514,2024-07-06,HK,Corporate,Full Compliance,Paid,True,112,419.42,True,2024-11,19827.89
+SLEEK-1515,2024-09-27,AU,Startup,Growth,Partner,False,4,184.66,False,,2297.27
+SLEEK-1516,2023-03-12,SG,SME,Growth,Referral,False,30,60.98,True,2024-04,14180.65
+SLEEK-1517,2024-03-27,SG,SME,Growth,Paid,False,34,369.85,False,,11213.3
+SLEEK-1518,2024-06-21,SG,Startup,Starter,Referral,False,3,66.09,False,,1186.69
+SLEEK-1519,2022-10-25,AU,Startup,Growth,Partner,False,3,172.73,True,2024-12,9261.77
+SLEEK-1520,2023-02-26,AU,SME,Full Compliance,Partner,False,15,162.95,True,2024-03,13604.97
+SLEEK-1521,2024-01-11,UK,Startup,Starter,Paid,True,3,610.38,False,,4591.07
+SLEEK-1522,2024-09-28,AU,SME,Starter,Partner,False,33,185.77,False,,1225.9
+SLEEK-1523,2023-12-21,HK,SME,Growth,Organic,False,22,96.76,False,,11249.71
+SLEEK-1524,2023-01-21,HK,Startup,Growth,Partner,False,8,185.16,True,2023-09,4487.24
+SLEEK-1525,2024-02-10,SG,Startup,Growth,Organic,True,8,81.34,False,,6595.64
+SLEEK-1526,2022-11-03,SG,Startup,Starter,Organic,True,4,78.48,False,,9291.99
+SLEEK-1527,2023-12-04,HK,Startup,Starter,Referral,False,6,61.84,False,,1698.19
+SLEEK-1528,2024-04-26,UK,SME,Growth,Paid,True,9,422.56,True,2024-12,5436.96
+SLEEK-1529,2023-07-23,SG,Startup,Growth,Referral,False,7,69.14,False,,7399.88
+SLEEK-1530,2024-09-25,HK,Startup,Growth,Organic,False,2,75.13,False,,1757.97
+SLEEK-1531,2024-12-11,SG,SME,Starter,Partner,True,27,179.04,False,,2194.74
+SLEEK-1532,2024-04-20,HK,SME,Starter,Referral,False,9,75.15,False,,1469.24
+SLEEK-1533,2023-09-18,UK,Startup,Starter,Paid,False,6,773.62,True,2024-05,2513.38
+SLEEK-1534,2024-11-24,HK,Startup,Starter,Referral,False,3,81.26,False,,949.87
+SLEEK-1535,2023-02-07,SG,SME,Growth,Referral,False,19,53.98,False,,16174.49
+SLEEK-1536,2023-11-28,AU,Startup,Growth,Organic,False,7,103.34,False,,6919.56
+SLEEK-1537,2022-03-20,SG,SME,Growth,Partner,False,35,146.29,True,2023-09,21105.91
+SLEEK-1538,2023-02-02,SG,Startup,Starter,Referral,False,2,61.37,True,2023-11,1397.71
+SLEEK-1539,2023-04-05,SG,SME,Starter,Partner,False,20,129.72,True,2023-06,897.73
+SLEEK-1540,2022-03-06,SG,Corporate,Full Compliance,Referral,True,65,50.78,False,,71732.2
+SLEEK-1541,2022-01-04,SG,Startup,Starter,Referral,False,4,54.38,False,,3352.58
+SLEEK-1542,2024-09-10,AU,Startup,Growth,Partner,False,5,148.83,False,,2321.22
+SLEEK-1543,2023-02-05,SG,Startup,Growth,Referral,True,8,68.59,True,2024-02,10049.43
+SLEEK-1544,2023-02-27,SG,Startup,Growth,Partner,False,5,176.26,False,,8100.8
+SLEEK-1545,2023-03-24,SG,Startup,Full Compliance,Partner,False,8,143.45,True,2024-01,7501.17
+SLEEK-1546,2024-07-21,SG,Corporate,Full Compliance,Partner,True,106,158.12,False,,20469.19
+SLEEK-1547,2022-01-23,SG,SME,Full Compliance,Referral,False,31,51.49,False,,43688.76
+SLEEK-1548,2024-09-20,SG,Startup,Starter,Referral,False,6,55.4,False,,926.11
+SLEEK-1549,2022-10-09,HK,SME,Growth,Partner,False,29,133.82,True,2023-03,6707.39
+SLEEK-1550,2023-07-04,HK,SME,Full Compliance,Organic,False,22,103.49,True,2023-09,3853.32
+SLEEK-1551,2023-05-07,SG,Corporate,Full Compliance,Partner,False,73,151.06,False,,45189.59
+SLEEK-1552,2022-10-13,HK,SME,Full Compliance,Organic,True,31,96.78,True,2023-05,12517.17
+SLEEK-1553,2024-08-05,AU,SME,Growth,Organic,False,26,86.94,False,,5950.29
+SLEEK-1554,2023-11-22,HK,Startup,Starter,Referral,False,3,74.13,False,,1791.04
+SLEEK-1555,2023-05-20,SG,SME,Starter,Partner,False,33,127.47,True,2023-05,709.77
+SLEEK-1556,2024-09-19,SG,Startup,Growth,Partner,False,4,150.67,True,2024-10,1235.98
+SLEEK-1557,2023-07-11,SG,Startup,Starter,Partner,False,8,130.87,True,2024-11,1942.37
+SLEEK-1558,2022-09-19,UK,Startup,Starter,Organic,False,7,108.88,False,,4352.84
+SLEEK-1559,2022-05-03,HK,Startup,Starter,Partner,False,4,149.61,True,2024-04,5860.24
+SLEEK-1560,2023-09-12,SG,Startup,Growth,Organic,False,4,68.85,False,,5437.74
+SLEEK-1561,2024-02-24,AU,Startup,Starter,Partner,False,2,177.91,False,,1818.56
+SLEEK-1562,2024-09-22,HK,SME,Starter,Partner,False,23,143.76,False,,1089.68
+SLEEK-1563,2023-03-28,HK,Startup,Starter,Organic,False,5,72.11,True,2023-09,1297.86
+SLEEK-1564,2023-03-14,HK,SME,Starter,Paid,False,36,398.62,True,2023-07,1129.82
+SLEEK-1565,2023-09-25,SG,SME,Starter,Paid,False,29,534.86,False,,13164.41
+SLEEK-1566,2024-06-05,SG,Startup,Growth,Referral,False,5,62.42,False,,2924.42
+SLEEK-1567,2022-03-10,SG,Startup,Growth,Organic,False,2,76.14,False,,12357.01
+SLEEK-1568,2022-05-13,HK,SME,Growth,Referral,False,30,78.4,True,2024-02,23632.26
+SLEEK-1569,2022-07-09,SG,Startup,Starter,Paid,False,4,290.45,True,2024-10,2750.99
+SLEEK-1570,2024-11-25,HK,Startup,Growth,Partner,False,5,179.85,True,2024-11,1131.92
+SLEEK-1571,2024-03-18,SG,SME,Starter,Organic,False,36,66.54,False,,6967.36
+SLEEK-1572,2024-02-10,SG,Startup,Starter,Paid,False,6,264.55,False,,1451.37
+SLEEK-1573,2024-03-10,SG,SME,Growth,Partner,False,23,176.52,False,,8458.76
+SLEEK-1574,2022-05-27,SG,Corporate,Full Compliance,Partner,False,110,152.04,True,2023-10,57753.38
+SLEEK-1575,2023-01-18,AU,SME,Starter,Organic,False,25,80.35,False,,2974.09
+SLEEK-1576,2022-04-27,HK,Startup,Starter,Paid,False,8,303.38,True,2023-09,2068.89
+SLEEK-1577,2023-01-15,SG,SME,Starter,Partner,True,10,126.59,True,2023-09,2776.45
+SLEEK-1578,2023-11-25,SG,Startup,Starter,Organic,False,6,81.33,False,,1677.19
+SLEEK-1579,2024-04-09,HK,SME,Growth,Referral,False,40,70.66,False,,12504.81
+SLEEK-1580,2022-05-31,AU,Startup,Growth,Organic,False,6,94.7,False,,13756.63
+SLEEK-1581,2022-06-25,UK,Startup,Starter,Paid,True,5,457.33,True,2023-06,2804.15
+SLEEK-1582,2022-10-14,AU,SME,Growth,Paid,True,9,349.9,False,,22347.75
+SLEEK-1583,2023-07-14,UK,Corporate,Full Compliance,Paid,False,99,743.51,False,,50293.49
+SLEEK-1584,2022-02-10,SG,Corporate,Growth,Paid,False,123,300.87,False,,115034.81
+SLEEK-1585,2024-11-15,AU,Startup,Growth,Organic,False,8,81.62,False,,1831.39
+SLEEK-1586,2024-11-03,HK,Startup,Starter,Organic,True,7,107.72,False,,2763.27
+SLEEK-1587,2024-12-03,HK,Startup,Starter,Paid,False,6,342.77,False,,842.3
+SLEEK-1588,2022-04-15,HK,SME,Full Compliance,Paid,False,39,361.99,False,,49775.77
+SLEEK-1589,2023-09-03,SG,Startup,Full Compliance,Referral,False,4,51.68,False,,8959.98
+SLEEK-1590,2023-07-02,HK,Startup,Starter,Referral,True,6,77.34,True,2023-12,3013.1
+SLEEK-1591,2022-04-14,SG,Startup,Growth,Organic,False,3,77.36,True,2024-02,6962.26
+SLEEK-1592,2022-03-28,SG,SME,Starter,Partner,False,22,163.63,False,,25525.28
+SLEEK-1593,2024-10-07,HK,Corporate,Growth,Partner,False,83,170.84,False,,8246.22
+SLEEK-1594,2023-06-13,HK,Corporate,Full Compliance,Partner,False,134,163.07,False,,78778.41
+SLEEK-1595,2023-10-17,SG,SME,Growth,Referral,False,23,67.35,False,,12690.7
+SLEEK-1596,2022-08-24,SG,Startup,Full Compliance,Paid,False,8,262.56,False,,18673.95
+SLEEK-1597,2023-04-03,AU,Startup,Growth,Organic,False,5,88.76,False,,8654.37
+SLEEK-1598,2023-10-31,UK,Corporate,Growth,Partner,True,82,219.4,False,,34369.24
+SLEEK-1599,2024-06-02,SG,Startup,Starter,Referral,True,5,67.56,False,,3057.87
+SLEEK-1600,2023-04-12,UK,Startup,Starter,Paid,True,5,598.85,False,,3329.78
+SLEEK-1601,2023-08-10,HK,Startup,Starter,Partner,False,6,179.49,False,,1983.03
+SLEEK-1602,2022-01-05,SG,Startup,Starter,Organic,True,8,79.76,True,2022-03,3124.66
+SLEEK-1603,2022-01-05,AU,SME,Growth,Partner,False,31,138.22,True,2022-12,14906.85
+SLEEK-1604,2022-06-29,HK,Corporate,Starter,Partner,True,44,185.14,False,,18536.48
+SLEEK-1605,2022-06-01,UK,Startup,Growth,Organic,True,5,105.23,False,,11529.52
+SLEEK-1606,2023-08-20,AU,Startup,Growth,Organic,False,4,101.04,False,,6706.42
+SLEEK-1607,2022-09-04,SG,Startup,Starter,Partner,False,5,133.43,False,,2737.15
+SLEEK-1608,2024-07-15,AU,SME,Growth,Referral,False,33,75.27,True,2024-09,4526.77
+SLEEK-1609,2024-04-08,SG,Corporate,Full Compliance,Partner,True,47,162.19,False,,16520.53
+SLEEK-1610,2024-07-08,HK,Startup,Starter,Organic,False,4,98.02,False,,1204.17
+SLEEK-1611,2024-06-10,HK,SME,Growth,Partner,False,27,187.51,False,,7442.88
+SLEEK-1612,2022-07-05,UK,Startup,Starter,Paid,True,2,497.29,True,2024-05,3570.59
+SLEEK-1613,2022-11-13,SG,SME,Growth,Paid,False,28,366.41,False,,24155.72
+SLEEK-1614,2023-01-12,AU,SME,Starter,Referral,False,34,83.5,True,2024-12,2934.43
+SLEEK-1615,2022-03-20,SG,SME,Growth,Paid,True,19,291.57,False,,25276.17
+SLEEK-1616,2023-06-11,SG,SME,Starter,Partner,False,40,148.97,True,2023-08,861.69
+SLEEK-1617,2024-05-17,SG,Startup,Starter,Referral,False,6,60.69,False,,1272.95
+SLEEK-1618,2022-10-18,SG,SME,Starter,Partner,False,26,179.81,False,,2710.01
+SLEEK-1619,2023-07-15,SG,Startup,Full Compliance,Referral,True,4,62.61,True,2024-03,6908.08
+SLEEK-1620,2022-03-21,AU,Startup,Growth,Organic,False,5,106.74,True,2024-02,9834.53
+SLEEK-1621,2024-07-01,SG,Startup,Starter,Organic,False,4,94.68,True,2024-07,698.86
+SLEEK-1622,2022-02-03,HK,SME,Growth,Partner,False,27,188.97,True,2023-02,12968.62
+SLEEK-1623,2023-03-14,AU,SME,Growth,Paid,False,23,387.96,True,2023-12,10093.09
+SLEEK-1624,2022-11-29,UK,Startup,Starter,Referral,True,2,79.21,True,2023-02,2235.22
+SLEEK-1625,2022-12-09,SG,Startup,Starter,Paid,False,3,293.42,True,2024-11,4935.52
+SLEEK-1626,2022-09-08,UK,Startup,Growth,Organic,False,7,109.86,True,2023-03,3104.95
+SLEEK-1627,2022-09-06,HK,Startup,Growth,Partner,True,8,128.21,False,,13921.54
+SLEEK-1628,2023-01-02,AU,SME,Starter,Organic,True,37,98.05,True,2024-12,35468.28
+SLEEK-1629,2022-06-20,HK,Startup,Starter,Referral,True,8,58.58,True,2023-12,3809.68
+SLEEK-1630,2024-02-03,SG,Corporate,Growth,Partner,False,128,140.53,False,,37672.23
+SLEEK-1631,2023-12-21,HK,Startup,Starter,Partner,False,5,182.62,True,2024-07,1327.06
+SLEEK-1632,2022-03-16,SG,Startup,Growth,Partner,True,7,164.86,True,2022-09,4855.99
+SLEEK-1633,2023-07-11,SG,SME,Growth,Partner,True,36,131.95,True,2023-09,5536.98
+SLEEK-1634,2023-06-14,SG,SME,Growth,Organic,False,37,64.24,True,2023-09,5043.21
+SLEEK-1635,2023-01-16,SG,SME,Growth,Referral,False,29,71.91,True,2023-10,10036.39
+SLEEK-1636,2023-03-27,SG,SME,Growth,Partner,True,27,122.34,False,,23436.84
+SLEEK-1637,2024-02-17,HK,Corporate,Full Compliance,Partner,False,49,145.96,False,,20236.97
+SLEEK-1638,2024-06-26,UK,Startup,Starter,Paid,False,4,420.73,True,2024-08,925.92
+SLEEK-1639,2023-02-12,SG,Startup,Starter,Organic,False,4,95.19,False,,2382.01
+SLEEK-1640,2022-06-11,AU,Startup,Starter,Organic,False,6,91.06,True,2024-03,2803.88
+SLEEK-1641,2023-09-01,AU,Corporate,Full Compliance,Organic,True,91,106.32,False,,54111.63
+SLEEK-1642,2024-05-10,AU,Startup,Starter,Partner,False,3,158.66,False,,1551.62
+SLEEK-1643,2022-08-26,SG,Corporate,Growth,Partner,True,115,152.52,False,,91472.16
+SLEEK-1644,2023-05-09,UK,SME,Starter,Paid,True,14,550.89,False,,3302.05
+SLEEK-1645,2022-09-17,HK,Startup,Starter,Organic,False,6,106.46,False,,2768.04
+SLEEK-1646,2024-12-25,SG,Startup,Growth,Referral,True,5,59.82,False,,2633.44
+SLEEK-1647,2023-07-19,SG,SME,Growth,Organic,False,15,82.51,False,,11046.07
+SLEEK-1648,2022-01-03,AU,Startup,Full Compliance,Paid,True,4,365.64,False,,23686.99
+SLEEK-1649,2022-09-03,HK,SME,Full Compliance,Partner,False,22,143.92,False,,29125.99
+SLEEK-1650,2024-05-01,UK,SME,Growth,Referral,True,15,106.75,False,,6380.62
+SLEEK-1651,2022-01-29,HK,SME,Growth,Partner,False,17,149.85,True,2023-07,13372.32
+SLEEK-1652,2023-10-28,AU,SME,Full Compliance,Partner,False,25,161.75,True,2024-08,14285.02
+SLEEK-1653,2022-11-28,SG,Startup,Full Compliance,Referral,False,4,53.83,False,,14172.5
+SLEEK-1654,2022-01-24,SG,Startup,Starter,Paid,False,4,293.0,True,2022-12,1550.86
+SLEEK-1655,2022-09-03,SG,Startup,Growth,Paid,False,5,300.52,False,,15883.24
+SLEEK-1656,2024-02-08,SG,SME,Growth,Partner,False,39,128.01,False,,13545.03
+SLEEK-1657,2023-02-24,SG,Corporate,Growth,Partner,True,150,135.29,False,,91981.48
+SLEEK-1658,2022-02-11,HK,SME,Starter,Partner,True,26,189.26,False,,5041.84
+SLEEK-1659,2024-10-26,SG,Startup,Full Compliance,Partner,False,6,175.31,False,,2361.46
+SLEEK-1660,2023-10-11,SG,Corporate,Starter,Referral,True,79,52.64,False,,3258.43
+SLEEK-1661,2023-07-11,AU,Startup,Growth,Referral,False,6,78.87,False,,8125.24
+SLEEK-1662,2023-02-06,HK,Startup,Growth,Paid,False,4,325.46,False,,8285.78
+SLEEK-1663,2023-04-12,HK,Startup,Starter,Paid,False,2,358.74,True,2023-08,1153.22
+SLEEK-1664,2022-03-31,HK,Startup,Starter,Paid,False,2,337.73,False,,5666.05
+SLEEK-1665,2023-01-07,SG,Corporate,Growth,Partner,True,115,122.2,False,,76192.53
+SLEEK-1666,2024-02-11,SG,Corporate,Full Compliance,Partner,True,72,156.71,False,,26626.09
+SLEEK-1667,2023-05-09,AU,Startup,Starter,Paid,False,7,408.73,True,2023-12,1616.29
+SLEEK-1668,2024-09-29,AU,SME,Full Compliance,Partner,False,29,150.71,True,2024-11,4891.09
+SLEEK-1669,2023-03-12,SG,Startup,Full Compliance,Organic,False,3,88.11,False,,11510.58
+SLEEK-1670,2022-01-27,SG,Startup,Starter,Referral,False,3,65.7,True,2022-04,958.54
+SLEEK-1671,2022-05-06,AU,Startup,Growth,Organic,True,2,89.03,False,,11847.5
+SLEEK-1672,2023-09-06,AU,SME,Full Compliance,Paid,False,18,535.97,False,,16735.36
+SLEEK-1673,2024-12-27,HK,Startup,Starter,Paid,False,2,398.01,True,2024-12,846.11
+SLEEK-1674,2022-08-11,AU,Startup,Starter,Organic,True,7,107.99,True,2024-06,4728.51
+SLEEK-1675,2023-11-07,HK,SME,Full Compliance,Partner,False,21,138.07,True,2024-02,4794.37
+SLEEK-1676,2024-08-22,UK,Startup,Starter,Paid,True,7,481.67,False,,2242.91
+SLEEK-1677,2023-08-29,AU,SME,Growth,Organic,False,15,101.42,False,,12763.19
+SLEEK-1678,2024-12-28,AU,Startup,Full Compliance,Organic,False,7,84.53,False,,1568.5
+SLEEK-1679,2024-11-26,HK,SME,Starter,Organic,False,23,103.53,False,,933.01
+SLEEK-1680,2024-11-22,UK,Startup,Starter,Paid,True,6,528.11,False,,2145.18
+SLEEK-1681,2022-10-06,HK,Startup,Growth,Paid,False,8,286.16,False,,15116.43
+SLEEK-1682,2023-10-15,SG,SME,Starter,Organic,False,28,87.07,False,,1769.03
+SLEEK-1683,2023-11-23,HK,SME,Starter,Partner,False,9,176.99,False,,1757.48
+SLEEK-1684,2022-12-04,AU,SME,Growth,Organic,False,13,112.32,False,,16131.73
+SLEEK-1685,2024-06-18,HK,Startup,Growth,Partner,False,8,162.5,False,,3704.16
+SLEEK-1686,2022-11-03,HK,Corporate,Full Compliance,Organic,False,141,83.26,False,,112179.77
+SLEEK-1687,2023-02-23,UK,SME,Starter,Partner,True,38,203.66,False,,3395.98
+SLEEK-1688,2022-05-17,SG,Startup,Growth,Referral,False,2,49.02,False,,8648.63
+SLEEK-1689,2022-04-11,HK,Startup,Starter,Organic,True,4,81.41,False,,6614.47
+SLEEK-1690,2023-07-18,HK,Startup,Starter,Referral,False,3,67.35,False,,2058.59
+SLEEK-1691,2024-01-12,SG,SME,Growth,Referral,False,10,52.09,False,,6731.44
+SLEEK-1692,2024-04-12,HK,Startup,Starter,Paid,False,6,337.43,False,,1453.95
+SLEEK-1693,2024-12-12,HK,Startup,Starter,Partner,False,2,132.13,False,,875.09
+SLEEK-1694,2023-11-24,UK,SME,Starter,Paid,True,8,770.83,False,,3561.03
+SLEEK-1695,2023-08-16,SG,SME,Full Compliance,Partner,True,20,134.94,False,,17854.7
+SLEEK-1696,2022-11-14,HK,Startup,Growth,Organic,False,7,77.09,False,,10740.76
+SLEEK-1697,2023-07-10,SG,Startup,Starter,Referral,False,7,53.83,True,2023-10,924.97
+SLEEK-1698,2022-02-03,SG,SME,Growth,Partner,False,32,122.45,True,2022-05,4591.0
+SLEEK-1699,2022-03-13,SG,Corporate,Full Compliance,Referral,True,109,65.31,False,,109871.82
+SLEEK-1700,2022-02-17,HK,Startup,Growth,Partner,False,8,158.07,True,2023-08,8526.55
+SLEEK-1701,2024-01-25,SG,Startup,Starter,Referral,True,7,50.62,False,,3139.29
+SLEEK-1702,2023-11-11,HK,Startup,Growth,Partner,False,7,136.59,False,,6170.41
+SLEEK-1703,2023-02-08,SG,SME,Starter,Organic,False,30,70.92,True,2024-08,2088.85
+SLEEK-1704,2024-03-08,SG,Startup,Growth,Referral,True,7,67.34,False,,6016.51
+SLEEK-1705,2022-09-11,HK,Startup,Starter,Referral,True,6,72.98,True,2023-04,4663.74
+SLEEK-1706,2022-04-02,SG,SME,Full Compliance,Referral,False,13,68.52,False,,25262.56
+SLEEK-1707,2024-07-16,UK,SME,Full Compliance,Paid,True,40,622.22,True,2024-10,7227.1
+SLEEK-1708,2024-12-10,AU,SME,Full Compliance,Referral,True,9,60.32,False,,3661.47
+SLEEK-1709,2024-08-06,UK,Startup,Starter,Organic,False,6,122.39,False,,1026.57
+SLEEK-1710,2023-09-27,UK,Startup,Growth,Paid,False,8,753.2,False,,6596.03
+SLEEK-1711,2023-07-31,UK,Startup,Full Compliance,Referral,True,5,103.76,False,,10956.14
+SLEEK-1712,2022-02-26,SG,SME,Starter,Organic,False,26,80.83,True,2022-03,1706.73
+SLEEK-1713,2023-01-19,SG,Startup,Starter,Organic,True,8,95.9,True,2024-10,3761.18
+SLEEK-1714,2024-11-01,AU,Corporate,Growth,Partner,True,83,152.33,False,,8138.23
+SLEEK-1715,2023-05-05,SG,Startup,Starter,Partner,False,8,144.43,True,2024-03,1503.82
+SLEEK-1716,2022-07-14,SG,Startup,Full Compliance,Referral,False,2,65.85,False,,14804.07
+SLEEK-1717,2022-01-28,SG,Startup,Full Compliance,Referral,True,5,60.49,True,2023-08,13104.57
+SLEEK-1718,2023-11-15,SG,SME,Starter,Partner,True,19,176.42,False,,3357.03
+SLEEK-1719,2022-04-17,AU,Startup,Growth,Organic,True,6,100.36,False,,16057.82
+SLEEK-1720,2023-03-20,SG,SME,Starter,Referral,False,10,60.59,True,2023-12,1430.73
+SLEEK-1721,2023-04-11,SG,Startup,Starter,Referral,False,6,59.45,False,,4840.33
+SLEEK-1722,2023-03-11,AU,Startup,Starter,Paid,False,2,360.89,False,,2776.69
+SLEEK-1723,2022-09-12,SG,Startup,Full Compliance,Referral,True,4,61.94,True,2023-09,9011.89
+SLEEK-1724,2024-10-26,SG,Startup,Starter,Organic,False,6,88.2,False,,901.35
+SLEEK-1725,2024-09-05,UK,Startup,Starter,Paid,True,6,578.35,False,,2309.22
+SLEEK-1726,2024-07-23,HK,SME,Starter,Partner,True,31,161.42,False,,2968.06
+SLEEK-1727,2022-10-28,HK,SME,Growth,Referral,True,40,58.88,False,,39842.23
+SLEEK-1728,2023-02-03,AU,SME,Full Compliance,Partner,True,22,196.56,False,,28462.76
+SLEEK-1729,2022-01-14,SG,Startup,Growth,Partner,False,3,121.38,True,2024-09,9750.68
+SLEEK-1730,2024-02-06,SG,Startup,Growth,Referral,False,7,55.43,False,,6273.8
+SLEEK-1731,2023-11-08,SG,SME,Full Compliance,Paid,False,9,467.75,False,,9663.07
+SLEEK-1732,2023-12-07,AU,Corporate,Full Compliance,Partner,True,58,196.34,True,2024-01,7332.71
+SLEEK-1733,2022-07-01,UK,SME,Growth,Paid,True,30,592.59,True,2024-12,28723.12
+SLEEK-1734,2022-07-11,HK,Startup,Growth,Referral,False,5,66.71,True,2024-08,11278.05
+SLEEK-1735,2024-09-13,HK,Corporate,Full Compliance,Paid,False,58,293.76,False,,8765.31
+SLEEK-1736,2023-11-21,AU,SME,Full Compliance,Paid,False,20,606.19,False,,15859.21
+SLEEK-1737,2023-09-29,AU,Startup,Growth,Organic,False,8,90.88,False,,8371.04
+SLEEK-1738,2022-03-14,SG,Corporate,Full Compliance,Partner,True,47,174.44,False,,56735.17
+SLEEK-1739,2022-01-27,SG,Corporate,Full Compliance,Referral,False,43,67.77,False,,54641.77
+SLEEK-1740,2023-02-21,SG,Startup,Growth,Referral,False,5,68.59,False,,8144.3
+SLEEK-1741,2022-08-21,SG,Startup,Starter,Referral,False,3,51.45,True,2022-10,1130.08
+SLEEK-1742,2024-06-21,HK,Startup,Starter,Partner,True,7,146.02,True,2024-11,2974.79
+SLEEK-1743,2024-07-21,UK,SME,Full Compliance,Referral,True,30,96.17,False,,8655.89
+SLEEK-1744,2023-08-13,SG,SME,Full Compliance,Partner,False,12,178.92,False,,12908.27
+SLEEK-1745,2024-12-09,AU,Startup,Growth,Paid,False,3,343.95,False,,1211.71
+SLEEK-1746,2024-12-06,SG,Startup,Starter,Partner,False,5,174.95,False,,746.13
+SLEEK-1747,2022-12-03,HK,Startup,Growth,Organic,True,5,74.83,False,,10716.58
+SLEEK-1748,2023-03-15,SG,SME,Growth,Organic,False,15,82.35,False,,13361.72
+SLEEK-1749,2023-10-02,SG,Startup,Growth,Partner,False,2,130.12,True,2024-03,2181.22
+SLEEK-1750,2024-02-10,SG,Startup,Full Compliance,Referral,True,4,53.68,True,2024-06,4725.41
+SLEEK-1751,2022-10-18,AU,Startup,Full Compliance,Paid,False,6,416.62,False,,18170.43
+SLEEK-1752,2022-02-27,SG,Startup,Growth,Organic,True,3,90.47,False,,11728.39
+SLEEK-1753,2023-08-26,SG,Corporate,Full Compliance,Partner,True,94,156.39,False,,49326.57
+SLEEK-1754,2023-05-13,AU,Startup,Growth,Referral,True,7,85.44,True,2024-01,6692.66
+SLEEK-1755,2024-01-08,UK,Startup,Growth,Paid,True,8,615.63,False,,6426.72
+SLEEK-1756,2024-04-04,AU,Startup,Growth,Paid,False,7,455.16,False,,4784.32
+SLEEK-1757,2024-03-28,SG,SME,Growth,Referral,True,17,56.76,True,2024-04,3516.31
+SLEEK-1758,2023-03-03,SG,SME,Full Compliance,Organic,False,8,85.72,False,,14349.73
+SLEEK-1759,2022-08-03,AU,Startup,Growth,Paid,True,2,365.55,True,2022-10,3624.41
+SLEEK-1760,2022-10-12,HK,SME,Growth,Organic,False,10,86.33,False,,13340.68
+SLEEK-1761,2023-04-27,HK,Startup,Starter,Referral,False,6,73.05,False,,2296.49
+SLEEK-1762,2022-03-19,AU,Corporate,Full Compliance,Organic,False,128,111.94,False,,145583.38
+SLEEK-1763,2023-05-29,AU,SME,Growth,Paid,True,29,348.36,False,,24483.57
+SLEEK-1764,2022-05-16,AU,SME,Growth,Referral,False,40,68.51,True,2022-06,3705.87
+SLEEK-1765,2024-06-22,HK,SME,Starter,Partner,True,33,187.11,False,,2977.77
+SLEEK-1766,2024-03-15,SG,Startup,Starter,Referral,False,2,66.73,False,,1411.15
+SLEEK-1767,2024-12-25,AU,SME,Growth,Paid,False,35,386.38,False,,2103.06
+SLEEK-1768,2022-09-23,HK,SME,Growth,Organic,False,10,92.76,True,2024-07,11513.74
+SLEEK-1769,2022-01-02,AU,Startup,Starter,Referral,False,3,65.59,False,,3942.28
+SLEEK-1770,2023-07-13,SG,SME,Growth,Partner,False,10,139.91,False,,8707.3
+SLEEK-1771,2023-06-28,SG,Startup,Starter,Organic,False,5,72.04,False,,2431.92
+SLEEK-1772,2023-08-26,HK,Startup,Starter,Organic,False,7,80.88,False,,1991.94
+SLEEK-1773,2024-03-12,HK,SME,Full Compliance,Paid,False,14,311.11,False,,8601.42
+SLEEK-1774,2023-09-25,SG,Startup,Starter,Organic,False,4,95.66,True,2024-03,1141.8
+SLEEK-1775,2024-03-08,SG,Corporate,Growth,Paid,False,53,333.82,False,,15907.51
+SLEEK-1776,2023-06-01,SG,Corporate,Full Compliance,Partner,True,89,149.38,False,,52086.2
+SLEEK-1777,2023-04-25,UK,SME,Growth,Organic,True,24,133.1,True,2023-05,3505.26
+SLEEK-1778,2022-09-27,SG,Startup,Growth,Referral,True,5,70.23,True,2023-12,7309.62
+SLEEK-1779,2023-11-15,HK,Startup,Growth,Organic,True,8,81.69,True,2024-04,5014.41
+SLEEK-1780,2022-02-07,SG,Startup,Starter,Organic,False,3,87.33,False,,3264.22
+SLEEK-1781,2024-12-10,AU,Startup,Starter,Referral,False,4,83.96,False,,1015.32
+SLEEK-1782,2024-11-26,SG,Corporate,Growth,Referral,False,44,70.81,False,,3284.42
+SLEEK-1783,2024-12-19,AU,Startup,Full Compliance,Paid,False,5,322.55,False,,1532.45
+SLEEK-1784,2024-09-05,HK,SME,Starter,Partner,True,40,151.1,False,,2877.51
+SLEEK-1785,2022-11-30,HK,SME,Full Compliance,Paid,False,35,410.92,True,2024-02,22689.37
+SLEEK-1786,2023-08-18,SG,Corporate,Growth,Partner,True,103,137.92,False,,49273.96
+SLEEK-1787,2023-07-27,AU,Startup,Starter,Partner,False,4,159.09,False,,2460.11
+SLEEK-1788,2023-08-13,AU,Startup,Starter,Referral,False,2,63.87,False,,2336.38
+SLEEK-1789,2023-05-07,UK,SME,Starter,Paid,True,10,609.98,False,,3233.76
+SLEEK-1790,2022-04-03,SG,SME,Full Compliance,Paid,False,15,272.78,False,,26866.29
+SLEEK-1791,2022-01-12,AU,SME,Growth,Organic,False,35,99.22,False,,46619.15
+SLEEK-1792,2023-09-14,HK,Startup,Starter,Organic,False,5,90.71,False,,5601.94
+SLEEK-1793,2024-10-20,HK,Corporate,Full Compliance,Partner,False,94,172.18,False,,9954.43
+SLEEK-1794,2024-03-24,SG,SME,Starter,Referral,False,18,56.79,False,,1385.33
+SLEEK-1795,2022-08-11,UK,Startup,Starter,Partner,True,6,224.43,False,,9037.55
+SLEEK-1796,2022-05-09,AU,Startup,Starter,Organic,False,7,104.26,True,2024-09,12332.73
+SLEEK-1797,2022-01-17,SG,Startup,Starter,Organic,True,7,72.4,False,,12044.17
+SLEEK-1798,2024-08-23,HK,Startup,Starter,Paid,False,3,378.86,True,2024-10,994.23
+SLEEK-1799,2023-10-20,AU,SME,Starter,Paid,False,25,655.31,False,,2139.56
+SLEEK-1800,2022-03-08,HK,Startup,Starter,Partner,False,8,167.59,True,2024-10,3025.35
+SLEEK-1801,2023-05-09,AU,SME,Growth,Paid,False,19,363.66,True,2024-11,18062.05
+SLEEK-1802,2022-12-26,AU,Corporate,Starter,Partner,True,140,182.75,True,2024-06,4526.23
+SLEEK-1803,2023-01-17,AU,Startup,Full Compliance,Paid,False,3,444.77,False,,14097.43
+SLEEK-1804,2022-03-04,SG,Corporate,Full Compliance,Partner,False,114,167.96,False,,112109.32
+SLEEK-1805,2022-06-21,SG,Startup,Starter,Referral,False,8,71.14,False,,2978.84
+SLEEK-1806,2023-09-23,AU,Startup,Starter,Paid,False,5,467.72,False,,2287.62
+SLEEK-1807,2024-03-16,AU,SME,Starter,Organic,False,24,117.68,False,,1714.5
+SLEEK-1808,2024-10-17,AU,SME,Growth,Partner,True,36,185.3,False,,6658.95
+SLEEK-1809,2022-01-06,HK,SME,Starter,Referral,True,11,60.88,True,2022-09,3101.11
+SLEEK-1810,2023-12-04,SG,SME,Starter,Referral,False,16,64.99,False,,4960.06
+SLEEK-1811,2023-05-13,HK,SME,Starter,Partner,False,14,129.8,False,,2174.98
+SLEEK-1812,2023-01-06,SG,Startup,Starter,Referral,False,5,49.07,True,2023-04,942.83
+SLEEK-1813,2024-11-28,HK,Corporate,Full Compliance,Partner,False,127,183.27,True,2024-11,4814.54
+SLEEK-1814,2022-03-08,SG,SME,Growth,Partner,True,10,143.66,True,2024-02,12946.63
+SLEEK-1815,2024-10-28,SG,Startup,Growth,Paid,False,4,297.05,False,,1560.29
+SLEEK-1816,2022-07-11,AU,Startup,Starter,Organic,False,8,85.97,True,2024-06,2892.36
+SLEEK-1817,2024-04-10,UK,Corporate,Starter,Partner,True,123,184.22,False,,2583.98
+SLEEK-1818,2023-02-07,AU,Startup,Full Compliance,Organic,False,2,103.06,False,,12849.71
+SLEEK-1819,2024-01-21,SG,SME,Starter,Organic,True,15,68.86,True,2024-02,2448.7
+SLEEK-1820,2024-04-19,AU,Corporate,Full Compliance,Partner,True,117,180.89,False,,38671.75
+SLEEK-1821,2024-02-23,AU,SME,Growth,Organic,True,15,85.18,False,,10247.24
+SLEEK-1822,2023-12-04,HK,Startup,Growth,Organic,False,3,105.32,False,,4284.13
+SLEEK-1823,2022-07-13,SG,SME,Growth,Partner,False,37,152.17,True,2023-11,19807.41
+SLEEK-1824,2024-12-02,HK,SME,Starter,Paid,False,14,387.01,False,,833.59
+SLEEK-1825,2022-06-28,SG,Startup,Starter,Referral,False,3,63.96,False,,2950.75
+SLEEK-1826,2023-02-01,HK,Startup,Growth,Organic,False,7,85.2,True,2023-02,1204.56
+SLEEK-1827,2023-01-23,SG,SME,Growth,Partner,True,39,155.77,False,,35161.14
+SLEEK-1828,2024-07-18,AU,SME,Starter,Organic,False,30,91.02,False,,1408.39
+SLEEK-1829,2022-09-24,HK,Startup,Starter,Paid,False,7,283.79,False,,2774.19
+SLEEK-1830,2022-04-21,AU,Startup,Starter,Partner,True,3,160.6,False,,5467.79
+SLEEK-1831,2022-05-06,HK,Startup,Starter,Organic,True,5,97.98,False,,4760.51
+SLEEK-1832,2022-09-17,AU,Startup,Growth,Organic,False,2,101.24,True,2024-11,13871.93
+SLEEK-1833,2024-11-01,SG,Startup,Starter,Partner,False,3,162.62,False,,807.09
+SLEEK-1834,2024-10-25,SG,Startup,Growth,Paid,False,4,303.18,False,,1542.19
+SLEEK-1835,2023-12-14,HK,Startup,Starter,Referral,True,3,67.9,True,2024-05,4610.2
+SLEEK-1836,2024-01-04,SG,SME,Starter,Organic,True,40,65.9,False,,3110.82
+SLEEK-1837,2023-04-04,SG,Startup,Starter,Partner,False,5,136.57,False,,6520.83
+SLEEK-1838,2023-11-12,SG,Startup,Starter,Referral,True,7,51.56,False,,6258.07
+SLEEK-1839,2022-07-15,SG,Startup,Starter,Organic,False,4,65.72,True,2024-12,2930.45
+SLEEK-1840,2022-05-16,SG,Startup,Starter,Partner,True,7,168.06,True,2024-08,4260.47
+SLEEK-1841,2022-11-12,SG,Startup,Starter,Paid,False,5,346.04,True,2024-10,2451.18
+SLEEK-1842,2022-04-20,SG,Startup,Starter,Organic,False,5,90.32,False,,3121.22
+SLEEK-1843,2023-08-22,UK,SME,Full Compliance,Partner,True,23,166.31,False,,17945.9
+SLEEK-1844,2022-03-07,AU,SME,Starter,Paid,False,14,344.43,False,,3810.88
+SLEEK-1845,2023-01-15,SG,Startup,Growth,Referral,True,4,64.0,False,,16807.06
+SLEEK-1846,2022-09-03,SG,SME,Full Compliance,Paid,False,25,328.05,False,,29892.88
+SLEEK-1847,2022-05-15,HK,Startup,Starter,Referral,False,6,60.82,False,,3387.97
+SLEEK-1848,2024-10-14,HK,SME,Full Compliance,Paid,False,39,335.3,False,,5187.49
+SLEEK-1849,2024-06-18,HK,SME,Growth,Organic,False,26,101.29,False,,7316.09
+SLEEK-1850,2022-01-16,SG,Corporate,Full Compliance,Partner,True,62,135.97,False,,73024.23
+SLEEK-1851,2024-11-21,AU,Startup,Growth,Organic,False,2,103.8,False,,1449.66
+SLEEK-1852,2024-05-29,UK,Startup,Growth,Organic,False,8,108.68,False,,3663.17
+SLEEK-1853,2023-09-22,UK,SME,Starter,Organic,False,18,118.12,False,,10255.33
+SLEEK-1854,2023-11-26,SG,Startup,Growth,Partner,False,6,135.57,True,2024-09,4507.82
+SLEEK-1855,2024-05-01,UK,SME,Growth,Paid,True,40,543.96,False,,11126.44
+SLEEK-1856,2022-10-28,AU,SME,Full Compliance,Paid,False,9,316.69,True,2022-12,3109.45
+SLEEK-1857,2023-08-17,AU,Startup,Full Compliance,Paid,False,8,552.81,True,2023-08,1625.71
+SLEEK-1858,2022-03-25,SG,Startup,Starter,Paid,False,6,377.19,True,2023-02,1571.47
+SLEEK-1859,2024-06-20,HK,Corporate,Full Compliance,Partner,False,109,151.92,False,,24849.08
+SLEEK-1860,2022-08-22,SG,SME,Starter,Paid,False,32,363.85,False,,13868.71
+SLEEK-1861,2022-06-22,HK,Startup,Full Compliance,Paid,False,8,351.53,True,2023-09,10632.49
+SLEEK-1862,2024-05-17,HK,SME,Growth,Referral,False,33,70.13,False,,9777.5
+SLEEK-1863,2024-09-04,HK,Corporate,Full Compliance,Partner,True,85,131.2,False,,13351.48
+SLEEK-1864,2022-02-12,SG,Startup,Starter,Partner,False,3,149.66,False,,3241.36
+SLEEK-1865,2023-06-24,SG,Startup,Starter,Partner,False,6,126.42,False,,2093.3
+SLEEK-1866,2024-03-26,AU,SME,Starter,Referral,False,34,79.2,False,,1754.64
+SLEEK-1867,2024-02-25,AU,Startup,Starter,Paid,False,5,413.49,False,,1860.26
+SLEEK-1868,2022-03-11,SG,Startup,Starter,Paid,False,4,274.22,True,2024-07,2827.76
+SLEEK-1869,2023-07-18,HK,Startup,Starter,Referral,False,6,59.5,False,,2098.11
+SLEEK-1870,2023-07-15,UK,SME,Growth,Paid,True,35,754.55,False,,20170.44
+SLEEK-1871,2024-08-20,SG,Startup,Growth,Paid,False,2,310.39,True,2024-09,1121.18
+SLEEK-1872,2022-12-08,SG,Startup,Starter,Partner,False,8,165.33,True,2023-11,1551.01
+SLEEK-1873,2022-02-24,SG,SME,Growth,Organic,True,23,64.01,True,2023-04,13804.19
+SLEEK-1874,2022-12-01,SG,Startup,Full Compliance,Referral,False,8,56.65,True,2024-11,15514.72
+SLEEK-1875,2022-01-28,SG,Startup,Starter,Organic,True,6,73.25,True,2022-05,2667.29
+SLEEK-1876,2023-12-03,SG,SME,Growth,Referral,False,10,51.04,False,,6488.61
+SLEEK-1877,2024-03-31,HK,Corporate,Full Compliance,Partner,True,50,163.27,False,,20299.17
+SLEEK-1878,2022-02-20,SG,Startup,Starter,Partner,False,4,143.67,False,,8758.06
+SLEEK-1879,2023-05-25,HK,SME,Growth,Referral,False,36,72.29,True,2024-04,15197.08
+SLEEK-1880,2023-06-11,SG,Startup,Growth,Referral,False,2,71.49,False,,6545.27
+SLEEK-1881,2023-03-25,SG,SME,Growth,Partner,False,32,141.68,False,,24342.84
+SLEEK-1882,2024-08-29,AU,Startup,Starter,Organic,True,8,107.31,False,,3314.89
+SLEEK-1883,2024-03-19,HK,SME,Starter,Referral,False,16,64.8,False,,4924.69
+SLEEK-1884,2023-01-02,SG,SME,Starter,Paid,False,16,339.98,False,,2421.6
+SLEEK-1885,2022-07-22,SG,Corporate,Full Compliance,Referral,False,111,66.85,False,,96981.54
+SLEEK-1886,2023-11-01,HK,Startup,Growth,Paid,True,8,459.21,True,2023-11,2817.09
+SLEEK-1887,2023-10-15,UK,Startup,Growth,Referral,False,6,84.24,True,2024-12,5494.05
+SLEEK-1888,2023-03-29,HK,Corporate,Growth,Partner,False,94,160.41,False,,69944.07
+SLEEK-1889,2023-03-28,SG,SME,Growth,Paid,False,26,354.61,True,2024-11,18332.9
+SLEEK-1890,2023-01-01,SG,Startup,Growth,Paid,True,3,342.43,False,,8683.1
+SLEEK-1891,2023-08-23,SG,Startup,Growth,Organic,True,4,73.94,True,2024-11,9437.9
+SLEEK-1892,2022-12-29,HK,Startup,Starter,Organic,True,8,107.41,False,,4276.56
+SLEEK-1893,2024-11-24,HK,Corporate,Full Compliance,Partner,True,108,191.58,False,,9450.75
+SLEEK-1894,2022-09-05,SG,Startup,Starter,Referral,False,4,49.9,True,2023-01,1615.9
+SLEEK-1895,2024-12-14,SG,SME,Growth,Organic,False,35,91.29,False,,1764.52
+SLEEK-1896,2022-04-24,SG,SME,Growth,Partner,True,30,148.72,False,,34815.99
+SLEEK-1897,2024-12-26,HK,SME,Starter,Partner,False,18,163.46,False,,856.21
+SLEEK-1898,2022-03-23,SG,Startup,Growth,Referral,False,4,60.08,False,,10883.8
+SLEEK-1899,2022-03-06,AU,Corporate,Full Compliance,Paid,True,87,369.24,False,,106710.91
+SLEEK-1900,2024-02-04,SG,Startup,Starter,Referral,False,5,52.65,False,,1475.39
+SLEEK-1901,2023-10-24,SG,Startup,Growth,Referral,False,8,50.04,False,,6626.77
+SLEEK-1902,2023-03-16,SG,Startup,Starter,Referral,False,6,52.6,False,,2325.61
+SLEEK-1903,2023-11-18,SG,Startup,Starter,Organic,False,5,91.1,True,2024-01,883.0
+SLEEK-1904,2024-06-01,UK,SME,Growth,Paid,True,22,422.91,False,,6931.28
+SLEEK-1905,2022-06-28,SG,Startup,Starter,Partner,True,8,138.34,True,2024-10,4329.82
+SLEEK-1906,2022-05-22,AU,SME,Growth,Organic,False,26,95.85,True,2024-11,31859.06
+SLEEK-1907,2022-12-19,HK,Startup,Starter,Paid,False,4,315.62,False,,2577.75
+SLEEK-1908,2022-06-23,SG,Startup,Starter,Partner,True,7,156.17,False,,7237.35
+SLEEK-1909,2023-10-19,AU,Startup,Starter,Paid,True,5,572.1,True,2024-07,3623.25
+SLEEK-1910,2023-12-04,UK,Startup,Growth,Paid,True,5,845.66,True,2024-12,5771.0
+SLEEK-1911,2024-11-23,UK,Startup,Growth,Referral,True,4,96.86,False,,2624.65
+SLEEK-1912,2022-08-03,HK,SME,Starter,Partner,True,32,156.76,True,2022-10,2825.2
+SLEEK-1913,2024-07-23,SG,SME,Starter,Partner,False,22,136.07,False,,1106.47
+SLEEK-1914,2022-07-31,HK,Startup,Starter,Organic,False,6,76.06,False,,2878.89
+SLEEK-1915,2023-03-07,HK,Startup,Full Compliance,Partner,False,2,161.09,False,,10619.88
+SLEEK-1916,2022-10-26,AU,SME,Starter,Organic,True,22,112.65,False,,5957.52
+SLEEK-1917,2023-07-04,SG,Startup,Starter,Organic,False,6,64.95,False,,7466.62
+SLEEK-1918,2024-09-11,HK,SME,Growth,Partner,False,26,135.79,False,,4452.7
+SLEEK-1919,2022-09-10,SG,Startup,Full Compliance,Organic,False,2,84.8,True,2022-11,2068.05
+SLEEK-1920,2023-07-20,HK,SME,Growth,Partner,False,16,176.07,False,,12203.48
+SLEEK-1921,2023-02-02,SG,Startup,Starter,Partner,False,5,164.0,False,,2388.92
+SLEEK-1922,2024-01-28,AU,Startup,Growth,Organic,False,7,91.16,False,,6021.48
+SLEEK-1923,2022-02-10,HK,Startup,Full Compliance,Organic,False,7,73.66,True,2023-11,13676.23
+SLEEK-1924,2024-06-10,SG,Startup,Growth,Organic,False,3,86.69,False,,2548.15
+SLEEK-1925,2023-04-28,UK,Startup,Starter,Paid,False,6,543.74,False,,2075.01
+SLEEK-1926,2023-09-25,SG,SME,Starter,Organic,True,17,77.43,False,,3354.9
+SLEEK-1927,2022-08-26,SG,SME,Starter,Referral,False,15,53.62,False,,2815.79
+SLEEK-1928,2024-09-20,HK,Corporate,Full Compliance,Partner,True,142,132.65,False,,19969.97
+SLEEK-1929,2022-06-08,HK,Startup,Growth,Paid,True,6,405.55,True,2024-07,13313.86
+SLEEK-1930,2022-06-15,SG,Startup,Growth,Organic,False,8,84.19,False,,13067.77
+SLEEK-1931,2022-06-11,AU,Startup,Growth,Organic,False,6,80.23,True,2023-01,4127.56
+SLEEK-1932,2023-06-04,SG,Startup,Starter,Organic,False,7,78.62,True,2023-06,713.3
+SLEEK-1933,2023-01-14,AU,Startup,Growth,Paid,False,8,318.68,False,,11888.83
+SLEEK-1934,2024-04-04,HK,Startup,Full Compliance,Organic,True,3,87.69,True,2024-10,5742.41
+SLEEK-1935,2022-06-02,HK,Startup,Starter,Paid,False,4,393.56,True,2022-10,1153.17
+SLEEK-1936,2022-08-04,AU,Startup,Growth,Partner,False,5,159.57,True,2024-01,7537.42
+SLEEK-1937,2024-11-01,AU,Startup,Starter,Paid,True,8,432.43,False,,3021.37
+SLEEK-1938,2022-02-06,AU,Startup,Full Compliance,Organic,False,3,81.99,False,,20112.1
+SLEEK-1939,2022-07-25,UK,SME,Growth,Paid,True,38,459.94,True,2023-02,10676.49
+SLEEK-1940,2024-02-16,UK,Startup,Starter,Partner,False,2,217.69,False,,1447.67
+SLEEK-1941,2024-03-23,SG,Startup,Starter,Referral,True,5,58.86,False,,5582.23
+SLEEK-1942,2024-01-16,SG,Corporate,Starter,Partner,False,122,167.18,False,,1540.23
+SLEEK-1943,2024-02-01,HK,Corporate,Full Compliance,Organic,False,143,93.98,False,,49062.89
+SLEEK-1944,2022-01-24,SG,SME,Growth,Organic,False,36,94.3,False,,40035.28
+SLEEK-1945,2022-02-19,SG,SME,Growth,Organic,False,24,64.47,False,,28625.9
+SLEEK-1946,2024-11-15,UK,SME,Growth,Referral,True,28,100.27,False,,3687.46
+SLEEK-1947,2024-12-04,HK,Startup,Starter,Referral,False,8,72.61,False,,847.89
+SLEEK-1948,2023-07-26,AU,Startup,Full Compliance,Paid,False,7,609.62,False,,13012.85
+SLEEK-1949,2024-04-26,SG,SME,Growth,Partner,True,12,152.31,False,,6719.39
+SLEEK-1950,2023-07-08,SG,Startup,Growth,Organic,False,3,66.2,True,2024-04,4613.03
+SLEEK-1951,2023-08-23,UK,SME,Starter,Referral,False,29,99.5,False,,6071.99
+SLEEK-1952,2024-04-10,AU,Startup,Growth,Paid,False,7,452.81,False,,4742.99
+SLEEK-1953,2024-05-18,SG,Startup,Starter,Referral,False,4,61.13,True,2024-07,879.18
+SLEEK-1954,2023-09-03,AU,Startup,Starter,Partner,True,4,145.38,True,2024-07,3697.59
+SLEEK-1955,2023-08-20,SG,SME,Growth,Partner,False,18,124.8,False,,11804.45
+SLEEK-1956,2023-06-25,SG,Startup,Starter,Partner,False,4,122.55,True,2024-04,3434.55
+SLEEK-1957,2023-04-24,AU,SME,Starter,Referral,True,40,62.5,False,,18132.91
+SLEEK-1958,2022-06-20,UK,Startup,Starter,Partner,False,5,224.44,True,2023-09,1738.13
+SLEEK-1959,2022-12-11,HK,Startup,Growth,Referral,False,3,67.37,False,,7541.84
+SLEEK-1960,2024-01-03,SG,Corporate,Full Compliance,Referral,False,140,52.37,False,,47894.35
+SLEEK-1961,2022-05-02,AU,SME,Starter,Partner,False,11,194.48,True,2022-06,1101.32
+SLEEK-1962,2023-02-26,SG,Startup,Growth,Organic,False,7,85.96,True,2024-12,9239.32
+SLEEK-1963,2022-03-31,AU,Startup,Full Compliance,Paid,False,7,378.83,True,2023-12,15603.51
+SLEEK-1964,2022-12-19,SG,Startup,Growth,Referral,False,7,63.45,False,,10509.97
+SLEEK-1965,2024-03-15,AU,Startup,Starter,Organic,True,4,107.1,False,,3566.8
+SLEEK-1966,2022-08-31,AU,Startup,Starter,Referral,False,3,70.45,False,,3413.91
+SLEEK-1967,2023-03-10,SG,Startup,Growth,Referral,False,7,69.84,False,,8906.69
+SLEEK-1968,2024-04-12,SG,SME,Growth,Partner,True,32,140.43,False,,11138.0
+SLEEK-1969,2023-11-01,SG,Startup,Starter,Partner,False,8,145.71,False,,3683.51
+SLEEK-1970,2024-06-18,HK,Startup,Starter,Paid,False,3,286.17,False,,1331.14
+SLEEK-1971,2022-10-07,UK,Startup,Growth,Paid,True,6,614.93,False,,12681.6
+SLEEK-1972,2024-02-07,AU,Startup,Growth,Referral,False,5,60.62,False,,4907.76
+SLEEK-1973,2022-03-12,SG,SME,Full Compliance,Organic,True,32,66.33,False,,43627.12
+SLEEK-1974,2022-05-06,SG,Startup,Growth,Paid,False,6,336.35,True,2022-08,2060.17
+SLEEK-1975,2023-09-23,AU,Startup,Starter,Referral,True,8,62.86,True,2024-12,4052.06
+SLEEK-1976,2022-06-08,SG,Startup,Starter,Partner,False,5,165.86,False,,2970.78
+SLEEK-1977,2022-08-27,HK,Startup,Starter,Organic,True,3,86.13,False,,4623.79
+SLEEK-1978,2023-11-17,HK,Startup,Full Compliance,Partner,False,8,187.11,False,,9445.11
+SLEEK-1979,2024-07-12,AU,SME,Growth,Partner,True,18,174.46,False,,7349.94
+SLEEK-1980,2022-12-10,HK,SME,Growth,Paid,False,34,312.33,True,2024-11,29571.71
+SLEEK-1981,2022-10-17,HK,SME,Growth,Partner,True,24,150.64,False,,28554.69
+SLEEK-1982,2022-09-16,HK,Startup,Starter,Organic,True,4,88.02,True,2022-09,2514.51
+SLEEK-1983,2022-01-13,AU,Startup,Starter,Referral,False,2,72.94,False,,3930.4
+SLEEK-1984,2022-05-19,HK,SME,Growth,Partner,False,39,186.26,True,2024-12,47701.25
+SLEEK-1985,2024-06-07,AU,SME,Starter,Referral,False,31,63.36,False,,1537.17
+SLEEK-1986,2024-08-23,SG,SME,Full Compliance,Partner,False,32,130.05,True,2024-12,6743.89
+SLEEK-1987,2023-11-27,HK,Startup,Full Compliance,Organic,False,7,89.24,True,2024-04,4282.3
+SLEEK-1988,2024-02-08,HK,Startup,Growth,Paid,False,5,301.64,False,,4352.7
+SLEEK-1989,2023-09-29,AU,SME,Full Compliance,Organic,False,16,106.29,True,2024-10,13969.6
+SLEEK-1990,2022-10-10,SG,SME,Growth,Organic,False,22,84.01,True,2022-10,1409.97
+SLEEK-1991,2022-02-21,SG,Corporate,Growth,Organic,False,107,68.21,False,,101239.39
+SLEEK-1992,2024-01-08,AU,Startup,Growth,Partner,False,7,184.32,False,,6013.32
+SLEEK-1993,2022-01-09,SG,SME,Full Compliance,Organic,True,16,86.27,False,,31783.67
+SLEEK-1994,2024-02-08,SG,Startup,Starter,Paid,False,8,280.83,False,,1498.45
+SLEEK-1995,2022-01-01,SG,Startup,Growth,Paid,False,8,361.58,True,2024-03,11496.7
+SLEEK-1996,2024-07-30,HK,Corporate,Growth,Referral,True,108,81.29,False,,21641.9
+SLEEK-1997,2023-02-14,SG,SME,Growth,Partner,False,12,168.78,False,,12117.15
+SLEEK-1998,2022-11-22,HK,Startup,Growth,Referral,True,8,82.76,True,2023-08,6559.07
+SLEEK-1999,2023-03-13,SG,Startup,Starter,Partner,True,8,129.05,True,2023-12,3042.88
+SLEEK-2000,2023-09-12,SG,Startup,Full Compliance,Paid,False,5,448.72,False,,9424.13
