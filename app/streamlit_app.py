@@ -192,7 +192,14 @@ with tab1:
 
     # ── Overview commentary ────────────────────────────────────────────────────
     st.subheader("🤖 AI Analysis")
-    st.markdown(overview)
+    
+    import re
+    formatted = overview
+    for section in ["Overall Performance", "Key Highlights", "Revenue Mix",
+                    "Customer Churn", "Customer Acquisition Cost", "Watch Out"]:
+        formatted = formatted.replace(f"────────────────────────────────────────────────────\n{section}:", f"\n**{section}:**")
+    formatted = re.sub(r'─+', '', formatted)
+    st.markdown(formatted)
 
 # ══════════════════════════════════════════════════════════════════════════════
 # TAB 2 — ANOMALIES
