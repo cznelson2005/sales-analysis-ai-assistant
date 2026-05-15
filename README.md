@@ -41,7 +41,7 @@ sales-ai-assistant/
     ├── orchestrator.py          # Data fetching layer (DuckDB SQL)
     └── agents.py                # LLM agent functions
 ```
-*Note on results dataset: For demo purposes results are pre-computed. In production this would call the API live with any user-selected date range
+Note on results dataset: For demo purposes results are pre-computed. In production this would call the API live with any user-selected date range
 ---
 
 ## 🤖 Agent Design
